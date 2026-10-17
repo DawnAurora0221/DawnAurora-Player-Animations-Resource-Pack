@@ -1,1 +1,0 @@
-# dawnaurora-player-animation-resource-pack
