@@ -1,0 +1,58 @@
+**DawnAurora's Player Animation – Alpha v0.0.1**
+Short Name: **Dapa**
+Game Version: **Minecraft 1.20.1**
+Loader: **Fabric**
+Type: **Animation Resource Pack**
+
+#### First Alpha Release
+
+This is the first public preview of **Dapa**, an animation resource pack that completely overhauls vanilla Minecraft player animations. It requires **ETF** and **EMF** to work.
+
+#### Completed Features
+
+- Custom idle animations
+- Custom head yaw and pitch animations
+- Custom running animation at default speed
+- Custom sprint animation
+- Custom swimming animation
+- Custom sneaking animation
+- Custom prone animation
+- Custom mount state animations
+- Custom elytra gliding animation
+- Custom attack and interaction animations
+- Smooth animation transitions when equipping or using items
+- Tight armor texture styling
+
+#### New Additions
+
+- Low-speed walk animation
+- Crawl state and animations
+- Climb state and animations
+- Wade animation for shallow water and lava
+- Jump, fall and land animations
+- Water treading animation as the default in-water state
+- Upward swimming animation
+- Sleep animation
+- First-person hand animations
+- Cape animations
+- Elytra animations
+- Locked rotation when climbing ladders
+- Backward walking, running, sneaking, crawling and wading animations
+- Strafing animations for walk, run and sneak
+- Body lean and tilt animations
+
+#### Work In Progress
+
+- Custom shield blocking animation
+- Equipment and hotbar swap animation
+- Armor state animations
+- Torch holding animation
+- Lantern holding animation
+- Player hurt / damage animation
+- Respackopts configuration support
+
+#### ️ Notes
+
+- This is an **Alpha Early Preview**. Animation glitches, instability or frame errors may occur.
+- This pack is **client-side only**.
+- **ETF** and **EMF** are required. Without them, the animations will not load.
