@@ -23,6 +23,10 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Resource%20Pack-618c43?logo=minecraft&logoColor=white)]()
 
+[![Minecraft](https://img.shields.io/badge/Minecraft-Resource%20Pack-618c43?logo=minecraft&logoColor=white)]()
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 <p style="color: #c4b5fd; font-size: 1.1em; margin: 0 0 15px 0;">
   <b>Dapa</b> · Minecraft 1.20.1 · Fabric · Alpha Early Preview
 </p>
