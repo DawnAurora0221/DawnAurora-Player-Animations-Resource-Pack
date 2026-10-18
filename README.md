@@ -23,7 +23,7 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Resource%20Pack-618c43?logo=minecraft&logoColor=white)]()
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-Resource%20Pack-618c43?logo=minecraft&logoColor=white)]()
+[![Original Resource Pack](https://img.shields.io/badge/Type-Original%20Resource%20Pack-brightgreen)]()
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
