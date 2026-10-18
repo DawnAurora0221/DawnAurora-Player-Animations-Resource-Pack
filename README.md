@@ -43,7 +43,7 @@
     background: linear-gradient(90deg, #7c3aed, #06b6d4);
     color: #fff; padding: 4px 14px; border-radius: 20px;
     font-size: 0.85em; font-weight: bold;
-  ">v0.1.0-alpha</span>
+  ">alpha</span>
 
   <span style="
     background: linear-gradient(90deg, #06b6d4, #10b981);
