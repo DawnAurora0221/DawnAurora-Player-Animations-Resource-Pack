@@ -21,6 +21,8 @@
   letter-spacing: 2px;
 ">✨ DawnAurora Player Animation</h1>
 
+[![Minecraft](https://img.shields.io/badge/Minecraft-Resource%20Pack-618c43?logo=minecraft&logoColor=white)]()
+
 <p style="color: #c4b5fd; font-size: 1.1em; margin: 0 0 15px 0;">
   <b>Dapa</b> · Minecraft 1.20.1 · Fabric · Alpha Early Preview
 </p>
