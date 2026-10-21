@@ -19,7 +19,6 @@
   font-size: 2.8em;
   margin: 0 0 10px 0;
   letter-spacing: 2px;
-">✨ DawnAurora Player Animation</h1>
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Resource%20Pack-618c43?logo=minecraft&logoColor=white)]()
 
@@ -32,6 +31,8 @@
 [![License](https://img.shields.io/badge/License-CC%20--BY--NC--SA%204.0-a83232?logo=creativecommons&logoColor=white&style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [![Website](https://img.shields.io/badge/Website-projects.dawnaurora.eu.cc-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects.dawnaurora.eu.cc)
+
+">✨ DawnAurora Player Animation</h1>
 
 <p style="color: #c4b5fd; font-size: 1.1em; margin: 0 0 15px 0;">
   <b>Dapa</b> · Minecraft 1.20.1 · Fabric · Alpha Early Preview
