@@ -32,6 +32,8 @@
 
 [![Website](https://img.shields.io/badge/Website-projects.dawnaurora.eu.cc-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects.dawnaurora.eu.cc)
 
+[![Website](https://img.shields.io/badge/Website-projects-dawnaurora.infinityfreeapp.com-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects-dawnaurora.infinityfreeapp.com)
+
 [![Bilibili](https://img.shields.io/badge/Bilibili-DawnAurora0221-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/3493082945293109)
 
 ✨ DawnAurora Player Animation</h1>
