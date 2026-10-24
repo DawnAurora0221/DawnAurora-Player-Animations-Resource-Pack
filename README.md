@@ -32,7 +32,11 @@
 
 [![Website](https://img.shields.io/badge/Website-projects.dawnaurora.eu.cc-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects.dawnaurora.eu.cc)
 
-[![Website](https://img.shields.io/badge/Website-projects-dawnaurora.infinityfreeapp.com-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects-dawnaurora.infinityfreeapp.com)
+[![Website](https://img.shields.io/badge/Website-projects--dawnaurora.infinityfreeapp.com-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects--dawnaurora.infinityfreeapp.com)
+
+[![Website](https://img.shields.io/badge/Website-projects--dawnaurora.freehosting.dev-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects--dawnaurora.freehosting.dev)
+
+[![Website](https://img.shields.io/badge/Website-projects--dawnaurora.freedev.app-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects--dawnaurora.freedev.app)
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-DawnAurora0221-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/3493082945293109)
 
