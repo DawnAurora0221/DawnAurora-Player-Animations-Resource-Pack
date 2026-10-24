@@ -30,8 +30,6 @@
 
 [![License](https://img.shields.io/badge/License-CC%20--BY--NC--SA%204.0-a83232?logo=creativecommons&logoColor=white&style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[![Website](https://img.shields.io/badge/Website-projects.dawnaurora.eu.cc-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects.dawnaurora.eu.cc)
-
 [![Website](https://img.shields.io/badge/Website-projects--dawnaurora.infinityfreeapp.com-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects--dawnaurora.infinityfreeapp.com)
 
 [![Website](https://img.shields.io/badge/Website-projects--dawnaurora.freehosting.dev-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects--dawnaurora.freehosting.dev)
