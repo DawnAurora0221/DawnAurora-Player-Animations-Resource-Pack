@@ -24,8 +24,6 @@
 
 [![Website](https://img.shields.io/badge/Website-projects--dawnaurora.freehosting.dev-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects--dawnaurora.freehosting.dev)
 
-[![Website](https://img.shields.io/badge/Website-projects--dawnaurora.freedev.app-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects--dawnaurora.freedev.app)
-
 **✨ A lightweight, pure hand-coded CEM player animation suite for Minecraft. ✨**
 **✨ 一款纯手搓、极致轻量的 Minecraft CEM 玩家动作优化套件。 ✨**
 
