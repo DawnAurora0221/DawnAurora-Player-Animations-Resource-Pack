@@ -25,11 +25,9 @@
 [![Website](https://img.shields.io/badge/Website-projects--dawnaurora.freehosting.dev-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects--dawnaurora.freehosting.dev)
 
 **✨ A lightweight, pure hand-coded CEM player animation suite for Minecraft. ✨**
-**✨ 一款纯手搓、极致轻量的 Minecraft CEM 玩家动作优化套件。 ✨**
+**✨ 一款纯手编写✍🏻、极致轻量的 Minecraft CEM 玩家动作优化套件。 ✨**
 
 </div>
-
----
 
 ## 📖 关于项目 / About The Project
 
@@ -39,11 +37,9 @@ Welcome to **DawnAurora**! This is a fully open-source Minecraft Java Edition an
 We focus on a minimalist "Inheritance-based" code architecture. Our goal is to provide the smoothest and most natural animation experience with the absolute minimum file size, ensuring that even low-end devices (like Snapdragon 660) can run perfectly without any lag.
 
 **🇨🇳 中文:**
-欢迎来到 **DawnAurora**！这是一个完全开源的 Minecraft Java 版动作优化项目。本项目的所有 JSON 模型与动画代码均由独立开发者 **100% 纯手搓**（拒绝 AI 生成，拒绝盗用素材）。
+欢迎来到 **DawnAurora**！这是一个完全开源的 Minecraft Java 版动作优化项目。本项目的所有 JSON 模型与动画代码均由独立开发者 **100% 纯手编写✍🏻**（拒绝 AI 生成，拒绝盗用素材）。
 
 我们致力于研究极简的“继承路线”代码架构。我们的目标是：用极小的文件体积，为玩家提供最流畅、最自然的动作体验。即使是低配手机（如骁龙 660）也能满帧流畅运行。
-
----
 
 ## 🌟 双核心版本 / The Two Editions
 
@@ -72,8 +68,6 @@ We focus on a minimalist "Inheritance-based" code architecture. Our goal is to p
 > 主包由于 3D 物品工程量巨大，目前随缘慢更（甚至停更）。但 **萌系分支（Bouncy）将作为未来的主力项目，积极、高频地维护与更新！** 后续会加入更多可爱的表情（眨眼、动作等），敬请期待！
 > (The Main Pack is currently paused due to the heavy workload. However, the **Bouncy Edition will be actively maintained** with frequent cute updates!)
 
----
-
 ## ⚠️ 前置要求与兼容性 / Dependencies
 
 在安装本资源包之前，请**务必**检查以下条件，否则动画不会生效！
@@ -83,8 +77,6 @@ We focus on a minimalist "Inheritance-based" code architecture. Our goal is to p
     *   **EMF (Entity Model Features)**
     *   **ETF (Entity Texture Features)**
 *   ❌ **OptiFine / 高清修复**: **严格不兼容！** (Strictly NOT supported. Please remove OptiFine, or animations will break).
-
----
 
 ## 🛠️ 安装与配置教程 / Installation & Configuration
 
@@ -100,8 +92,6 @@ We focus on a minimalist "Inheritance-based" code architecture. Our goal is to p
     *   *(这是保证你第一人称视角不穿模、不抖动的核心设置！)*
 5. 🔄 建议按 `F3 + T` 重载资源包，或者完全重启游戏。
 
----
-
 ## 🐛 常见问题排查 / FAQ
 
 **Q: 为什么我的动作依然是原版僵硬的？**
@@ -113,8 +103,6 @@ A: 请回到上方的【安装与配置教程】第 4 步，务必在 EMF 设置
 **Q: 可以在服务器里用吗？**
 A: 完全可以！这是一个纯客户端资源包，只要你装了前置，进任何服务器都能看到自己的萌系动作。
 
----
-
 ## 🔗 官方链接与极速下载 / Links & Downloads
 
 由于部分地区网络受限（如中国大陆），请优先使用下方自建的极速直链下载：
@@ -124,8 +112,6 @@ A: 完全可以！这是一个纯客户端资源包，只要你装了前置，�
 *   🚀 **国内极速备用官网**: [projects-dawnaurora.freehosting.dev](https://projects-dawnaurora.freehosting.dev)
 *   🌍 **国际站 (Modrinth)**: [DawnAurora Main](https://modrinth.com/project/9zONMaz7) / [Bouncy Edition](https://modrinth.com/project/gULevikZ)
 *   📺 **B站实机演示与反馈**: [DawnAurora0221](https://space.bilibili.com/3493082945293109)
-
----
 
 ## 📜 开源协议 / License
 
