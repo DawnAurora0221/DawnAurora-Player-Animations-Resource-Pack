@@ -3,17 +3,27 @@
 # 🌅 DawnAurora Player Animations
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Resource%20Pack-618c43?logo=minecraft&logoColor=white)]()
+
 [![Original Resource Pack](https://img.shields.io/badge/Type-Original%20Resource%20Pack-brightgreen)]()
+
+[![Type](https://img.shields.io/badge/Type-Player%20Animations-pink)]()
+
 [![License](https://img.shields.io/badge/License-CC%20--BY--NC--SA%204.0-a83232?logo=creativecommons&logoColor=white&style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-DawnAurora0221-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/DawnAurora0221)
+
 [![Modrinth Main](https://img.shields.io/badge/Modrinth-Main%20Pack-1bd96a?logo=modrinth&logoColor=white&style=flat-square)](https://modrinth.com/project/9zONMaz7)
+
 [![Modrinth Bouncy](https://img.shields.io/badge/Modrinth-Bouncy%20Edition-pink?logo=modrinth&logoColor=white&style=flat-square)](https://modrinth.com/project/gULevikZ)
-[![BBSMC](https://img.shields.io/badge/BBSMC-%E5%9B%BD%E5%86%85%E4%B8%8B%E8%BD%BD-blueviolet?logo=cloudflare&logoColor=white&style=flat-square)](https://bbsmc.net/DawnAurora0221)
+
+[![BBSMC](https://img.shields.io/badge/BBSMC-%E5%9B%BD%E5%86%85%E4%B8%8B%E8%BD%BD-blueviolet?logo=cloudflare&logoColor=white&style=flat-square)](https://bbsmc.net/user/DawnAurora0221)
+
 [![Bilibili](https://img.shields.io/badge/Bilibili-DawnAurora0221-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/3493082945293109)
 
 [![Website](https://img.shields.io/badge/Website-projects--dawnaurora.infinityfreeapp.com-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects--dawnaurora.infinityfreeapp.com)
+
 [![Website](https://img.shields.io/badge/Website-projects--dawnaurora.freehosting.dev-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects--dawnaurora.freehosting.dev)
+
 [![Website](https://img.shields.io/badge/Website-projects--dawnaurora.freedev.app-58a6ff?logo=cloudflare&logoColor=white&style=flat-square)](https://projects--dawnaurora.freedev.app)
 
 **✨ A lightweight, pure hand-coded CEM player animation suite for Minecraft. ✨**
