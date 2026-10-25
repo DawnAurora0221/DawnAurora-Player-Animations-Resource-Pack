@@ -119,8 +119,9 @@ A: 完全可以！这是一个纯客户端资源包，只要你装了前置，�
 
 由于部分地区网络受限（如中国大陆），请优先使用下方自建的极速直链下载：
 
-*   🇨🇳 **国内社区 (BBSMC)**: [https://bbsmc.net/DawnAurora0221](https://bbsmc.net/DawnAurora0221) *(推荐国内玩家使用)*
-*   🚀 **国内极速官网**: [projects-dawnaurora.freedev.app](https://projects-dawnaurora.freedev.app)
+*   🇨🇳 **国内社区 (BBSMC)**: [https://bbsmc.net/DawnAurora0221](https://bbsmc.net/user/DawnAurora0221)
+*   🚀 **国内极速官网**: [projects-dawnaurora.infinityfreeapp.com](https://projects-dawnaurora.infinityfreeapp.com)
+*   🚀 **国内极速备用官网**: [projects-dawnaurora.freehosting.dev](https://projects-dawnaurora.freehosting.dev)
 *   🌍 **国际站 (Modrinth)**: [DawnAurora Main](https://modrinth.com/project/9zONMaz7) / [Bouncy Edition](https://modrinth.com/project/gULevikZ)
 *   📺 **B站实机演示与反馈**: [DawnAurora0221](https://space.bilibili.com/3493082945293109)
 
