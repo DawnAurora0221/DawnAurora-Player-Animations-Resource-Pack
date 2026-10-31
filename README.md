@@ -88,7 +88,7 @@ DawnAurora 彻底颠覆了原版僵硬的玩家模型！通过底层重写物理
 👉 <strong>A</strong>: 你肯定同时安装了 OptiFine 和 EMF/ETF！它们是死敌，必须删掉一个，让它们二选一。 (You installed OptiFine and EMF/ETF together. They are enemies, delete one.)</p>
 
 <p><strong>❓ Q: 动作不生效，史蒂夫依然僵硬？ (Animations not working?)</strong><br>
-👉 <strong>A</strong>: 1. 没装前置模组（EMF/ETF 或 OF）。2. 忘了在视频设置里开启“自定义实体模型 (CEM)”。3. 被其他动作包（如 Fresh Animations）覆盖了，请把你的包移到资源包列表**最顶端**！ (Check deps, enable CEM, move to top of pack list.)</p>
+👉 <strong>A</strong>: 1. 没装前置模组（EMF/ETF 或 OptiFine）。2. 忘了在视频设置里开启“自定义实体模型 (CEM)”。3. 被其他动作包（如 Fresh Animations）覆盖了，请把你的包移到资源包列表**最顶端**！ (Check deps, enable CEM, move to top of pack list.)</p>
 
 <p><strong>❓ Q: 第一人称举火把抬不起手/穿模？ (First-person torch bug?)</strong><br>
 👉 <strong>A</strong>: 这是一个已知的 Alpha 骨骼节点 Bug。我们正在疯狂掉头发地修复它，将在下个版本彻底干碎！ (Known Alpha skeleton bug. We are fixing it in the next update!)</p>
@@ -109,7 +109,7 @@ DawnAurora 彻底颠覆了原版僵硬的玩家模型！通过底层重写物理
 <li>⚠️ <strong>Better Combat (更好的战斗)</strong>: 需要安装 EMF Compat 补丁。 (Requires EMF Compat patch.)</li>
 <li>⚠️ <strong>Not Enough Animations (NEA)</strong>: 需要安装 EMF Compat 补丁。 (Requires EMF Compat patch.)</li>
 <li>❌ <strong>Custom Player Animations (CPA)</strong>: 严重冲突！请勿同时使用。(Incompatible!)</li>
-<li>❌ <strong>Serious Player Animations</strong>: 严重冲突！请勿同时使用。(Incompatible!)</li>
+<li>❌ <strong>Serious Player Animations (SPA)</strong>: 严重冲突！请勿同时使用。(Incompatible!)</li>
 </ul>
 
 <hr>
