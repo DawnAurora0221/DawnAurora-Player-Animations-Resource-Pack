@@ -1,137 +1,138 @@
-# 🌅 DawnAurora Player Animations
+<h1>🌅✨🚀 DawnAurora Smooth - 流畅物理惯性 CEM 动作包 (v0.0.X Alpha) 🚀✨🌅</h1>
 
-A smooth & lightweight CEM player animation pack for Minecraft.
-一款丝滑且极轻量的 Minecraft CEM 玩家动作资源包。
+<p><strong>👋 Welcome to the DawnAurora Cyber World! 欢迎来到 DawnAurora 的赛博世界！</strong></p>
 
-[![Modrinth](https://img.shields.io/modrinth/dt/9zONMaz7?style=flat&label=Modrinth&logo=modrinth&color=1bd96a)](https://modrinth.com/resourcepack/9zONMaz7)
+<p><strong>Experience the most fluid, soul-injected Minecraft player animations ever created.</strong><br>
+<strong>体验有史以来最丝滑、注入了真正灵魂的 Minecraft 玩家动作！</strong></p>
 
-[![CurseForge](https://img.shields.io/curseforge/dt/1765444?style=flat&label=CurseForge&logo=curseforge&color=F16436)](https://www.curseforge.com/minecraft/texture-packs/dawnaurora-player-animations)
+<p>DawnAurora Smooth completely revolutionizes the vanilla player model. By rewriting the underlying physics engine, we have introduced real weight, momentum, and life into your character. From dynamic blinking to physical cape sway, every movement is meticulously calculated using real-time variables (<code>limb_speed</code>, <code>jump</code>, <code>fall</code>, <code>tread</code>, <code>land</code>).<br>
+DawnAurora 彻底颠覆了原版僵硬的玩家模型！通过底层重写物理引擎，我们赋予了你的角色真实的重量感、惯性以及生命力。从动态眨眼到披风物理摆动，每一个动作都基于底层变量进行了极其精密的实时计算。</p>
 
-[![BBSMC](https://img.shields.io/badge/BBSMC-DawnAurora0221-D32F2F?style=flat&logoColor=white)](https://bbsmc.net/user/DawnAurora0221)
+<p><strong>✨ Why choose us? 为什么选择我们？</strong><br>
+✅ <strong>Ultra-Lightweight 极致轻量化:</strong> Only 1.99MB! 仅有 1.99MB！低配核显福音，保证绝对不掉帧 (Zero FPS Drop)！<br>
+✅ <strong>Authentic Vanilla 纯正原版风:</strong> No flashy clutter. 告别花里胡哨，只做最贴合原版美学的动作优化！<br>
+✅ <strong>Epoch-Making 划时代细节:</strong> Hand-crafted blinking & cape physics. 纯手搓的眨眼与全动态披风系统！<br>
+✅ <strong>Global Release 全球发布:</strong> Available on CurseForge & Modrinth! 同步登陆 CurseForge 与 Modrinth 国际双端！</p>
 
-[![GitHub](https://img.shields.io/github/stars/DawnAurora0221?style=flat&label=GitHub&logo=github&color=181717)](https://github.com/DawnAurora0221)
+<hr>
 
-[![Requires EMF (Modrinth)](https://img.shields.io/badge/Requires%20EMF-Modrinth-blue?style=flat)](https://modrinth.com/mod/entity-model-features)
+<p><strong>🌐 官方权威发布平台 & 源码仓库 (Official Platforms & Repository)</strong></p>
+<p>Experience the true power on the international stage! 在国际舞台体验真正的实力！</p>
+<p><a href="https://modrinth.com/resourcepack/9zONMaz7"><img src="https://img.shields.io/modrinth/dt/9zONMaz7?style=flat&label=Modrinth&logo=modrinth&color=1bd96a" alt="Modrinth"></a></p>
+<p><a href="https://www.curseforge.com/projects/1775005"><img src="https://img.shields.io/curseforge/dt/1775005?style=flat&label=CurseForge&logo=curseforge&color=F16436" alt="CurseForge"></a></p>
+<p><a href="https://bbsmc.net/resourcepack/dawnaurora-player-animations"><img src="https://img.shields.io/badge/BBSMC-DawnAurora Resource Pack-D32F2F?style=flat&logoColor=white" alt="BBSMC"></a></p>
+<p><a href="https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack"><img src="https://img.shields.io/badge/GitHub-DawnAurora_Resource_Pack-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repository"></a></p>
 
-[![Requires EMF (CurseForge)](https://img.shields.io/badge/Requires%20EMF-CurseForge-orange?style=flat)](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)
+<hr>
 
-[![Requires ETF (Modrinth)](https://img.shields.io/badge/Requires%20ETF-Modrinth-blue?style=flat)](https://modrinth.com/mod/entitytexturefeatures)
+<p><strong>⚙️ 终极依赖与硬核安装指南 (Dependencies & Installation)</strong></p>
+<p><strong>🚨 IMPORTANT: Please read carefully! 重要提示：请仔细阅读！🚨</strong></p>
 
-[![Requires ETF (CurseForge)](https://img.shields.io/badge/Requires%20ETF-CurseForge-orange?style=flat)](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
+<p>This pack requires a CEM engine to run. <strong>You DO NOT necessarily need to bind all of them. 本资源包并非强制绑定所有引擎，请根据你的环境选择合适的方案：</strong></p>
+<p><strong>⚠️ CRITICAL: OptiFine and EMF/ETF are mutually exclusive. NEVER install them together, or your game WILL crash! ⚠️ 严重警告：OptiFine 与 EMF/ETF 互斥，绝对不能同时安装，否则游戏必定崩溃！</strong></p>
 
-[![License](https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-purple?style=flat)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+<p><strong>🟢 Option 1 (Highly Recommended / 极力推荐): EMF + ETF</strong> <em>(Modern Fabric/Forge/NeoForge environments. 现代模组加载器首选。)</em></p>
+<ul>
+<li>EMF (Entity Model Features): <a href="https://www.curseforge.com/minecraft/mc-mods/entity-model-features">CurseForge</a> | <a href="https://modrinth.com/mod/entity-model-features">Modrinth</a></li>
+<li>ETF (Entity Texture Features): <a href="https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric">CurseForge</a> | <a href="https://modrinth.com/mod/entitytexturefeatures">Modrinth</a></li>
+</ul>
 
----
+<p><strong>🟡 Option 2 (Legacy / 老方案): OptiFine</strong> <em>(HD U H1 or higher. 高清修复老玩家直接放入即可。)</em></p>
 
-## 📑 Table of Contents / 目录导航
+<p><strong>🛠️ 极客安装步骤 (Installation Steps):</strong><br>
+1. Download the <code>.zip</code> file. (下载 <code>.zip</code> 压缩包)<br>
+2. Place it into <code>.minecraft/resourcepacks/</code>. (拖入游戏资源包根目录，切勿解压！)<br>
+3. Enable the pack in-game. (在游戏内资源包界面启用它)<br>
+4. <strong>CRITICAL:</strong> Ensure <strong>"Custom Entity Models"</strong> is turned <strong>ON</strong> in Video Settings. (<strong>极其关键</strong>：去视频设置里把“自定义实体模型”开到 ON，否则动作全部失效！)</p>
 
-- [Preview / 媒体预览](#-preview--媒体预览)
-- [Introduction / 项目简介](#-introduction--项目简介)
-- [Why Choose DawnAurora? / 为什么选择它？](#-why-choose-dawnaurora--为什么选择它)
-- [Key Features / 核心特性](#-key-features--核心特性)
-- [Dependencies / 前置依赖](#️-dependencies--前置依赖)
-- [Installation / 安装指南](#-installation--安装指南)
-- [Compatibility Matrix / 兼容性矩阵](#-compatibility-matrix--兼容性矩阵)
-- [Troubleshooting & FAQ / 常见问题排查](#-troubleshooting--faq--常见问题排查)
-- [Known Issues / 已知问题](#️-known-issues--已知问题)
-- [Community & Support / 社区与支持](#-community--support--社区与支持)
-- [License / 开源协议](#-license--开源协议)
+<hr>
 
-## 🎬 Preview / 媒体预览
+<p><strong>🎮 数十种完整动作全景解析 (Complete Animation Showcase)</strong></p>
+<p>We have meticulously hand-crafted DOZENS of animations for every possible state. Every movement has real physics!<br>
+我们为你可能触发的每一个状态都手搓了极其精细的动作，每一次移动都有真实的物理反馈！</p>
 
-*(建议在此处插入几张极具代表性的游戏实机截图或GIF动图)*
+<p><strong>🏃‍♂️ 一、 移动与位移全景 (Locomotion & Movement)</strong></p>
+<ul>
+<li>🚶‍♂️ <strong>Walking & Sprinting (行走与疾跑)</strong>: Natural body lean and fluid arm swings. No more mechanical pendulum! (身体自然前倾与流畅摆臂，告别机械钟摆式的死板走路，起步带有重量感。)</li>
+<li>🥷 <strong>Sneaking (潜行)</strong>: Body weight shifts naturally, with the dynamic cape drooping elegantly. (重心自然下沉，极具潜行感，同时你的动态披风会受重力影响优雅下垂。)</li>
+<li>🕊️ <strong>Flying & Hovering (飞行与悬停)</strong>: Superman-style flight with dynamic pitch tilting. The cape flaps wildly! (超人式飞行姿态，随鼠标视角俯仰产生动态倾斜，披风在高速气流中疯狂猎猎作响！)</li>
+<li>🏊‍♂️ <strong>Swimming (游泳)</strong>: Realistic water resistance physics for every stroke. (真实的划水阻力物理反馈，每一次摆臂都充满水下的力量感。)</li>
+<li>🧗‍♂️ <strong>Ladder Climbing (爬梯子)</strong>: Alternating arm pulls with authentic muscle tension. (手臂交替发力攀爬，肌肉拉扯感直接拉满。)</li>
+<li>🍂 <strong>Soft Falling (轻微下落)</strong>: Light, weightless descent to balance the air. (轻盈失重感，四肢微张平衡空气阻力，体验真实的坠落感。)</li>
+</ul>
 
-## 📖 Introduction / 项目简介
+<p><strong>⚔️ 二、 战斗与工具交互 (Combat & Tools)</strong></p>
+<ul>
+<li>🗡️ <strong>Sword Attack (剑击)</strong>: Heavy, impactful swings with smooth combos and physical recoil. (极具爆发力与重量感的劈砍，刀刀到肉，带有丝滑连招和后坐力。)</li>
+<li>👊 <strong>Bare-handed Punch (空手攻击)</strong>: Hardcore, weighty fist attacks with extreme torque. (硬核重拳出击，腰马合一的扭矩发力感。)</li>
+<li>🏹 <strong>Bow & Arrow (拉弓射箭)</strong>: Tense drawing animation and realistic recoil upon shooting. (拉满弓的紧绷感，箭矢射出瞬间带有强烈的物理后坐力。)</li>
+<li>🔱 <strong>Trident Throw (投掷三叉戟)</strong>: Powerful charge-up and violent throwing momentum. (蓄力千钧之势，投掷瞬间的狂暴动能，感受三叉戟的千钧重量！)</li>
+<li>⛏️ <strong>Mining (镐子挖掘)</strong>: Weighty swings that hit blocks with immense force. (砸向方块的沉重打击感，甚至能感受到力量砸碎方块时的回弹！)</li>
+<li>🪏 <strong>Shoveling & Farming (铲子与锄头)</strong>: Realistic waist and shoulder exertion. (铲土与耕地时极其真实的腰部下沉发力感，让种田也极其解压。)</li>
+<li>🛡️ <strong>Item Switching (物品切换)</strong>: Extremely smooth <code>requip</code>/<code>lequip</code> transitions. (切换快捷栏物品时极其平滑的拔刀与收刀前摇，彻底告别瞬间闪现！)</li>
+<li>🔭 <strong>Spyglass (望远镜)</strong>: Realistic weight with a subtle breathing sway. (举起望远镜时的真实重量感，长按观察时带有微弱的呼吸晃动。)</li>
+</ul>
 
-**DawnAurora** is a next-generation custom player animation pack designed for Minecraft 1.20.1 and 1.20. It completely eliminates the stiff, robotic movements of vanilla Minecraft, replacing them with fluid, realistic, and physics-driven inertia, all while strictly preserving the original vanilla aesthetic. 
+<p><strong>🍎 三、 环境与生存细节 (Ambient & Survival)</strong></p>
+<ul>
+<li>🍗 <strong>Eating (进食)</strong>: Natural chewing movements and head tilts. (极其自然的咀嚼动作与头部微倾，告别把食物直接糊在脸上的敷衍！)</li>
+<li>🧪 <strong>Drinking (喝水)</strong>: Realistic bottle tilting and fluid swallowing physics. (仰头喝水的真实液体吞咽物理反馈，瓶口倾斜角度完美调校。)</li>
+<li>💥 <strong>Hurt & Knockback (受伤与击退)</strong>: Realistic physical knockback and body flinching. (真实的物理受击后仰、身体抽搐与极具代入感的镜头震动反馈。)</li>
+</ul>
 
-With an incredibly small file size of just 1.99MB, it proves that high-quality animations do not require massive downloads or heavy performance costs.
+<hr>
 
-**DawnAurora** 是一款专为 Minecraft 1.20.1 和 1.20 打造的新一代玩家动作资源包。它彻底告别了原版僵硬、机械的动作，引入了基于物理引擎的丝滑惯性，同时完美保留了原汁原味的原版画风。
+<p><strong>🛠️ 终极排障与百科全书级急救指南 (Ultimate Troubleshooting)</strong></p>
 
-其仅有 1.99MB 的超小体积证明了：顶级质量的动画，不需要牺牲庞大的存储空间和游戏性能。
+<p><strong>❓ Q: 安装后游戏直接崩溃？ (Game crashes immediately?)</strong><br>
+👉 <strong>A</strong>: 你肯定同时安装了 OptiFine 和 EMF/ETF！它们是死敌，必须删掉一个，让它们二选一。 (You installed OptiFine and EMF/ETF together. They are enemies, delete one.)</p>
 
-## 🌟 Why Choose DawnAurora? / 为什么选择它？
+<p><strong>❓ Q: 动作不生效，史蒂夫依然僵硬？ (Animations not working?)</strong><br>
+👉 <strong>A</strong>: 1. 没装前置模组（EMF/ETF 或 OF）。2. 忘了在视频设置里开启“自定义实体模型 (CEM)”。3. 被其他动作包（如 Fresh Animations）覆盖了，请把你的包移到资源包列表**最顶端**！ (Check deps, enable CEM, move to top of pack list.)</p>
 
-*   **Zero Compromise on Performance / 拒绝性能妥协**：Unlike other heavy animation packs, DawnAurora uses highly optimized model nodes to guarantee zero FPS drops even on integrated graphics. (不同于臃肿的动作包，我们进行了极致的节点优化，即使在核显电脑上也能保证满帧运行。)
-*   **Pure Vanilla Feel / 纯正原版体验**：No unnecessary visual clutter. It simply makes the game feel better and more modern. (不添加任何花哨的视觉干扰，仅仅让游戏动作看起来更现代、更舒适。)
+<p><strong>❓ Q: 第一人称举火把抬不起手/穿模？ (First-person torch bug?)</strong><br>
+👉 <strong>A</strong>: 这是一个已知的 Alpha 骨骼节点 Bug。我们正在疯狂掉头发地修复它，将在下个版本彻底干碎！ (Known Alpha skeleton bug. We are fixing it in the next update!)</p>
 
-## ✨ Key Features / 核心特性
+<p><strong>❓ Q: 会掉帧吗？ (Will this affect my FPS?)</strong><br>
+👉 <strong>A</strong>: 绝对不会。它仅 1.99MB，哪怕是低端电脑也能完美满帧运行。(Absolutely not. It's only 1.99MB, runs flawlessly even on low-end PCs.)</p>
 
-*   🪶 **Ultra-Lightweight (1.99MB) / 极致轻量**: Zero redundant textures, ensuring absolutely no FPS drops. Perfect for low-end PCs and laptops. (零冗余贴图，保证绝对不掉帧，低配电脑和笔记本的终极福音。)
-*   ⚡ **Physics-Based Inertia / 物理惯性**: Dynamic movements calculated based on under-the-hood variables like `limb_speed`, `jump`, `fall`, `tread`, and `land`. (基于底层变量计算的动态动作，告别机械感。)
-*   🎮 **Smooth Transitions / 平滑过渡**: First-person and third-person arms react naturally to walking, jumping, falling, sneaking, prone, and climbing. (第一人称与第三人称手臂会对行走、跳跃、下落、潜行、匍匐和攀爬等状态做出自然的反馈。)
-*   🎨 **Vanilla-Style / 原版风格**: Perfectly matches the original Minecraft art style. It feels like a natural upgrade to the base game. (完美契合 Minecraft 原始美术风格，仿佛原版游戏的画质升级。)
+<p><strong>❓ Q: 我能在服务器或整合包中使用它吗？ (Can I use this in my modpack/server?)</strong><br>
+👉 <strong>A</strong>: 可以！只要不用于商业售卖，并保留作者署名 (DawnAurora0221) 即可。 (Yes, as long as it's non-commercial and you credit the author.)</p>
 
-## ⚙️ Dependencies / 前置依赖
+<hr>
 
-This resource pack requires **ONE** of the following setups to function correctly:
-本资源包需要以下**其中一种**环境才能正常运行：
+<p><strong>⚔️ 兼容性与冲突矩阵 (Compatibility Matrix)</strong></p>
+<ul>
+<li>✅ <strong>EMF + ETF</strong>: 完美兼容 (Perfect)</li>
+<li>✅ <strong>OptiFine</strong>: 原生支持 (Native, choose only one)</li>
+<li>✅ <strong>Shaders (光影)</strong>: 完美兼容 BSL, Complementary 等主流光影。</li>
+<li>⚠️ <strong>Better Combat (更好的战斗)</strong>: 需要安装 EMF Compat 补丁。 (Requires EMF Compat patch.)</li>
+<li>⚠️ <strong>Not Enough Animations (NEA)</strong>: 需要安装 EMF Compat 补丁。 (Requires EMF Compat patch.)</li>
+<li>❌ <strong>Custom Player Animations (CPA)</strong>: 严重冲突！请勿同时使用。(Incompatible!)</li>
+<li>❌ <strong>Serious Player Animations</strong>: 严重冲突！请勿同时使用。(Incompatible!)</li>
+</ul>
 
-*   **Option 1 (Recommended / 推荐)**: **EMF** (Entity Model Features) + **ETF** (Entity Texture Features).
-    *   *Works best on modern Fabric/Forge/NeoForge environments. (在现代模组加载器环境下表现最佳。)*
-*   **Option 2 (Alternative / 替代方案)**: **OptiFine**. 
-    *   ⚠️ **CRITICAL WARNING / 严重警告**: OptiFine is **mutually exclusive** with EMF/ETF. Do **NOT** install them together, or your game will crash! (OptiFine 与 EMF/ETF 互斥，**切勿**同时安装，否则会导致游戏崩溃！)
+<hr>
 
-## 📥 Installation / 安装指南
+<p><strong>📅 史诗级历史更新日志 (Full Changelog History)</strong></p>
+<ul>
+<li>🌟 <strong>v0.0.4 (Current 当前版本)</strong>: 史诗级动态眨眼系统与极致 Q 弹萌系物理反馈，彻底告别死鱼眼！(Epic blinking system & ultra-bouncy Moe physics feedback!)</li>
+<li>🔥 <strong>v0.0.3</strong>: 史诗级火把物理与骨骼极限微调，同时也留下了那个万恶的火把抬不起手 Bug。(Torch physics & tuning, along with the notorious torch bug.)</li>
+<li>🌪️ <strong>v0.0.2</strong>: 披风物理全面重制，告别纸板披风，引入真实空气阻力与重力模拟。(Cape physics overhauled, introducing real air resistance & gravity.)</li>
+<li>🏁 <strong>v0.0.1</strong>: 创世初始版，引入基础物理惯性，梦想开始的地方。(Genesis release, introducing basic physical inertia.)</li>
+</ul>
 
-1. Download the `.zip` file from the Releases tab or the official platforms linked above.
-   (从上方的官方平台链接或 Releases 页面下载 `.zip` 文件。)
-2. Locate your Minecraft directory: `📂 .minecraft/resourcepacks/`
-   (找到你的游戏目录：`📂 .minecraft/resourcepacks/`。)
-3. Drop the downloaded `.zip` file into this folder (Do **NOT** unzip it).
-   (将下载的 `.zip` 文件直接放入该文件夹，**不要**解压。)
-4. Launch Minecraft, go to `Options` -> `Resource Packs`, and enable "DawnAurora".
-   (启动游戏 🎮，进入 `选项` -> `资源包`，启用 "DawnAurora"。)
-5. Ensure your EMF/ETF mods or OptiFine are installed correctly.
-   (确保你的 EMF/ETF 模组或 OptiFine 已正确安装。)
+<hr>
 
-## 🔧 Compatibility Matrix / 兼容性矩阵
+<p><strong>🤝 社区与开源协议 (Community & License)</strong></p>
+<p>📺 <strong>Bilibili:</strong> <a href="https://space.bilibili.com/3493082945293109">DawnAurora0221</a><br>
+🌐 <strong>Official Website / 官网:</strong> <a href="https://projects-dawnaurora.infinityfreeapp.com">DawnAurora Projects</a><br>
+💻 <strong>GitHub 源码:</strong> <a href="https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack">DawnAurora-Player-Animations-Resource-Pack</a></p>
 
-| Environment / 运行环境 | Supported / 是否支持 | Notes / 备注 |
-| :--- | :---: | :--- |
-| **Minecraft 1.20.1** | ✅ | Fully Tested / 完美运行 |
-| **Minecraft 1.20** | ✅ | Fully Tested / 完美运行 |
-| **Fabric / Forge / NeoForge** | ✅ | Requires EMF & ETF / 需要前置模组 |
-| **OptiFine** | ✅ | Requires OptiFine HD U H1+ / 需高清修复 |
-| **Shaders / 光影** | ✅ | BSL, Complementary, etc. / 主流光影兼容 |
-| **Multiplayer / 多人游戏** | ✅ | Client-side only / 纯客户端资源包 |
-| **Bedrock Edition / 基岩版** | ❌ | Not supported / 暂不支持 |
+<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-purple?style=flat" alt="License"></a></p>
 
-## 🐛 Troubleshooting & FAQ / 常见问题排查
+<p><strong>⭐ If you love this project, please give it a heart and share it! / 如果你喜欢这个项目，请给个红心并分享给你的朋友！⭐</strong></p>
 
-**Q: The animations are not working / Why is my player still stiff?**
-**Q: 动画没有生效 / 为什么我的角色还是僵硬的？**
-*   **A:** Please ensure you have installed EMF/ETF (or OptiFine) and enabled the resource pack in-game. Also, check if there are other animation packs overriding this one in the Resource Packs menu. (请确保你安装了 EMF/ETF 或 OptiFine，并在游戏中启用了本资源包。另外，请在资源包菜单检查是否有其他动作包覆盖了本资源包。)
+![EMF](https://cdn.modrinth.com/data/cached_images/f49ec6f51f6c09066853ab5cd609d239b16a2394.png)
 
-**Q: My game crashes after installing / 安装后游戏崩溃了？**
-**Q: 安装后游戏崩溃了？**
-*   **A:** 99% of crashes are caused by installing OptiFine and EMF/ETF at the same time. You must choose only one. (99% 的崩溃是因为同时安装了 OptiFine 和 EMF/ETF。你必须二选一。)
-
-**Q: Will this affect my FPS? / 会影响我的帧数吗？**
-**Q: 会影响我的帧数吗？**
-*   **A:** No. The pack is only 1.99MB and highly optimized. It has minimal impact on performance. (不会。本资源包仅 1.99MB 且经过高度优化，对性能的影响微乎其微。)
-
-## ⚠️ Known Issues / 已知问题
-
-*   🐛 **First-Person Arm Animation Bug / 第一人称持物手臂无法抬起**: In the current version, when holding items, the first-person arm may fail to raise properly or display incorrect animations in certain states. We are actively working on fixing this in the next update. (在当前版本中，手持物品时，第一人称手臂在某些状态下可能会出现无法正常抬起或动画显示异常的问题。我们正在努力在下个版本中修复。)
-*   ❌ **Bedrock Edition / 基岩版**: Not supported. Java Edition only. (暂不支持基岩版，仅支持 Java 版。)
-
-## 🤝 Community & Support / 社区与支持
-
-If you find any bugs or have suggestions, please feel free to open an Issue or contact us via our social platforms.
-如果你发现任何 Bug 或有改进建议，欢迎提交 Issue，或通过我们的社交平台联系我们。
-
-*   **Bilibili (Video Showcase)**: [DawnAurora0221](https://space.bilibili.com/3493082945293109)
-*   **BBSMC (Chinese Community)**: [DawnAurora0221](https://bbsmc.net/user/DawnAurora0221)
-
-⭐ **If you like this project, please consider giving it a Star!**
-⭐ **如果你喜欢这个项目，请给个 Star 支持一下！**
-
-## 📄 License / 开源协议
-
-This project is licensed under the **CC-BY-NC-SA 4.0** (Attribution-NonCommercial-ShareAlike 4.0 International) license.
-本项目采用 **CC-BY-NC-SA 4.0**（署名-非商业性使用-相同方式共享 4.0 国际）协议。
-
-You may share and modify this pack with proper attribution to **DawnAurora0221**, non-commercially. Not affiliated with Mojang or Microsoft.
-您可以自由分享和修改，但必须署名原作者 **DawnAurora0221**，且不得用于商业目的。本项目与 Mojang 或 Microsoft 无任何从属关系。
+![ETF](https://cdn.modrinth.com/data/cached_images/4a9fe8d33f8dcc4a61abf23919d9c04871f41937.png)
