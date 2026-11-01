@@ -1,4 +1,4 @@
-<h1>🌅✨🚀 DawnAurora Smooth - 流畅物理惯性 CEM 动作包 (v0.0.X Alpha) 🚀✨🌅</h1>
+<h1>🌅✨🚀 DawnAurora Smooth Physics - 流畅物理惯性 CEM 动作包 🚀✨🌅</h1>
 
 <p><strong>👋 Welcome to the DawnAurora Cyber World! 欢迎来到 DawnAurora 的赛博世界！</strong></p>
 
