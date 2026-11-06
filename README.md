@@ -1,138 +1,167 @@
-<h1>🌅✨🚀 DawnAurora Smooth Physics - 流畅物理惯性 CEM 动作包 🚀✨🌅</h1>
 
-<p><strong>👋 Welcome to the DawnAurora Cyber World! 欢迎来到 DawnAurora 的赛博世界！</strong></p>
+---
 
-<p><strong>Experience the most fluid, soul-injected Minecraft player animations ever created.</strong><br>
-<strong>体验有史以来最丝滑、注入了真正灵魂的 Minecraft 玩家动作！</strong></p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌅✨🚀🌪️ DawnAurora: Smooth - 灵动极致物理重制版 (The Ultimate Agile Physics Overhaul) 🌪️🚀✨🌅
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p>DawnAurora Smooth completely revolutionizes the vanilla player model. By rewriting the underlying physics engine, we have introduced real weight, momentum, and life into your character. From dynamic blinking to physical cape sway, every movement is meticulously calculated using real-time variables (<code>limb_speed</code>, <code>jump</code>, <code>fall</code>, <code>tread</code>, <code>land</code>).<br>
-DawnAurora 彻底颠覆了原版僵硬的玩家模型！通过底层重写物理引擎，我们赋予了你的角色真实的重量感、惯性以及生命力。从动态眨眼到披风物理摆动，每一个动作都基于底层变量进行了极其精密的实时计算。</p>
+🎩🫡 【 赛博极客的最高礼遇 / The Highest Cyber Geek Salute 】 🫡🎩
+👋 Welcome, Explorer! 欢迎，探险家！ 🌍
+无论你是深入矿洞的生存大师 ⛏️，还是追求极致帧率的硬核极客 🖥️，亦或是为了完美整合包焦头烂额的服主 👑。
+DawnAurora 团队在此，向您致以最隆重、最硬核的 90 度赛博脱帽鞠躬！ 🙇‍♂️✨
+The DawnAurora team bows to you with the most hardcore cyber hat-tip gesture! 🦾
 
-<p><strong>✨ Why choose us? 为什么选择我们？</strong><br>
-✅ <strong>Ultra-Lightweight 极致轻量化:</strong> Only 1.99MB! 仅有 1.99MB！低配核显福音，保证绝对不掉帧 (Zero FPS Drop)！<br>
-✅ <strong>Authentic Vanilla 纯正原版风:</strong> No flashy clutter. 告别花里胡哨，只做最贴合原版美学的动作优化！<br>
-✅ <strong>Epoch-Making 划时代细节:</strong> Hand-crafted blinking & cape physics. 纯手搓的眨眼与全动态披风系统！<br>
-✅ <strong>Global Release 全球发布:</strong> Available on CurseForge & Modrinth! 同步登陆 CurseForge 与 Modrinth 国际双端！</p>
+🛑 【 郑重声明 / Declaration 】 🛑
+本资源包为 100% 纯手搓原创代码！无任何套壳、无洗稿、无恶意抄袭！我们坚守极客底线，只为带来最极致的物理体验！🔥
+This pack is 100% hand-crafted original code! No shell-cloning, no copying. 🛡️
 
-<hr>
+欢迎来到 DawnAurora 的绝对物理宇宙！ 🎉🌟
+Welcome to the DawnAurora Absolute Physics Universe! 🚀
 
-<p><strong>🌐 官方权威发布平台 & 源码仓库 (Official Platforms & Repository)</strong></p>
+这不仅仅是一个资源包，这是一场对 Minecraft 原版“僵尸般僵硬动作”的彻底革命！💥 在这里，我们彻底抛弃了臃肿的模组嵌套。我们坚持 100% 纯手搓底层 CEM 骨骼矩阵，将每一滴算力、每一帧动画都压榨到了极致！🔥👁️ 无论从视觉重量感还是物理阻尼，全部向次世代看齐！🌌
+100% hand-crafted CEM skeleton matrices, pushing every drop of computing power to the absolute limit! 🛡️
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ 【 深渊级物理引擎全解析 / Abyss-Level Physics Engine Deep Dive 】 ✨
+
+🔥 ▶️ 第一人称火把沉浸物理系统 (First-Person Torch Immersive Physics) 💡
+
+· 🌬️ 呼吸微动 (Breathing Sway)：站立待机时，你的火把不再是焊死在屏幕上的铁棍！通过 sin(age/15) 计算，它会随着角色的呼吸产生极其微弱的物理正弦波浮动，连火焰的光影都在呼吸！😮‍💨✨
+· 🚶‍♂️ 钟摆惯性 (Pendulum Inertia)：走路起步时，火把会依据 limb_speed 步频，通过物理公式计算，产生极其真实的钟摆式摇晃，每一次步伐都踩在你的心巴上！🏃‍♂️💨
+· 🪂 失重与重力反馈 (Weight & Airtime Feedback)：从高空坠落时，火把会因为气流向上飘（Updraft）；落地瞬间，火把会因为 Y 轴重力加速度重重下沉，真实的重量感直接爆棚！🔥🎢
+· Torch now has breathing sway, pendulum inertia, and real weight feedback! No more stiff sticks! 🌟
+
+🧥 ▶️ 多轴弹簧折叠布料物理：披风 (Multi-Axis Spring Cloth Folding: Cape) 🌪️
+
+· 🛑 彻底告别糊脸穿模 (No More Face Clipping)：我们重构了披风的受力矩阵！引入了多轴阻尼衰减（Damping Decay）与严苛的 clamp 物理限位。站立待机时，披风受重力影响死寂垂直下垂，一秒治好多动症！🚫👗
+· 🔄 倒退折叠神技 (Backward Folding Physics)：当你按下 S 键倒退时，披风会自动向内收缩，产生极其高级的折叠挤压位移（TX 轴），死死贴在后背上，绝对、绝对不会乱飞糊到脸上！ 🏃‍♂️🌀
+· 🪂 真实风阻与离心力 (Real Wind Resistance)：起步、疾跑、跳跃时，披风下摆会根据你的三维速度向量产生真实的空气阻力，不管是微风吹拂还是疾跑狂舞，布料质感瞬间拉满！💨🏄‍♂️
+· The cape hangs dead when idle, folds inward when walking backward, and NEVER flies into your face! 😎
+
+🕊️ ▶️ 双重刚性空气动力学鞘翅 (Dual-Rigid Aerodynamic Elytra) 🦅
+
+· 🧬 地面刚性贴合 (Rigid Ground Attachment)：在陆地上时，鞘翅的所有局部颤动被物理公式强行屏蔽，绝对不抖、不飘，死如泰山般贴住后背！🛑🗿
+· 🌪️ 滑翔翼尖后掠 (Swept-back Wings)：起飞瞬间，引入极其平滑的空气动力延展感。高频气流震颤与翼尖后掠角完美联动，俯冲时宛如猎鹰振翅！🪂🦅
+· Rigid on the ground, realistic aerodynamic flutter and swept-back wings when gliding! 🚀
+
+👁️‍🗨️ ▶️ 史诗级微表情眨眼系统 (Epic Smooth_Expressions System) 😉
+
+· 🔮 骨骼级挂载 (Bone-Level Attachment)：无需替换任何你心爱的自定义皮肤！直接在头部 CEM 骨骼强行挂载独立的眼皮动画层！👁️🧬
+· 😉 非线性开合 (Smooth Blinking)：极其微小、顺滑、带着一丝萌感的眼皮开合，通过复杂的非线性插值，让你的史蒂夫/艾里克斯彻底告别死鱼眼，拥有了真正的灵魂！💖✨
+· No skin replacement needed! Blink naturally like a real living being with non-linear interpolation! 🦾
+
+🏃‍♂️ ▶️ 全量动作底层物理惯性 (Full-Body Physical Inertia) ⚙️
+
+· 基于极其精准的 limb_speed 和 fall 变量，重写了起步前倾、急停弹簧阻尼、以及落地膝盖缓冲。每一次移动都充满真实的灵动与生命力！🚀🏋️‍♂️
+· Rewritten start-up lean, hard-stop spring damping, and landing buffer. 🏃‍♂️💨
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+☕💀 【 开发者极客修仙日记与咖啡因摄入报告 / Dev's Cultivation Diary & Caffeine Intake 】 ☕💀
+
+🧠 00:00 AM - 底层矩阵的深渊：
+
+· “为什么披风的矩阵旋转轴（RX）在倒退的时候会翻折到正前方？！”
+· Why does the cape's RX axis flip to the front when moving backward?! 🤬
+· 摄入：浓缩黑咖啡 x 1 ☕
+
+🧬 02:30 AM - 骨骼树的诅咒：
+
+· “艾里克斯（Alex）的细手臂又脱臼了！第 24 根眼皮睫毛的 UV 贴图偏移了 0.0155 个像素，直接导致了 Z-fighting（深度冲突）！”
+· Alex's slim arm dislocated again! The 24th eyelash UV map shifted by 0.0155 pixels, causing Z-fighting! 🤯
+· 摄入：红牛 x 2 🥫🥫
+
+🩸 04:15 AM - 灵魂出窍与掉发：
+
+· “终于查出来了！原来是 var.body_ty_diff 在微小位移下被无限放大了！加了 clamp 限位终于治好了乱飞。摸了摸头，头发 -10000。”
+· Finally found out it was var.body_ty_diff being infinitely amplified! Added clamp to fix the flying. Lost 10000 hairs. 💇‍♂️
+· 摄入：双倍浓缩冰美式 x 1 ☕🧊
+
+😇 05:45 AM - 黎明前的飞升：
+
+· “看到史蒂夫倒退时披风完美向内折叠，起跑时火把产生真实的钟摆惯性，甚至眨眼都极其丝滑……老父亲流下了感动的泪水。只要你们玩得爽，本作者的肝和头发就没白掉！”
+· Seeing the perfect cape folding, realistic torch inertia, and smooth blinking... the developer cried tears of joy. As long as you enjoy it, my liver and hair didn't die in vain! 😭💖
+· 摄入：赛博红牛 x1  + 赛博浓稠咖啡 x1 🥫 ☕
+
+·<p><strong>🌐 官方权威发布平台 & 源码仓库 (Official Platforms & Repository)</strong></p>
 <p>Experience the true power on the international stage! 在国际舞台体验真正的实力！</p>
 <p><a href="https://modrinth.com/resourcepack/9zONMaz7"><img src="https://img.shields.io/modrinth/dt/9zONMaz7?style=flat&label=Modrinth&logo=modrinth&color=1bd96a" alt="Modrinth"></a></p>
+
 <p><a href="https://www.curseforge.com/projects/1775005"><img src="https://img.shields.io/curseforge/dt/1775005?style=flat&label=CurseForge&logo=curseforge&color=F16436" alt="CurseForge"></a></p>
-<p><a href="https://bbsmc.net/resourcepack/dawnaurora-player-animations"><img src="https://img.shields.io/badge/BBSMC-DawnAurora Resource Pack-D32F2F?style=flat&logoColor=white" alt="BBSMC"></a></p>
-<p><a href="https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack"><img src="https://img.shields.io/badge/GitHub-DawnAurora_Resource_Pack-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repository"></a></p>
+
+<p><a href="https://bbsmc.net/resourcepack/dawnaurora-player-animations"><img src="https://img.shields.io/badge/BBSMC-DawnAurora_Player_Animations_Resource_Pack-D32F2F?style=flat&logoColor=white" alt="BBSMC"></a></p>
+
+<p><a href="https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack"><img src="https://img.shields.io/badge/GitHub-DawnAurora_Player_Animations_Resource_Pack-181717?style=flat&logo=github&logoColor=white" alt="GitHub-Repository"></a></p>
 
 <hr>
 
-<p><strong>⚙️ 终极依赖与硬核安装指南 (Dependencies & Installation)</strong></p>
-<p><strong>🚨 IMPORTANT: Please read carefully! 重要提示：请仔细阅读！🚨</strong></p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p>This pack requires a CEM engine to run. <strong>You DO NOT necessarily need to bind all of them. 本资源包并非强制绑定所有引擎，请根据你的环境选择合适的方案：</strong></p>
-<p><strong>⚠️ CRITICAL: OptiFine and EMF/ETF are mutually exclusive. NEVER install them together, or your game WILL crash! ⚠️ 严重警告：OptiFine 与 EMF/ETF 互斥，绝对不能同时安装，否则游戏必定崩溃！</strong></p>
+🛠️ 【 极客级安装指南与避坑圣经 / Geek Install Guide & Warning Bible 】 🛠️
 
-<p><strong>🟢 Option 1 (Highly Recommended / 极力推荐): EMF + ETF</strong> <em>(Modern Fabric/Forge/NeoForge environments. 现代模组加载器首选。)</em></p>
-<ul>
-<li>EMF (Entity Model Features): <a href="https://www.curseforge.com/minecraft/mc-mods/entity-model-features">CurseForge</a> | <a href="https://modrinth.com/mod/entity-model-features">Modrinth</a></li>
-<li>ETF (Entity Texture Features): <a href="https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric">CurseForge</a> | <a href="https://modrinth.com/mod/entitytexturefeatures">Modrinth</a></li>
-</ul>
+❗❗❗ 必须安装的前置依赖 (MUST INSTALL Dependencies)：
 
-<p><strong>🟡 Option 2 (Legacy / 老方案): OptiFine</strong> <em>(HD U H1 or higher. 高清修复老玩家直接放入即可。)</em></p>
+· ✅ Entity Model Features (EMF) 🦴 (骨骼与物理引擎的核心驱动！缺它不可！)
+· ✅ Entity Texture Features (ETF) 🎨 (材质与贴图渲染的终极支撑！)
+· 🚫 如果不装前置，资源包将毫无效果，你将看到原版的植物人！ 🤖🥀
 
-<p><strong>🛠️ 极客安装步骤 (Installation Steps):</strong><br>
-1. Download the <code>.zip</code> file. (下载 <code>.zip</code> 压缩包)<br>
-2. Place it into <code>.minecraft/resourcepacks/</code>. (拖入游戏资源包根目录，切勿解压！)<br>
-3. Enable the pack in-game. (在游戏内资源包界面启用它)<br>
-4. <strong>CRITICAL:</strong> Ensure <strong>"Custom Entity Models"</strong> is turned <strong>ON</strong> in Video Settings. (<strong>极其关键</strong>：去视频设置里把“自定义实体模型”开到 ON，否则动作全部失效！)</p>
+💥 极度危险冲突警告与设置说明 (CRITICAL WARNING)：
 
-<hr>
+· 🛑 如果你使用 EMF + ETF (极力推荐)：千万不要去视频设置里找“自定义实体模型”开关！EMF 自带底层渲染接管，模组一旦装好、资源包启用即自动生效！✅
+· 🚫 绝对、绝对不要与 OptiFine 同时安装！ 底层渲染逻辑直接冲突，会导致游戏瞬间崩溃（Crash）！💥💀
+· 🌅 如果你非要用 OptiFine (远古方案/极度不推荐)：你才需要去游戏 视频设置 -> 质量 中，手动开启 "自定义实体模型 (Custom Entity Models)"，否则动作不生效！⚠️
+· DO NOT install with OptiFine! EMF/ETF users do NOT need to manually enable "Custom Entity Models" in settings! 🛑
 
-<p><strong>🎮 数十种完整动作全景解析 (Complete Animation Showcase)</strong></p>
-<p>We have meticulously hand-crafted DOZENS of animations for every possible state. Every movement has real physics!<br>
-我们为你可能触发的每一个状态都手搓了极其精细的动作，每一次移动都有真实的物理反馈！</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p><strong>🏃‍♂️ 一、 移动与位移全景 (Locomotion & Movement)</strong></p>
-<ul>
-<li>🚶‍♂️ <strong>Walking & Sprinting (行走与疾跑)</strong>: Natural body lean and fluid arm swings. No more mechanical pendulum! (身体自然前倾与流畅摆臂，告别机械钟摆式的死板走路，起步带有重量感。)</li>
-<li>🥷 <strong>Sneaking (潜行)</strong>: Body weight shifts naturally, with the dynamic cape drooping elegantly. (重心自然下沉，极具潜行感，同时你的动态披风会受重力影响优雅下垂。)</li>
-<li>🕊️ <strong>Flying & Hovering (飞行与悬停)</strong>: Superman-style flight with dynamic pitch tilting. The cape flaps wildly! (超人式飞行姿态，随鼠标视角俯仰产生动态倾斜，披风在高速气流中疯狂猎猎作响！)</li>
-<li>🏊‍♂️ <strong>Swimming (游泳)</strong>: Realistic water resistance physics for every stroke. (真实的划水阻力物理反馈，每一次摆臂都充满水下的力量感。)</li>
-<li>🧗‍♂️ <strong>Ladder Climbing (爬梯子)</strong>: Alternating arm pulls with authentic muscle tension. (手臂交替发力攀爬，肌肉拉扯感直接拉满。)</li>
-<li>🍂 <strong>Soft Falling (轻微下落)</strong>: Light, weightless descent to balance the air. (轻盈失重感，四肢微张平衡空气阻力，体验真实的坠落感。)</li>
-</ul>
+🩺 【 终极排障与急救大百科 (Ultimate FAQ & Troubleshooting) 】 🩺
 
-<p><strong>⚔️ 二、 战斗与工具交互 (Combat & Tools)</strong></p>
-<ul>
-<li>🗡️ <strong>Sword Attack (剑击)</strong>: Heavy, impactful swings with smooth combos and physical recoil. (极具爆发力与重量感的劈砍，刀刀到肉，带有丝滑连招和后坐力。)</li>
-<li>👊 <strong>Bare-handed Punch (空手攻击)</strong>: Hardcore, weighty fist attacks with extreme torque. (硬核重拳出击，腰马合一的扭矩发力感。)</li>
-<li>🏹 <strong>Bow & Arrow (拉弓射箭)</strong>: Tense drawing animation and realistic recoil upon shooting. (拉满弓的紧绷感，箭矢射出瞬间带有强烈的物理后坐力。)</li>
-<li>🔱 <strong>Trident Throw (投掷三叉戟)</strong>: Powerful charge-up and violent throwing momentum. (蓄力千钧之势，投掷瞬间的狂暴动能，感受三叉戟的千钧重量！)</li>
-<li>⛏️ <strong>Mining (镐子挖掘)</strong>: Weighty swings that hit blocks with immense force. (砸向方块的沉重打击感，甚至能感受到力量砸碎方块时的回弹！)</li>
-<li>🪏 <strong>Shoveling & Farming (铲子与锄头)</strong>: Realistic waist and shoulder exertion. (铲土与耕地时极其真实的腰部下沉发力感，让种田也极其解压。)</li>
-<li>🛡️ <strong>Item Switching (物品切换)</strong>: Extremely smooth <code>requip</code>/<code>lequip</code> transitions. (切换快捷栏物品时极其平滑的拔刀与收刀前摇，彻底告别瞬间闪现！)</li>
-<li>🔭 <strong>Spyglass (望远镜)</strong>: Realistic weight with a subtle breathing sway. (举起望远镜时的真实重量感，长按观察时带有微弱的呼吸晃动。)</li>
-</ul>
+❓ Q1：为什么我装了之后，史蒂夫变成了植物人/没有动作？ 🤖
+👉 A：99.9% 是因为你装了 OptiFine 并且没开“自定义实体模型”，或者你没装 EMF/ETF。（强烈建议删掉 OptiFine，拥抱 Iris + EMF/ETF 现代生态！）🌅
 
-<p><strong>🍎 三、 环境与生存细节 (Ambient & Survival)</strong></p>
-<ul>
-<li>🍗 <strong>Eating (进食)</strong>: Natural chewing movements and head tilts. (极其自然的咀嚼动作与头部微倾，告别把食物直接糊在脸上的敷衍！)</li>
-<li>🧪 <strong>Drinking (喝水)</strong>: Realistic bottle tilting and fluid swallowing physics. (仰头喝水的真实液体吞咽物理反馈，瓶口倾斜角度完美调校。)</li>
-<li>💥 <strong>Hurt & Knockback (受伤与击退)</strong>: Realistic physical knockback and body flinching. (真实的物理受击后仰、身体抽搐与极具代入感的镜头震动反馈。)</li>
-</ul>
+❓ Q2：为什么披风还是会穿模/乱飞糊脸？ 🌪️
+👉 A：请确保你使用的是本 Alpha 最新版本。本版本加入了强制的物理限位。如果你还在乱飞，说明被其他动作包覆盖了，请务必把 DawnAurora 放在资源包列表的最顶端！⬆️
 
-<hr>
+❓ Q3：我在多人服务器里能用吗？会导致崩服吗？ 🌐
+👉 A：完全可以！本包是纯客户端视觉资源包，绝对不增加服务器任何负担，也不会导致崩服。服主狂喜！🎉🖥️
 
-<p><strong>🛠️ 终极排障与百科全书级急救指南 (Ultimate Troubleshooting)</strong></p>
+❓ Q4：为什么叫 Alpha 版本？它稳定吗？ 🧪
+👉 A：因为这是纯手搓的初始版本，部分物理参数可能略微“超模”（Overpowered）。但我们在底层矩阵里注入了太多的热爱，它绝对稳定可玩，我们会在后续版本中慢慢调校！🛠️✨
 
-<p><strong>❓ Q: 安装后游戏直接崩溃？ (Game crashes immediately?)</strong><br>
-👉 <strong>A</strong>: 你肯定同时安装了 OptiFine 和 EMF/ETF！它们是死敌，必须删掉一个，让它们二选一。 (You installed OptiFine and EMF/ETF together. They are enemies, delete one.)</p>
-
-<p><strong>❓ Q: 动作不生效，史蒂夫依然僵硬？ (Animations not working?)</strong><br>
-👉 <strong>A</strong>: 1. 没装前置模组（EMF/ETF 或 OptiFine）。2. 忘了在视频设置里开启“自定义实体模型 (CEM)”。3. 被其他动作包（如 Fresh Animations）覆盖了，请把你的包移到资源包列表**最顶端**！ (Check deps, enable CEM, move to top of pack list.)</p>
-
-<p><strong>❓ Q: 第一人称举火把抬不起手/穿模？ (First-person torch bug?)</strong><br>
-👉 <strong>A</strong>: 这是一个已知的 Alpha 骨骼节点 Bug。我们正在疯狂掉头发地修复它，将在下个版本彻底干碎！ (Known Alpha skeleton bug. We are fixing it in the next update!)</p>
-
-<p><strong>❓ Q: 会掉帧吗？ (Will this affect my FPS?)</strong><br>
-👉 <strong>A</strong>: 绝对不会。它仅 1.99MB，哪怕是低端电脑也能完美满帧运行。(Absolutely not. It's only 1.99MB, runs flawlessly even on low-end PCs.)</p>
-
-<p><strong>❓ Q: 我能在服务器或整合包中使用它吗？ (Can I use this in my modpack/server?)</strong><br>
-👉 <strong>A</strong>: 可以！只要不用于商业售卖，并保留作者署名 (DawnAurora0221) 即可。 (Yes, as long as it's non-commercial and you credit the author.)</p>
-
-<hr>
-
-<p><strong>⚔️ 兼容性与冲突矩阵 (Compatibility Matrix)</strong></p>
-<ul>
-<li>✅ <strong>EMF + ETF</strong>: 完美兼容 (Perfect)</li>
-<li>✅ <strong>OptiFine</strong>: 原生支持 (Native, choose only one)</li>
-<li>✅ <strong>Shaders (光影)</strong>: 完美兼容 BSL, Complementary 等主流光影。</li>
-<li>⚠️ <strong>Better Combat (更好的战斗)</strong>: 需要安装 EMF Compat 补丁。 (Requires EMF Compat patch.)</li>
-<li>⚠️ <strong>Not Enough Animations (NEA)</strong>: 需要安装 EMF Compat 补丁。 (Requires EMF Compat patch.)</li>
-<li>❌ <strong>Custom Player Animations (CPA)</strong>: 严重冲突！请勿同时使用。(Incompatible!)</li>
-<li>❌ <strong>Serious Player Animations (SPA)</strong>: 严重冲突！请勿同时使用。(Incompatible!)</li>
-</ul>
-
-<hr>
-
-<p><strong>📅 史诗级历史更新日志 (Full Changelog History)</strong></p>
-<ul>
-<li>🌟 <strong>v0.0.4 (Current 当前版本)</strong>: 史诗级动态眨眼系统与极致 Q 弹萌系物理反馈，彻底告别死鱼眼！(Epic blinking system & ultra-bouncy Moe physics feedback!)</li>
-<li>🔥 <strong>v0.0.3</strong>: 史诗级火把物理与骨骼极限微调，同时也留下了那个万恶的火把抬不起手 Bug。(Torch physics & tuning, along with the notorious torch bug.)</li>
-<li>🌪️ <strong>v0.0.2</strong>: 披风物理全面重制，告别纸板披风，引入真实空气阻力与重力模拟。(Cape physics overhauled, introducing real air resistance & gravity.)</li>
-<li>🏁 <strong>v0.0.1</strong>: 创世初始版，引入基础物理惯性，梦想开始的地方。(Genesis release, introducing basic physical inertia.)</li>
-</ul>
-
-<hr>
-
-<p><strong>🤝 社区与开源协议 (Community & License)</strong></p>
-<p>📺 <strong>Bilibili:</strong> <a href="https://space.bilibili.com/3493082945293109">DawnAurora0221</a><br>
-🌐 <strong>Official Website / 官网:</strong> <a href="https://projects-dawnaurora.infinityfreeapp.com">DawnAurora Projects</a><br>
-💻 <strong>GitHub 源码:</strong> <a href="https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack">DawnAurora-Player-Animations-Resource-Pack</a></p>
-
-<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-purple?style=flat" alt="License"></a></p>
-
-<p><strong>⭐ If you love this project, please give it a heart and share it! / 如果你喜欢这个项目，请给个红心并分享给你的朋友！⭐</strong></p>
+![Coffee](https://cdn.modrinth.com/data/cached_images/02f8cfc4a5adf8389aaca553f96f01d45219747b_0.webp)
 
 ![EMF](https://cdn.modrinth.com/data/cached_images/f49ec6f51f6c09066853ab5cd609d239b16a2394.png)
 
 ![ETF](https://cdn.modrinth.com/data/cached_images/4a9fe8d33f8dcc4a61abf23919d9c04871f41937.png)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚖️ 【 开源协议与神圣法则 (含善意补丁特批通道) / License & Sacred Law 】 ⚖️
+
+📜 协议类型 (License Type): CC-BY-NC-ND 4.0
+
+为了维护纯粹的极客创作环境，本包严禁商业倒卖、洗稿套壳以及未经授权的大规模魔改发布 🛡️。但为了防止误伤热心社区，我们特别开启以下【善意补丁特批通道 (Special Patch Permission)】：
+
+· ✅ 允许发布兼容补丁 (Compatibility Patches)：欢迎发布让 DawnAurora 与其他模组更好兼容的补丁包（如兼容 Parcool 等）。🤝
+· ✅ 允许发布 Bug 修复补丁 (Bug Fix Patches)：如果你发现了代码错误并制作了修复补丁，非常欢迎你发布出来帮助大家！🐛🔧
+· ✅ 允许发布辅助性扩展 (Add-ons)：只要是不包含原版核心物理代码、旨在辅助本包运行的附加文件。🧩
+· ⚠️ 唯一的要求 (The Only Rule)：所有补丁与扩展必须明确标注原作者 DawnAurora0221 (Owner & Animator & Physicist)，必须免费发布，且不得替代/覆写本体的核心文件。只要是为了 DawnAurora 更好，我们绝对欢迎！💖
+
+Special Permission Granted: You are ALLOWED to publish compatibility patches, bug fix patches, and add-ons for DawnAurora, as long as they are free, credit DawnAurora0221, and do not overwrite the core files of this project. 🐾💖
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 【 未来进化路线图 (宏图霸业) / Future Roadmap 】 🚀
+
+· 🩹 Phase 1.5 (Next Up)：微调物理参数，修复 Alpha 阶段的细微穿模，让布料更加自然！🛠️
+· 🧊 Phase 2: 3D 物理物品时代：基于 CEM 框架，手搓真正的立体护甲、灵动的动态 3D 乌龟壳，让装备也具有物理重量感！🐢🛡️
+· 💻 Phase 3: 26.1.2+ 原生级底层模组：彻底抛弃 EMF 前置，直接利用官方无混淆代码进行 Mixin 渲染注入，带来真正的零前置体验！🔥🤖
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💖 感谢您见证 DawnAurora 的创世起点！让我们一起，把 Java 版的动作体验推向极致！ 🐾🚀 
+💖 Thank you for witnessing the genesis of DawnAurora! Let's push Java Edition animations to the absolute limit! 🐾🚀
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+---
