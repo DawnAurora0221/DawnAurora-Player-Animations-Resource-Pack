@@ -127,7 +127,7 @@ Welcome to the DawnAurora Absolute Physics Universe! 🚀
 ❓ Q4：为什么叫 Alpha 版本？它稳定吗？ 🧪
 👉 A：因为这是纯手搓的初始版本，部分物理参数可能略微“超模”（Overpowered）。但我们在底层矩阵里注入了太多的热爱，它绝对稳定可玩，我们会在后续版本中慢慢调校！🛠️✨
 
-![Coffee](https://cdn.modrinth.com/data/cached_images/02f8cfc4a5adf8389aaca553f96f01d45219747b_0.webp)
+![coffee](https://cdn.modrinth.com/data/cached_images/02f8cfc4a5adf8389aaca553f96f01d45219747b.gif))
 
 ![EMF](https://cdn.modrinth.com/data/cached_images/f49ec6f51f6c09066853ab5cd609d239b16a2394.png)
 
