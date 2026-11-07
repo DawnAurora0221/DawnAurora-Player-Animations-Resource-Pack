@@ -88,8 +88,6 @@ Welcome to the DawnAurora Absolute Physics Universe! 🚀
 <p>Experience the true power on the international stage! 在国际舞台体验真正的实力！</p>
 <p><a href="https://modrinth.com/resourcepack/9zONMaz7"><img src="https://img.shields.io/modrinth/dt/9zONMaz7?style=flat&label=Modrinth&logo=modrinth&color=1bd96a" alt="Modrinth"></a></p>
 
-<p><a href="https://www.curseforge.com/projects/1775005"><img src="https://img.shields.io/curseforge/dt/1775005?style=flat&label=CurseForge&logo=curseforge&color=F16436" alt="CurseForge"></a></p>
-
 <p><a href="https://bbsmc.net/resourcepack/dawnaurora-player-animations"><img src="https://img.shields.io/badge/BBSMC-DawnAurora_Player_Animations_Resource_Pack-D32F2F?style=flat&logoColor=white" alt="BBSMC"></a></p>
 
 <p><a href="https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack"><img src="https://img.shields.io/badge/GitHub-DawnAurora_Player_Animations_Resource_Pack-181717?style=flat&logo=github&logoColor=white" alt="GitHub-Repository"></a></p>
