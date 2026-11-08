@@ -94,6 +94,9 @@ Welcome to the DawnAurora Absolute Physics Universe! 🚀
 
 <hr>
 
+[![Versions](http://cf.way2muchnoise.eu/versions/1364067.svg)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
+[![Downloads](http://cf.way2muchnoise.eu/full_1364067_downloads.svg)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🛠️ 【 极客级安装指南与避坑圣经 / Geek Install Guide & Warning Bible 】 🛠️
