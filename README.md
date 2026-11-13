@@ -15,6 +15,8 @@
 
 [![Forks](https://img.shields.io/github/forks/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Forks&color=181717)](https://www.git-port.dawnauroraforge.eu.cc/-/github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
 
+[![Issues](https://img.shields.io/badge/Open%20an%20Issue-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack/issues/new)
+
 [![License](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 [![Website](https://img.shields.io/badge/Website-animations.dawnaurora.dpdns.org-1bd96a?style=flat-square&logo=googlechrome&logoColor=white)](https://animations.dawnaurora.dpdns.org)
