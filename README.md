@@ -9,13 +9,13 @@
 
 [![Modrinth](https://img.shields.io/modrinth/dt/dawnaurora-player-animations?logo=modrinth&label=Downloads&color=1bd96a&style=flat-square)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
 
-[![Repository](https://img.shields.io/badge/GitHub-DawnAurora-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
+[![Repository](https://img.shields.io/badge/GitHub-DawnAurora-181717?style=flat-square&logo=github&logoColor=white)](https://www.git-port.dawnauroraforge.eu.cc/-/github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
 
-[![Stars](https://img.shields.io/github/stars/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Stars&color=181717)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
+[![Stars](https://img.shields.io/github/stars/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Stars&color=181717)](https://www.git-port.dawnauroraforge.eu.cc/-/github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
 
-[![Forks](https://img.shields.io/github/forks/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Forks&color=181717)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
+[![Forks](https://img.shields.io/github/forks/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Forks&color=181717)](https://www.git-port.dawnauroraforge.eu.cc/-/github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
 
-[![License](https://img.shields.io/badge/License-CC--BY--NC--ND-4.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 [![Website](https://img.shields.io/badge/Website-animations.dawnaurora.dpdns.org-1bd96a?style=flat-square&logo=googlechrome&logoColor=white)](https://animations.dawnaurora.dpdns.org)
 
@@ -310,7 +310,7 @@
 | 平台 / Platform | 链接 / Link |
 |---|---|
 | 📦 **Modrinth** | [dawnaurora-player-animations](https://modrinth.com/resourcepack/dawnaurora-player-animations) |
-| 💻 **GitHub** | [DawnAurora-Player-Animations-Resource-Pack](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack) |
+| 💻 **GitHub** | [DawnAurora-Player-Animations-Resource-Pack](https://www.git-port.dawnauroraforge.eu.cc/-/github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack) |
 | 🌐 **官网 / Website** | [animations.dawnaurora.dpdns.org](https://animations.dawnaurora.dpdns.org) |
 | 📜 **许可证 / License** | [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 
@@ -318,13 +318,13 @@
 
 <div align="center">
 
-## 🌅✨🚀 让每一帧动作都有重量、有呼吸、有灵魂。  
+## 🌪️🚀✨🌅 让每一帧动作都有重量、有呼吸、有灵魂。  
 ## Every frame has weight, breath, and soul. 🌪️🚀✨🌅
 
 **DawnAurora: Smooth — Player Animation Overhaul**  
 **Java Edition · CEM · EMF + ETF · Alpha Experimental**
 
-🐕 **汪汪！感谢每一次下载、每一条反馈、每一个 Star。**  
-🐕 **Woof! Thanks for every download, every feedback, and every star.**
+ **🌪️🚀✨🌅感谢每一次下载、每一条反馈、每一个 Star。🌪️🚀✨🌅**  
+ **🌪️🚀✨🌅Thanks for every download, every feedback, and every star.🌪️🚀✨🌅**
 
 </div>
