@@ -11,7 +11,7 @@
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-DawnAurora--Player--Animations--Resource--Pack-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
 
-[![Repository](https://img.shields.io/badge/GitHub-DawnAurora-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
+[![Repository](https://img.shields.io/badge/GitHub-DawnAurora--Player--Animations--Resource--Pack--Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
 
 [![Stars](https://img.shields.io/github/stars/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Stars&color=181717)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
 
