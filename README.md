@@ -11,17 +11,17 @@
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-DawnAurora--Player--Animations--Resource--Pack-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
 
-[![Repository](https://img.shields.io/badge/GitHub-DawnAurora--Player--Animations--Resource--Pack--Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
+[![Repository](https://img.shields.io/badge/GitHub-DawnAurora--Player--Animations--Resource--Pack--Repository-181717?style=flat-square&logo=github&logoColor=white)](https://www.git-port.dawnauroraforge.eu.cc/-/github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
 
-[![Stars](https://img.shields.io/github/stars/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Stars&color=181717)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
+[![Stars](https://img.shields.io/github/stars/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Stars&color=181717)](https://www.git-port.dawnauroraforge.eu.cc/-/github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
 
-[![Forks](https://img.shields.io/github/forks/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Forks&color=181717)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
+[![Forks](https://img.shields.io/github/forks/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Forks&color=181717)](https://www.git-port.dawnauroraforge.eu.cc/-/github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
 
-[![Issues](https://img.shields.io/github/issues/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Issues&color=181717)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack/issues)
+[![Issues](https://img.shields.io/github/issues/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Issues&color=181717)](https://www.git-port.dawnauroraforge.eu.cc/-/github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack/issues)
 
 [![License](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[![Website](https://img.shields.io/badge/Website-animations.dawnaurora.dpdns.org-1bd96a?logo=googlechrome&logoColor=white)](https://animations.dawnaurora.dpdns.org)
+[![Website](https://img.shields.io/badge/Website-com.dawnaurora.dpdns.org-1bd96a?logo=googlechrome&logoColor=white)](https://com.dawnaurora.dpdns.org)
 
 ![coffee](https://cdn.modrinth.com/data/cached_images/02f8cfc4a5adf8389aaca553f96f01d45219747b.gif)
 
