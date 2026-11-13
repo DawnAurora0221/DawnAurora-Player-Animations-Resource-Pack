@@ -148,6 +148,115 @@
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-DawnAurora--Player--Animations--Resource--Pack-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
 
+[![Repository](https://img.shields.io/badge/GitHub-DawnAurora-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
+
+[![Stars](https://img.shields.io/github/stars/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Stars&color=181717)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
+
+[![Forks](https://img.shields.io/github/forks/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌅✨🚀🌪️ **DawnAurora: Smooth — 灵动极致物理重制版 / The Ultimate Agile Physics Overhaul** 🌪️🚀✨🌅
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎩🫡 **【 赛博极客的最高礼遇 / The Highest Cyber Geek Salute 】** 🫡🎩
+
+👋 **Welcome, Explorer! 欢迎，探险家！** 🌍  
+无论你是深入矿洞的生存大师 ⛏️，追求极致帧率的硬核极客 🖥️，还是为完美整合包焦头烂额的服主 👑——  
+**DawnAurora 团队在此，向你致以最隆重、最硬核的 90 度赛博脱帽鞠躬！** 🙇‍♂️✨  
+**The DawnAurora team bows to you with the most hardcore cyber hat-tip gesture!** 🦾
+
+🛑 **【 郑重声明 / Declaration 】** 🛑
+
+本资源包为 **100% 纯手搓原创**！🚫 无套壳、无洗稿、无恶意抄袭！  
+我们坚守极客底线，只为带来最极致的物理体验！🔥  
+**This pack is 100% hand-crafted original work! No shell-cloning, no copying.** 🛡️
+
+欢迎来到 **DawnAurora 的绝对物理宇宙！** 🎉🌟  
+**Welcome to the DawnAurora Absolute Physics Universe!** 🚀
+
+这不仅仅是一个资源包，这是一场对 Minecraft 原版“僵尸般僵硬动作”的彻底革命！💥  
+我们彻底抛弃臃肿的模组嵌套，坚持 **100% 纯手搓底层 CEM 骨骼矩阵**，把每一滴算力、每一帧动画都压榨到极致！🔥👁️  
+无论视觉重量感还是物理阻尼，全部向次世代看齐！🌌  
+**100% hand-crafted CEM skeleton matrices, pushing every drop of computing power to the absolute limit!** 🛡️
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ **【 深渊级物理引擎全解析 / Abyss-Level Physics Engine Deep Dive 】** ✨
+
+🔥 **▶️ 第一人称火把沉浸物理系统 / First-Person Torch Immersive Physics** 💡
+
+🌬️ **呼吸微动 / Breathing Sway**：站立待机时，火把不再是焊死在屏幕上的铁棍！通过 `sin(age/15)` 计算，它会随角色呼吸产生极微弱的物理正弦波浮动，连火焰光影都在呼吸！😮‍💨✨  
+🚶‍♂️ **钟摆惯性 / Pendulum Inertia**：走路起步时，火把依据 `limb_speed` 步频，通过物理公式产生真实钟摆式摇晃，每一步都踩在心巴上！🏃‍♂️💨  
+🪂 **失重与重力反馈 / Weight & Airtime Feedback**：高空坠落时，火把因气流向上飘（Updraft）；落地瞬间，因 Y 轴重力加速度重重下沉，真实重量感直接爆棚！🔥🎢  
+**Torch now has breathing sway, pendulum inertia, and real weight feedback. No more stiff sticks!** 🌟
+
+🧥 **▶️ 多轴弹簧折叠布料物理：披风 / Multi-Axis Spring Cloth Folding: Cape** 🌪️
+
+🛑 **彻底告别糊脸穿模 / No More Face Clipping**：重构披风受力矩阵！引入多轴阻尼衰减（Damping Decay）与严苛 `clamp` 物理限位。站立待机时，披风受重力影响死寂垂直下垂，一秒治好多动症！🚫👗  
+🔄 **倒退折叠神技 / Backward Folding Physics**：按下 S 键倒退时，披风自动向内收缩，产生高级折叠挤压位移（TX 轴），死死贴在后背，绝对不乱飞糊脸！🏃‍♂️🌀  
+🪂 **真实风阻与离心力 / Real Wind Resistance**：起步、疾跑、跳跃时，披风下摆根据三维速度向量产生真实空气阻力，微风轻拂或疾跑狂舞，布料质感瞬间拉满！💨🏄‍♂️  
+**The cape hangs dead when idle, folds inward when walking backward, and NEVER flies into your face!** 😎
+
+🕊️ **▶️ 双重刚性空气动力学鞘翅 / Dual-Rigid Aerodynamic Elytra** 🦅
+
+🧬 **地面刚性贴合 / Rigid Ground Attachment**：陆地上时，鞘翅局部颤动被物理公式强行屏蔽，绝对不抖、不飘，死如泰山般贴住后背！🛑🗿  
+🌪️ **滑翔翼尖后掠 / Swept-back Wings**：起飞瞬间引入平滑空气动力延展感，高频气流震颤与翼尖后掠角完美联动，俯冲时宛如猎鹰振翅！🪂🦅  
+**Rigid on the ground, realistic aerodynamic flutter and swept-back wings when gliding!** 🚀
+
+👁️‍🗨️ **▶️ 史诗级微表情眨眼系统 / Epic Smooth_Expressions System** 😉
+
+🔮 **骨骼级挂载 / Bone-Level Attachment**：无需替换任何心爱的自定义皮肤！直接在头部 CEM 骨骼挂载独立眼皮动画层！👁️🧬  
+😉 **非线性开合 / Smooth Blinking**：极其微小、顺滑、带一丝萌感的眼皮开合，通过复杂非线性插值，让史蒂夫/艾里克斯彻底告别死鱼眼，拥有真正灵魂！💖✨  
+**No skin replacement needed! Blink naturally like a real living being with non-linear interpolation!** 🦾
+
+🏃‍♂️ **▶️ 全量动作底层物理惯性 / Full-Body Physical Inertia** ⚙️
+
+基于精准 `limb_speed` 与 `fall` 变量，重写起步前倾、急停弹簧阻尼、落地膝盖缓冲。每一次移动都充满真实灵动与生命力！🚀🏋️‍♂️  
+**Rewritten start-up lean, hard-stop spring damping, and landing buffer.** 🏃‍♂️💨
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+☕💀 **【 开发者极客修仙日记与咖啡因摄入报告 / Dev's Cultivation Diary & Caffeine Intake 】** ☕💀
+
+🧠 **00:00 AM — 底层矩阵的深渊 / The Abyss of Matrices**  
+“为什么披风矩阵旋转轴（RX）在倒退时会翻折到正前方？！”  
+**Why does the cape's RX axis flip to the front when moving backward?!** 🤬  
+摄入：浓缩黑咖啡 × 1 ☕
+
+🧬 **02:30 AM — 骨骼树的诅咒 / Curse of the Bone Tree**  
+“艾里克斯细手臂又脱臼了！第 24 根眼皮睫毛 UV 贴图偏移 0.0155 像素，直接导致 Z-fighting！”  
+**Alex's slim arm dislocated again! The 24th eyelash UV map shifted by 0.0155 pixels, causing Z-fighting!** 🤯  
+摄入：红牛 × 2 🥫🥫
+
+🩸 **04:15 AM — 灵魂出窍与掉发 / Out-of-Body & Hair Loss**  
+“终于查出来了！原来是 `var.body_ty_diff` 在微小位移下被无限放大！加了 `clamp` 限位终于治好乱飞。摸了摸头，头发 -10000。”  
+**Finally found `var.body_ty_diff` was infinitely amplified! Added clamp to fix the flying. Lost 10000 hairs.** 💇‍♂️  
+摄入：双倍浓缩冰美式 × 1 ☕🧊
+
+😇 **05:45 AM — 黎明前的飞升 / Ascension Before Dawn**  
+“看到史蒂夫倒退时披风完美内折，起跑时火把真实钟摆惯性，甚至眨眼都极其丝滑……老父亲流下感动泪水。只要你们玩得爽，本作者的肝和头发就没白掉！”  
+**Seeing perfect cape folding, realistic torch inertia, and smooth blinking... the developer cried tears of joy. As long as you enjoy it, my liver and hair didn't die in vain!** 😭💖  
+摄入：赛博红牛 ×1 + 赛博浓稠咖啡 ×1 🥫☕
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ **【 作者级安装指南与避坑圣经 / Owner Install Guide & Warning Bible 】** 🛠️
+
+❗❗❗ **必须安装的前置依赖 / MUST INSTALL Dependencies：**
+
+✅ **Entity Model Features (EMF)** 🦴 — 骨骼与物理引擎核心驱动！缺它不可！  
+✅ **Entity Texture Features (ETF)** 🎨 — 材质与贴图渲染终极支撑！  
+🚫 不装前置，资源包毫无效果，你将看到原版植物人！🤖🥀
+
+💥 **极度危险冲突警告与设置说明 / CRITICAL WARNING：**
+
+🛑 使用 **EMF + ETF（极力推荐）**：千万不要去视频设置找“自定义实体模型”开关！EMF 自带底层渲染接管，模组装好、资源包启用即自动生效！✅  
+🚫 **绝对不要与 OptiFine 同时安装！** 底层渲染逻辑直接冲突，会导致游戏瞬间崩溃（Crash）！💥💀  
+🌅 如果非要用 OptiFine（远古方案 / 极度不推荐）：才需要去 **视频设置 → 质量 → 手动开启“自定义实体模型 (Custom Entity Models)”**，否则动作不生效！⚠️  
+**DO NOT install with OptiFine! EMF/ETF users do NOT need to manually enable "Custom Entity Models" in settings!** 🛑
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━?style=flat-square&logo=github&label=Forks&color=181717)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack)
+
+[![Website](https://img.shields.io/badge/Website-animations.dawnaurora.dpdns.org-1bd96a?logo=googlechrome&logoColor=white)](https://animations.dawnaurora.dpdns.org)
+
 ![coffee](https://cdn.modrinth.com/data/cached_images/02f8cfc4a5adf8389aaca553f96f01d45219747b.gif)
 
 ![EMF](https://cdn.modrinth.com/data/cached_images/f49ec6f51f6c09066853ab5cd609d239b16a2394.png)
