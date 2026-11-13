@@ -21,7 +21,7 @@
 
 [![License](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[![Website](https://img.shields.io/badge/Website-com.dawnaurora.dpdns.org-1bd96a?logo=googlechrome&logoColor=white)](https://com.dawnaurora.dpdns.org)
+[![Website](https://img.shields.io/badge/Website-com--port.dawnaurora.dpdns.org-1bd96a?logo=googlechrome&logoColor=white)](https://com-port.dawnaurora.dpdns.org)
 
 ![coffee](https://cdn.modrinth.com/data/cached_images/02f8cfc4a5adf8389aaca553f96f01d45219747b.gif)
 
