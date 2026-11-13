@@ -146,7 +146,7 @@
 
 📌 **【 下载 / Download 】** 📌
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-DawnAurora--Player--Animations-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
+[![Modrinth](https://img.shields.io/badge/Modrinth-DawnAurora--Player--Animations--Resource--Pack-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
 
 ![coffee](https://cdn.modrinth.com/data/cached_images/02f8cfc4a5adf8389aaca553f96f01d45219747b.gif)
 
