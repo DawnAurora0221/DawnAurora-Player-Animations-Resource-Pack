@@ -320,7 +320,7 @@
 | 平台 / Platform | 链接 / Link |
 |---|---|
 | 📦 **Modrinth** | [Dawnaurora-Player-Animations-Resource-Pack](https://modrinth.com/resourcepack/dawnaurora-player-animations) |
-| 💻 **GitHub** | [DawnAurora-Player-Animations-Resource-Pack](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack) |
+| 💻 **GitHub** | [DawnAurora-Player-Animations-Resource-Pack-Repository](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack) |
 | 🌐 **官网 / Website** | [com.dawnaurora.dpdns.org](https://com.dawnaurora.dpdns.org) |
 | 📜 **许可证 / License** | [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 
