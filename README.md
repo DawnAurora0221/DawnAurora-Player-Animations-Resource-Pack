@@ -21,7 +21,7 @@
 
 [![License](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[![Website](https://img.shields.io/badge/Website-com--port.dawnaurora.dpdns.org-1bd96a?logo=googlechrome&logoColor=white)](https://com-port.dawnaurora.dpdns.org)
+[![Website](https://img.shields.io/badge/Website-com.dawnaurora.dpdns.org-1bd96a?logo=googlechrome&logoColor=white)](https://com.dawnaurora.dpdns.org)
 
 ![coffee](https://cdn.modrinth.com/data/cached_images/02f8cfc4a5adf8389aaca553f96f01d45219747b.gif)
 
@@ -319,9 +319,9 @@
 
 | 平台 / Platform | 链接 / Link |
 |---|---|
-| 📦 **Modrinth** | [dawnaurora-player-animations](https://modrinth.com/resourcepack/dawnaurora-player-animations) |
+| 📦 **Modrinth** | [Dawnaurora-Player-Animations](https://modrinth.com/resourcepack/dawnaurora-player-animations) |
 | 💻 **GitHub** | [DawnAurora-Player-Animations-Resource-Pack](https://www.git-port.dawnauroraforge.eu.cc/-/github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack) |
-| 🌐 **官网 / Website** | [animations.dawnaurora.dpdns.org](https://animations.dawnaurora.dpdns.org) |
+| 🌐 **官网 / Website** | [com.dawnaurora.dpdns.org](https://com.dawnaurora.dpdns.org) |
 | 📜 **许可证 / License** | [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 
 ---
