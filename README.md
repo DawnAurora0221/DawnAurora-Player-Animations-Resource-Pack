@@ -120,7 +120,7 @@
 [![License](https://img.shields.io/badge/License-DawnAurora%20Universal%20Proprietary%201.0.0-lightgrey?style=flat-square)](https://license.dawnaurora.dpdns.org)
 <br>
 
-[![License Page](https://img.shields.io/badge/License%20Page-www.license.dawnaurora.dpdns.org-lightgrey?logo=read-the-docs&logoColor=white&style=flat-square)](https://license.dawnaurora.dpdns.org)
+[![License Page](https://img.shields.io/badge/License%20Page-license.dawnaurora.dpdns.org-lightgrey?logo=read-the-docs&logoColor=white&style=flat-square)](https://license.dawnaurora.dpdns.org)
 <br>
 
 ---
