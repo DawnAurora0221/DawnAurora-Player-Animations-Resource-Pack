@@ -14,7 +14,7 @@
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/dawnaurora-player-animations?logo=modrinth&label=Downloads&color=1bd96a&style=flat-square)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
 <br>
 
-[![Modrinth Version](https://img.shields.io/modrinth/v/dawnaurora-player-animations?logo=modrinth&label=Version&color=1bd96a&style=flat-square)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
+[![Modrinth Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2Fdawnaurora-player-animations%2Fversion&query=%24%5B0%5D.version_number&label=Version&color=1bd96a&logo=modrinth&style=flat-square)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
 <br>
 
 [![Modrinth Followers](https://img.shields.io/modrinth/followers/dawnaurora-player-animations?logo=modrinth&label=Followers&color=1bd96a&style=flat-square)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
