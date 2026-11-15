@@ -1,115 +1,382 @@
-# DawnAurora Universal Proprietary License 1.0.0
-# 极光通用专有许可协议 1.0.0
+DawnAurora Universal Proprietary License 1.0.0
+极光通用专有许可协议 1.0.0
 
 Copyright (c) 2026 DawnAurora0221. All Rights Reserved.
 版权所有 (c) 2026 DawnAurora0221。保留所有权利。
 
-## 序言 / Preamble
+官方发布源：license.dawnaurora.dpdns.org
+授权联系：license@dawnaurora.dpdns.org
+适用作品：许可方名下所有已发布及未来将发布的数字资产
+协议版本：1.0.0
+生效日期：2026年
 
-本协议（以下简称“本协议”或“本许可”）由 DawnAurora0221（以下简称“许可方”、“作者”或“版权持有人”）独立制定并发布。本协议是一份具有完全法律约束力的通用专有许可合同，适用于许可方名下所有已发布及未来将发布的数字资产。
 
-This Agreement is a universally applicable proprietary license contract with full legal binding force, independently established and issued by DawnAurora0221, applicable to all digital assets published or to be published in the future under the Licensor's name.
+序言
 
-本作品采用“源码可见”（Source-Available）与“作者绝对保留所有权”的模式。任何个人、组织或实体在下载、安装、复制、分发或使用本作品的任何部分时，即视为已完整阅读、充分理解并无条件接受本协议全部条款的约束。若您不同意本协议的任何内容，请立即停止使用并销毁所有相关文件。
+本协议（以下简称“本协议”或“本许可”）由 DawnAurora0221（以下简称“许可方”“作者”或“版权持有人”）独立制定并发布。本协议是一份具有法律约束力的通用专有许可合同，适用于许可方名下所有已发布及未来将发布的数字资产，除非某一作品另有明确的书面许可说明。
 
-The Work adopts a "Source-Available" and "Absolute Author Ownership" model. Any individual, organization, or entity who downloads, installs, copies, distributes, or uses any part of the Work shall be deemed to have fully read, understood, and unconditionally accepted all terms of this Agreement. If you do not agree to any content of this Agreement, please immediately cease use and destroy all related files.
+本作品采用“源码可见”（Source-Available）与“作者绝对保留所有权”的模式。源码可见不等于开源。任何个人、组织或实体在下载、安装、复制、分发、访问、托管或使用本作品的任何部分时，即视为已完整阅读、充分理解并同意接受本协议全部条款约束。若您不同意本协议任何内容，请立即停止使用并销毁所有相关文件。
 
-## 第一条 术语与定义 / Article 1: Definitions
+本协议不授予您任何超出明确允许范围的权利。所有未明确授予的权利均由许可方保留。本协议不构成法律意见，不替代您所在法域下的强制性法律规定，也不替代任何平台规则。
 
-1.1 “许可方”（The Licensor）：特指 DawnAurora0221。作为本作品的唯一合法创作者、版权持有人及知识产权所有者，拥有对本协议条款的最终解释权及衍生授权权利。
-1.1 "The Licensor": Specifically refers to DawnAurora0221. As the sole legal creator, copyright holder, and intellectual property owner of the Work, holding the right of final interpretation of this Agreement and the right to grant derivative authorizations.
+本协议采用以下章节结构：定义、适用范围、许可条件、数据库特别权利、免责声明与责任限制、期限与终止、其他条款。该结构旨在清晰划定授权边界，明确允许与禁止事项，并保留许可方对作品的全部所有权。本协议条款应按照其字面含义、上下文、协议目的及诚实信用原则进行解释。各条标题仅为方便阅读，不影响条款解释。
 
-1.2 “本作品”（The Work）：指许可方发布的全部内容，包括但不限于源代码、编译后的可执行文件（如 JAR 包、ZIP 资源包）、3D 模型数据、JSON 动画矩阵、材质贴图、配置文件、文档及任何相关衍生资产。
-1.2 "The Work": Refers to all content published by the Licensor, including but not limited to source code, compiled executable files (e.g., JAR packages, ZIP resource packs), 3D model data, JSON animation matrices, textures, configuration files, documentation, and any related derivative assets.
 
-1.3 “商业使用”（Commercial Use）：指任何以直接或间接获取金钱、利润、商业优势、实物对价、流量变现或其他经济利益为目的的使用行为。
-1.3 "Commercial Use": Refers to any use intended to obtain money, profit, commercial advantage, physical consideration, traffic monetization, or other economic benefits, directly or indirectly.
+第一条 定义
 
-1.4 “修改”（Modification）：指对本作品的源代码、模型结构、贴图材质、动画数据或任何底层文件进行篡改、删减、替换或二次创作。
-1.4 "Modification": Refers to tampering with, deleting, replacing, or creating secondary works based on the source code, model structure, textures, animation data, or any underlying files of the Work.
+1.1 许可方（Licensor）：特指 DawnAurora0221。作为本作品的创作者、版权持有人及知识产权权利人，在适用法律允许范围内保留对本协议的最终解释权及衍生授权权利。
+1.2 许可方有权通过官方发布源更新本协议、联系方式、作品信息及授权条件。
+1.3 本作品（The Work）：指许可方发布或授权发布的全部内容，包括但不限于源代码、编译后的可执行文件、JAR 包、ZIP 资源包、数据包、3D 模型数据、JSON 动画矩阵、材质贴图、音效、字体、配置文件、文档、说明文件、API、脚本、插件、附属资源及任何相关资产。
+1.4 本作品包括其全部或任何部分，无论以何种格式存储、传输、展示或运行。
+1.5 官方发布源（Official Source）：指许可方指定的作品原始发布页面，即 license.dawnaurora.dpdns.org。以官方发布源所载版本、协议和说明为准。
+1.6 您（You / Licensee）：指任何下载、安装、复制、访问、分发、托管或使用本作品的个人、组织、公司、服务器运营者、平台或其他实体。
+1.7 若您代表某一实体使用本作品，您声明并保证您已获得该实体充分授权接受本协议。
+1.8 分享（Share）：指通过任何物理或数字媒介，向公众提供本作品或其中任何部分的行为，包括复制、发行、公开传播、上传、镜像、分发、提供下载链接或以其他方式使第三方能够获取本作品。
+1.9 分享不包括仅为个人使用目的而制作备份，也不包括在未向公众提供的情况下在个人设备上安装和使用。
+1.10 非商业性使用（NonCommercial Use）：指并非主要以商业优势或金钱报酬为目的的使用行为。
+1.11 判断是否具有商业目的，应综合考虑行为的具体情境、动机和实际效果，包括是否存在直接或间接的经济利益、商业推广、流量变现、品牌赞助、付费墙、会员收入、广告解锁、捐赠回报、数据收益或其他经济回报。
+1.12 以下情形一律视为商业性使用（列举非穷尽）：售卖、付费下载、付费墙、付费服务器、付费白名单、付费整合包、付费教程、付费咨询、商业托管、租赁、SaaS、API 包装收费、品牌赞助、带货、众筹、NFT、代币化或其他金融化行为。
+1.13 演绎作品 / 修改（Adapted Material / Modification）：指基于本作品全部或实质性部分，对其源代码、模型结构、贴图材质、动画数据、配置文件、文档或任何底层文件进行翻译、篡改、删减、替换、重混、合并、移植、反编译、破解、提取或二次创作而形成的材料。
+1.14 为本协议之目的，只要本作品被实质性改变、重新编排或与其他材料合并形成新作品，即产生演绎作品。
+1.15 分发（Distribution）：指通过任何物理或数字媒介，将本作品的原始文件或副本提供给第三方下载、复制、安装、访问或使用的行为，包括上传网盘、代码托管、论坛、整合包、服务器、镜像站等。
+1.16 分发属于“分享”的一种具体形式。
+1.17 公开传播（Public Communication）：指通过视频、直播、网站、社交媒体、服务器、应用、平台等方式向公众展示、播放、演示或提供本作品。
+1.18 付费墙（Paywall）：指要求付款、订阅、会员、赞助、捐赠解锁、广告解锁、付费白名单或其他对价才能访问、下载、安装、使用或获得完整功能的一切安排。
+1.19 整合包（Modpack）：指将本作品与其他模组、资源、配置或文件组合后分发的集合。
+1.20 服务器（Server）：指运行本作品或其中任何部分的单人、多人、公共、私人、商业或非商业服务器。
+1.21 第三方材料（Third-Party Materials）：指本作品中可能包含或依赖的第三方开源库、字体、音效、模型、素材、API、平台组件或其他材料。
+1.22 贡献（Contribution）：指您向许可方提交的代码、文档、素材、问题反馈、建议、补丁或其他内容。
+1.23 AI/ML 训练（AI/ML Training）：指使用本作品全部或部分内容进行机器学习、人工智能训练、微调、数据集构建、模型评估、代码生成、资产生成、风格模仿、数据挖掘、文本与数据挖掘或类似活动。
+1.24 技术措施（Technical Measures）：指本作品中用于识别、保护、限制访问或管理权利的任何技术手段，包括版权标识、数字水印、访问控制、加密措施、完整性校验机制等。
+1.25 书面授权（Written Authorization）：指许可方以书面、电子签名、电子邮件、官方工单、授权证书或其他可留存记录方式作出的明确授权。
+1.26 个人使用（Personal Use）：指自然人为自身非商业娱乐、学习、测试目的，在个人设备上使用本作品，且不向公众分享或用于任何直接或间接的经济利益。
+1.27 免费（Free）：指不要求任何付款、订阅、会员、强制赞助、捐赠解锁、广告解锁、付费白名单或其他对价。
+1.28 著作权与类似权利（Copyright and Similar Rights）：指著作权及与著作权密切相关的类似权利，包括但不限于表演者权、录音录像制作者权、广播组织权以及数据库特别权利。
+1.29 数据库特别权利（Sui Generis Database Rights）：指适用法律赋予的、对数据库内容进行提取或再利用的特别权利，独立于著作权而存在。
+1.30 作品文件（Work Files）：指构成本作品的任何文件、数据、代码、资产、文档或其组合，无论以何种格式存储或传输。
+1.31 官方标识（Official Marks）：指许可方使用的名称、图标、域名、作者署名、版本标识及其他品牌元素，包括“DawnAurora”“DawnAurora0221”及官方发布源域名。
+1.32 实质性部分（Substantial Part）：指本作品中具有独立价值、核心功能、主要创意表达或重要数据集合的部分，判断时应考虑质量与数量双重标准。
+1.33 非实质性部分（Insubstantial Part）：指本作品中零散、次要、不构成核心表达且不足以替代原作品的部分。
+1.34 提取（Extraction）：指通过任何方式将数据库或作品文件中的内容转移至另一媒介或系统。
+1.35 再利用（Re-utilization）：指通过分发、出租、在线传输或其他方式向公众提供数据库或作品文件的全部或实质性部分。
+1.36 商业优势（Commercial Advantage）：指在市场竞争、客户获取、成本节约、效率提升、品牌曝光、流量增长或其他经营活动中获得的有利地位。
+1.37 金钱报酬（Monetary Compensation）：指以货币、代金券、积分、虚拟货币、实物对价或其他可折算经济价值的形式获得的回报。
+1.38 平台规则（Platform Rules）：指 Minecraft 或其他平台的最终用户许可协议、社区规则、开发者政策及运营规范。
+1.39 技术规避（Circumvention）：指破解、绕过、移除、禁用或规避本作品的任何技术措施、访问控制、版权标识或权利管理信息。
+1.40 权利管理信息（Rights Management Information）：指本作品中用于识别作者、版权持有人、许可条件、官方发布源或其他权利信息的标识、文字、元数据或编码。
 
-1.5 “分发”（Distribution）：指通过任何物理或数字媒介，将本作品的原始文件提供给第三方下载、复制或使用的行为。
-1.5 "Distribution": Refers to providing the original files of the Work to third parties for download, copying, or use through any physical or digital medium.
 
-## 第二条 授权范围（允许事项） / Article 2: Grant of License (Allowed Actions)
+第二条 适用范围
 
-在严格遵守本协议的前提下，许可方授予您非独占、不可转让、可撤销的有限许可，允许您进行以下行为：
+2.1 授权授予：在严格遵守本协议的前提下，许可方授予您全球范围内、免费的、非独占、不可再许可、不可转让、可撤销的有限许可。
+2.2 本许可仅允许您进行本协议第三条明确允许的行为。
+2.3 授权期限：本许可自您接受本协议之日起生效，直至依据本协议第六条终止。
+2.4 许可方保留在任何时候以任何理由撤销本许可的权利，但已依据本协议合法完成的非商业原样分享不受追溯影响。
+2.5 授权地域：本许可适用于全球范围，但您应遵守您所在法域及使用地的强制性法律规定。
+2.6 本协议不排除或限制适用法律下不可排除或不可限制的消费者权利。
+2.7 本协议不排除基于著作权例外或限制（如合理使用、法定许可）而无需授权即可进行的使用。
+2.8 媒体与格式：本许可适用于一切现有及未来出现的媒体和格式，但仅限本协议明确允许的非商业原样分享。
+2.9 您不得将本作品转换为其他格式后作为修改版或衍生作品发布。
+2.10 接受方式：您下载、安装、复制、访问、分发、托管或使用本作品任何部分，即视为接受本协议。
+2.11 通过行使本协议授予的权利，您同意受本协议条款约束。
+2.12 本协议的接受不要求任何形式的书面签署或点击确认；实际使用行为本身即构成充分的接受意思表示。
+2.13 代表实体：若您代表组织、公司、服务器或平台使用本作品，您声明并保证您已获得该实体充分授权接受本协议，且该实体将受本协议约束。
+2.14 民事行为能力：您声明您具备适用法律要求的完全民事行为能力。
+2.15 若您为未成年人，应在监护人同意和指导下使用。
+2.16 平台规则：若本作品用于 Minecraft 或其他平台，您还应遵守该平台最终用户许可协议及社区规则。
+2.17 本协议不替代平台规则；若平台规则与本协议冲突，就本作品而言以本协议为准，但您不得以平台规则为由违反本协议。
+2.18 权利保留：本协议未明确授予的权利均由许可方保留。
+2.19 源码可见不构成开源许可，不授予修改发布权、商业使用权、再许可权或所有权。
+2.20 本协议不授予任何商标权、品牌使用权或官方标识使用权，除非为原样分享所必需的署名和链接。
+2.21 本协议不授予任何专利权或专利申请权。
+2.22 本协议不授予任何对许可方名称、肖像、声音或形象进行商业利用的权利。
+2.23 本协议不授予任何对官方发布源页面、数据库或服务进行抓取、镜像或仿冒的权利。
+2.24 本协议不构成任何形式的合伙、代理、雇佣、特许经营或合资关系。
+2.25 本协议不构成许可方对任何第三方行为的认可、背书或担保。
+2.26 本协议不构成许可方对作品适用性、合法性或平台兼容性的保证。
+2.27 本协议不构成对任何侵权行为的豁免或纵容。
+2.28 本协议不限制许可方对侵权行为采取法律行动的权利。
+2.29 本协议不限制许可方通过官方发布源发布补充条款、授权例外或单独授权协议的权利。
+2.30 若本协议与许可方另行发布的书面授权冲突，就获授权事项以书面授权为准。
 
-Subject to strict compliance with this Agreement, the Licensor grants you a non-exclusive, non-transferable, revocable limited license to perform the following actions:
 
-2.1 个人游玩与使用（Personal Use and Gameplay）：
-您可以在个人的设备上自由下载、安装并使用本作品进行游玩，无需支付任何费用。您可以根据个人喜好，在本地修改仅供自己使用的配置文件（如 config 文件），但严禁将修改后的配置文件公开发布。
-You may freely download, install, and use the Work on your personal devices for gameplay without any payment. You may modify local configuration files solely for your own use, but it is strictly forbidden to publicly release them.
+第三条 许可条件
 
-2.2 查看与学习源码（Viewing and Learning Source Code）：
-本作品为“源码可见”。您有权下载、阅读、研究本作品的源代码与文件结构，以学习其中的技术原理、物理算法与动画逻辑。但这并不代表您获得了修改或分发修改版的权利。
-The Work is "Source-Available". You have the right to download, read, and study the source code and file structure of the Work to learn its technical principles, physics algorithms, and animation logic. However, this does not grant you the right to modify or distribute modified versions.
+3.1 复制与分享未经修改的副本
+3.1.1 您可以复制、分发、公开传播本作品的原始完整副本。
+3.1.2 分享行为严格限于非商业性目的。
+3.1.3 副本未经任何形式的修改、删减、增补、翻译、重混或重新编排。
+3.1.4 完整保留原作者署名、版权声明和本协议文件。
+3.1.5 提供指向官方发布源 license.dawnaurora.dpdns.org 的明确链接。
+3.1.6 不得声称您是作者或官方发布者。
+3.1.7 不得移除、掩盖或规避任何版权标识或技术措施。
+3.1.8 不得将本作品置于任何付费墙、会员专属、赞助者专属或广告解锁机制之后。
+3.1.9 不得从分享行为中直接或间接获取任何经济利益。
+3.1.10 不得以分享为名引导他人获取未经授权的修改版或破解版。
+3.1.11 不得通过分享行为损害许可方声誉或官方发布源流量。
+3.1.12 不得将本作品上传至以收费、广告分成或会员制为主要盈利模式的平台，除非该平台仅提供免费存储且不从中获取与本作品相关的直接收益。
+3.1.13 不得在分享页面插入与本作品无关的商业广告、推广链接或赞助内容。
+3.1.14 不得将本作品作为其他付费产品或服务的赠品、诱饵或引流工具。
+3.1.15 不得以批量、自动化或镜像方式大规模分发本作品，除非事先取得书面授权。
+3.1.16 分享时应注明作品版本号，避免用户误用旧版。
+3.1.17 若官方发布源提供更新版本，您应及时停止分享旧版并引导用户获取新版。
+3.1.18 不得删除、篡改或伪造作品文件中的元数据、版权信息或协议文件。
+3.1.19 不得将本作品与恶意软件、病毒、木马或欺诈内容捆绑分享。
+3.1.20 不得利用分享行为收集用户个人信息或进行钓鱼。
 
-2.3 原样分发（Unmodified Distribution）：
-您可以将本作品的原始压缩包（未经任何修改）直接分享或转载至其他平台，前提是必须保留原作者署名、本协议文件，并提供指向官方发布源的明确链接。您不得从中收取任何费用。
-You may share or repost the original unmodified package of the Work to other platforms, provided that the original author's attribution, this License file, and a clear link to the official release source are retained. You must not charge any fees for this.
+3.2 个人游玩与本地使用
+3.2.1 您可以在个人设备上自由下载、安装并使用本作品进行游玩或学习，无需支付费用。
+3.2.2 您可以修改仅供自己使用的本地配置文件（如 config 文件）。
+3.2.3 该等修改后的文件不得以任何形式向公众分享、分发、上传至公开仓库、整合包、服务器或第三方平台。
+3.2.4 本地修改不得用于绕过付费墙、技术措施或授权限制。
+3.2.5 本地修改不得用于开发替代性、竞争性或衍生作品。
+3.2.6 本地修改不得用于商业目的。
+3.2.7 本地修改不得导致本作品实质性部分的公开传播。
+3.2.8 您应自行承担本地修改导致的游戏崩溃、存档损坏或数据丢失风险。
 
-2.4 免费整合包集成（Free Modpack Integration）：
-您可以将本作品作为 Minecraft 整合包的一部分进行分发，前提是该整合包必须完全免费（无付费墙、无强制赞助、无付费服务器白名单）。您必须在整合包的鸣谢名单中明确标注 DawnAurora0221 的贡献，并提供官方链接。
-You may include the Work as part of a Minecraft modpack, provided that the modpack is completely free (no paywalls, no forced sponsorships, no paid server whitelists). You must clearly credit DawnAurora0221 in the modpack's credits and provide a link to the official source.
+3.3 查看与学习源码
+3.3.1 您有权下载、阅读、研究本作品的源代码与文件结构，以学习技术原理、物理算法与动画逻辑。
+3.3.2 您不得复制、改编、提炼实质性代码或资产用于任何其他项目。
+3.3.3 您不得据此开发替代性、竞争性或衍生作品。
+3.3.4 学习行为不得导致本作品实质性部分的公开传播或商业利用。
+3.3.5 学习行为不得涉及破解、反编译或规避技术措施。
+3.3.6 学习行为不得用于 AI/ML 训练或数据集构建。
+3.3.7 学习行为不得用于撰写付费教程、付费咨询或商业培训。
+3.3.8 学习行为不得用于申请专利、软件著作权或其他知识产权。
+3.3.9 学习行为不得用于开发与本作品功能相似的竞争性产品。
+3.3.10 学习行为不得用于传播本作品的实质性代码片段。
 
-2.5 视频与直播创作（Video and Live Streaming Creation）：
-您可以在各大视频或直播平台展示本作品，并可通过平台官方的广告分成计划获取收益。前提是必须在视频简介或直播信息中注明原作者及官方链接。
-You may showcase the Work on video or live streaming platforms and earn revenue through the platform's official ad-revenue sharing programs. The premise is that you must credit the original author and provide the official link in the video description or stream information.
+3.4 免费整合包集成
+3.4.1 您可以将本作品未经修改的原始文件作为 Minecraft 整合包的一部分进行分享。
+3.4.2 整合包完全免费，无付费墙、无强制赞助、无捐赠解锁、无广告解锁、无付费服务器白名单。
+3.4.3 在鸣谢名单中明确标注 DawnAurora0221 的贡献。
+3.4.4 提供官方发布源链接。
+3.4.5 不得将本作品作为付费卖点、会员专属或赞助者专属内容。
+3.4.6 不得将本作品文件修改、拆包或混入其他资源包后作为整合包的一部分分发。
+3.4.7 整合包不得以本作品为核心卖点进行商业推广或流量变现。
+3.4.8 整合包不得要求用户关注、订阅、捐赠或完成其他任务才能获取本作品。
+3.4.9 整合包不得将本作品置于付费下载、会员专区或赞助者专区。
+3.4.10 整合包不得删除、篡改或伪造本作品的版权信息与协议文件。
+3.4.11 整合包应明确标注本作品版本号，避免用户误用旧版。
+3.4.12 整合包不得将本作品与恶意软件、病毒或欺诈内容捆绑。
+3.4.13 整合包不得通过本作品收集用户个人信息。
+3.4.14 整合包不得以本作品名义进行非法集资或众筹。
+3.4.15 整合包不得将本作品用于赌博、色情、暴力、仇恨或欺诈场景。
 
-## 第三条 严格禁止事项（限制边界） / Article 3: Strict Prohibitions (Boundaries)
+3.5 免费服务器运行
+3.5.1 您可以在私人或公共免费服务器中安装并运行本作品的未经修改的原始文件。
+3.5.2 服务器不得要求付费才能进入。
+3.5.3 不得设置付费白名单、捐赠解锁、会员专属、赞助者专属。
+3.5.4 不得以本作品为卖点收取任何费用。
+3.5.5 不得将本作品用于商业托管、租赁或收费服务。
+3.5.6 服务器运营者必须遵守本协议并保留署名与协议文件。
+3.5.7 服务器不得通过广告、赞助或其他方式从本作品直接获取商业利益，除非该等利益与本作品无实质性关联且不构成商业使用。
+3.5.8 服务器不得将本作品作为付费套餐、会员权益或赞助回报。
+3.5.9 服务器不得删除、篡改或伪造本作品的版权信息与协议文件。
+3.5.10 服务器不得修改本作品文件后运行，除非修改仅为本地配置且不向公众提供。
+3.5.11 服务器不得将本作品用于商业推广、品牌赞助或带货。
+3.5.12 服务器不得将本作品与恶意软件、病毒或欺诈内容捆绑。
+3.5.13 服务器不得通过本作品收集用户个人信息。
+3.5.14 服务器不得以本作品名义进行非法集资或众筹。
+3.5.15 服务器不得将本作品用于赌博、色情、暴力、仇恨或欺诈场景。
+3.5.16 服务器不得规避本作品的技术措施或访问控制。
+3.5.17 服务器不得将本作品拆包后混入其他资源包。
+3.5.18 服务器不得以本作品为基础开发竞争性产品或服务。
 
-许可方在此郑重声明，以下行为触碰了本协议的绝对红线：
+3.6 视频、直播与非商业展示
+3.6.1 您可以在视频或直播平台展示本作品的游玩过程或进行非商业性评测。
+3.6.2 在视频简介、直播信息或置顶评论中注明原作者 DawnAurora0221 及官方发布源链接。
+3.6.3 不得宣称您为作者或官方授权方。
+3.6.4 不得提供本作品的修改版、破解版、拆包资产或付费下载。
+3.6.5 平台官方广告分成计划以外的商业变现（品牌赞助、带货、商业推广、会员专属内容、付费教程等）不属于本条允许范围，需另行取得书面授权。
+3.6.6 展示内容不得实质性替代本作品的官方获取渠道。
+3.6.7 不得通过展示行为引导观众获取未经授权的修改版或破解版。
+3.6.8 不得在展示中删除、掩盖或篡改本作品的版权信息。
+3.6.9 不得在展示中宣称本作品为免费开源软件。
+3.6.10 不得在展示中提供本作品的付费下载链接或网盘收费资源。
+3.6.11 不得在展示中将本作品与恶意软件、病毒或欺诈内容关联。
+3.6.12 不得在展示中利用本作品进行非法集资或众筹。
+3.6.13 不得在展示中将本作品用于赌博、色情、暴力、仇恨或欺诈场景。
+3.6.14 不得在展示中规避本作品的技术措施或访问控制。
+3.6.15 不得在展示中以本作品为基础教授如何修改、破解或商用。
+3.6.16 不得在展示中贬损、侮辱或恶意抹黑许可方。
+3.6.17 不得在展示中冒充官方账号或官方发布源。
+3.6.18 不得在展示中诱导观众进行付费赞助以获取本作品。
+3.6.19 不得在展示中将本作品作为会员专属或赞助者专属内容。
+3.6.20 不得在展示中将本作品与付费课程、付费社群或付费咨询捆绑。
 
-The Licensor hereby solemnly declares that the following actions violate the absolute red lines of this Agreement:
+3.7 备份与存档
+3.7.1 您可以为个人使用目的制作合理数量的备份副本。
+3.7.2 备份副本不得分发、公开或用于商业目的。
+3.7.3 备份副本应完整保留版权声明和本协议文件。
+3.7.4 备份副本不得用于规避本协议的限制。
+3.7.5 备份副本不得上传至公开仓库、网盘或第三方平台。
+3.7.6 备份副本不得用于 AI/ML 训练或数据集构建。
+3.7.7 备份副本不得用于开发竞争性产品或服务。
+3.7.8 备份副本不得用于商业托管或租赁。
+3.7.9 备份副本不得与恶意软件、病毒或欺诈内容捆绑。
+3.7.10 备份副本不得用于非法集资或众筹。
 
-3.1 禁止任何形式的修改与演绎（No Modification）：
-绝对严禁基于本作品的源代码、模型资产、材质贴图或任何文件进行修改、反编译、破解、重混或二次创作，并将修改后的版本作为独立产品发布。严禁将本作品的模型或材质拆包后混入您自己的资源包中。
-It is absolutely forbidden to modify, decompile, crack, remix, or create derivative works based on the source code, model assets, textures, or any files of the Work, and publish the modified version as a standalone product. It is strictly forbidden to extract the models or textures from the Work and mix them into your own resource pack.
+3.8 引用与评测
+3.8.1 您可以在合理范围内引用本作品的名称、截图或短片段进行非商业评测、新闻报道或学术讨论。
+3.8.2 引用必须署名。
+3.8.3 引用不得实质性替代原作品。
+3.8.4 引用行为不得导致本作品实质性部分的公开传播或商业利用。
+3.8.5 引用不得用于商业广告、品牌赞助或带货。
+3.8.6 引用不得用于付费教程、付费咨询或商业培训。
+3.8.7 引用不得用于 AI/ML 训练或数据集构建。
+3.8.8 引用不得用于开发竞争性产品或服务。
+3.8.9 引用不得删除、篡改或伪造版权信息。
+3.8.10 引用不得冒充官方发布或官方授权。
 
-3.2 禁止商业倒卖与收费（No Commercial Reselling）：
-绝对严禁将本作品（包含原版或任何修改版）用于任何商业目的。严禁在淘宝、闲鱼、Fiverr 等平台售卖；严禁将本作品置于付费墙后；严禁将其用于需要付费才能进入的服务器。
-It is absolutely forbidden to use the Work (including the original or any modified version) for any commercial purpose. It is strictly forbidden to sell it on platforms like Taobao or Fiverr; strictly forbidden to place it behind a paywall; strictly forbidden to use it on servers that require payment to enter.
+3.9 严格禁止事项
+3.9.1 禁止修改与演绎发布：严禁基于本作品的源代码、模型资产、材质贴图、动画数据、配置文件或任何文件进行修改、反编译、破解、重混、翻译、移植、合并或二次创作，并将修改版、衍生版作为独立产品、资源包、模组、插件、整合包或服务发布。
+3.9.2 禁止拆包混入：严禁将本作品的模型、材质、动画、音效、代码或其他资产拆包、提取后混入您自己的资源包、整合包、模组、插件、服务器、应用或其他项目。
+3.9.3 禁止商业倒卖与收费：严禁将本作品（含原版或任何修改版）用于任何商业目的。
+3.9.4 严禁在淘宝、闲鱼、Fiverr 等平台售卖本作品。
+3.9.5 严禁将本作品置于付费墙后。
+3.9.6 严禁将本作品用于需要付费才能进入的服务器。
+3.9.7 严禁将本作品用于付费整合包、付费白名单、付费教程、付费咨询、商业托管、租赁、SaaS、API 包装收费或其他收费服务。
+3.9.8 禁止滥用与冒充：严禁移除、掩盖本作品文件内的任何版权声明与作者署名。
+3.9.9 严禁使用与“DawnAurora”或“DawnAurora0221”高度相似的名称、图标、域名、账号来混淆视听或冒充原作者。
+3.9.10 禁止非法集资与违禁内容：严禁利用本作品进行非法众筹、集资、NFT、代币化或其他金融化行为。
+3.9.11 严禁将本作品用于赌博、色情、暴力、仇恨、欺诈或违反适用法律规定的场景。
+3.9.12 禁止 AI/ML 训练与数据抓取：未经书面授权，严禁使用本作品全部或部分内容进行 AI/ML 训练、微调、数据集构建、模型评估、代码生成、资产生成、风格模仿、数据挖掘、文本与数据挖掘。
+3.9.13 严禁通过爬虫、脚本、自动化工具批量抓取本作品文件、代码、模型、贴图或数据。
+3.9.14 禁止规避技术措施：严禁破解、绕过、移除或规避本作品的任何技术措施、访问控制、版权标识或权利管理信息。
+3.9.15 禁止再许可与权利转让：严禁将本协议授予您的权利再许可、转让、出租、出借、抵押或以其他方式提供给第三方。
+3.9.16 禁止违反平台规则：若本作品用于 Minecraft 或其他平台，您还应遵守该平台最终用户许可协议及社区规则；本协议不替代平台规则，但您不得以平台规则为由违反本协议。
+3.9.17 禁止以本作品为基础开发竞争性产品或服务：未经书面授权，严禁利用本作品的全部或实质性部分开发、发布或运营与本作品功能相似、替代性或竞争性的产品、服务、模组、插件、资源包或平台。
+3.9.18 禁止将本作品用于训练或改进与本作品存在竞争关系的人工智能模型。
+3.9.19 禁止将本作品的数据、模型或贴图用于生成式人工智能的素材库。
+3.9.20 禁止将本作品的文件上传至公开数据集或模型训练平台。
 
-3.3 禁止滥用与冒充（No Abuse and Impersonation）：
-严禁移除、掩盖本作品文件内的任何版权声明与作者署名。严禁使用与“DawnAurora”或“DawnAurora0221”高度相似的名称、图标来混淆视听或冒充原作者。
-It is strictly forbidden to remove or obscure any copyright notices or author attributions within the Work's files. It is strictly forbidden to use names or icons highly similar to "DawnAurora" or "DawnAurora0221" to cause confusion or impersonate the original author.
+3.10 平台官方广告分成例外
+3.10.1 仅在视频或直播平台官方广告分成计划范围内，且同时满足本协议第 3.6 条全部条件时，您可保留该等广告分成收益。
+3.10.2 该例外不适用于品牌赞助、带货、商业推广、会员专属内容、付费教程或其他形式的商业变现。
+3.10.3 该例外不适用于将本作品作为广告主要卖点或付费推广内容。
+3.10.4 该例外不适用于通过广告分成计划大规模、自动化或镜像式传播本作品。
+3.10.5 该例外不适用于将广告收益与本作品的修改版、破解版或拆包资产关联。
+3.10.6 该例外不适用于违反平台规则或适用法律的展示行为。
+3.10.7 许可方保留对该例外进行解释和限制的权利。
 
-3.4 禁止非法集资与违禁内容（No Illegal Fundraising and Prohibited Content）：
-严禁利用本作品进行非法众筹或集资。严禁将本作品用于任何带有赌博、色情、暴力或违反适用法律规定的场景中。
-It is strictly forbidden to use the Work for illegal crowdfunding or fundraising. It is strictly forbidden to use the Work in any scenario involving gambling, pornography, violence, or violations of applicable laws.
+3.11 授权条件违反的后果
+3.11.1 若您违反本条任何条件，本协议授予您的全部许可立即自动终止。
+3.11.2 您必须立即停止使用并销毁所有副本。
+3.11.3 许可方保留依据本协议第六条及适用法律追究责任的权利。
+3.11.4 违反授权条件的行为可能构成著作权侵权、不正当竞争或其他违法行为。
+3.11.5 许可方有权向平台发送侵权投诉、DMCA 下架通知或采取其他维权措施。
+3.11.6 因维权产生的合理费用由违约方承担。
+3.11.7 许可方未立即采取行动不构成对违约行为的豁免。
+3.11.8 本协议终止不影响许可方对已发生违约行为追究责任的权利。
 
-## 第四条 知识产权与所有权 / Article 4: Intellectual Property and Ownership
 
-4.1 本作品的所有著作权、专利权及其他知识产权均完全归属于许可方 DawnAurora0221。本协议仅授予您有限的使用权，绝不构成任何所有权的转移。
-4.1 All copyrights, patent rights, and other intellectual property rights of the Work are entirely owned by the Licensor DawnAurora0221. This Agreement only grants you limited usage rights and absolutely does not constitute any transfer of ownership.
+第四条 数据库特别权利
 
-4.2 尊重作者心血：您在使用本作品时，不得在任何公开场合对许可方进行侮辱、谩骂、恶意抹黑或人身攻击。
-4.2 Respect for the Author's Effort: You must not insult, abuse, maliciously defame, or personally attack the Licensor in any public setting while using the Work.
+4.1 若本作品包含数据库，许可方保留对该数据库内容的提取和再利用的特别权利。
+4.2 该等特别权利包括但不限于对数据库全部或实质性部分的提取、再利用、重复利用或向公众提供。
+4.3 仅在为行使本协议第三条明确允许的非商业原样分享所必需的范围内，您可以提取或再利用本作品数据库的非实质性部分。
+4.4 您不得提取或再利用数据库的实质性部分，除非该等提取或再利用属于适用法律下不可排除的例外或限制。
+4.5 您不得将本作品数据库的实质性部分用于商业目的。
+4.6 您不得将本作品数据库的实质性部分混入其他数据库或作品。
+4.7 您不得通过自动化工具批量抓取本作品数据库。
+4.8 您不得将本作品数据库用于 AI/ML 训练。
+4.9 您不得规避许可方为保护数据库而采取的技术措施。
+4.10 您不得将本作品数据库的实质性部分用于开发竞争性产品或服务。
+4.11 若本协议关于数据库特别权利的条款与适用法律冲突，就数据库特别权利部分以适用法律为准；就本作品其余部分以本协议为准。
+4.12 许可方保留对数据库特别权利进行单独书面授权的权利。
+4.13 未经书面授权，任何对数据库实质性部分的商业性提取或再利用均视为侵权。
+4.14 本条款不限制适用法律下不可排除的数据库例外或限制。
+4.15 本条款不构成对数据库内容著作权的放弃或限制。
 
-## 第五条 免责声明 / Article 5: Disclaimer of Warranty
 
-5.1 本作品按“原样”（AS IS）提供，不附带任何明示或暗示的担保。许可方不保证本作品无缺陷、无漏洞或绝对满足您的特定需求。
-5.1 The Work is provided "AS IS" without any express or implied warranties. The Licensor does not warrant that the Work is free of defects, bugs, or absolutely meets your specific requirements.
+第五条 免责声明与责任限制
 
-5.2 您需自行承担因下载、安装或使用本作品而产生的所有风险。许可方不对因本作品导致游戏崩溃、存档损坏、设备损坏或数据丢失承担任何直接或间接责任。
-5.2 You assume all risks arising from downloading, installing, or using the Work. The Licensor shall not be liable, directly or indirectly, for game crashes, save corruption, device damage, or data loss caused by the Work.
+5.1 本作品按“原样”（AS IS）提供，不附带任何明示或暗示的担保。
+5.2 担保排除包括但不限于适销性、特定用途适用性、不侵权、无缺陷、无漏洞、无病毒、与任何平台或版本兼容的担保。
+5.3 许可方不保证本作品持续可用、无错误或绝对满足您的特定需求。
+5.4 许可方不保证本作品符合任何特定平台、服务器、模组或整合包的兼容性要求。
+5.5 许可方不保证本作品不会导致游戏崩溃、存档损坏、设备损坏或数据丢失。
+5.6 您需自行承担因下载、安装、使用、分享或分发本作品产生的所有风险。
+5.7 许可方不对游戏崩溃、存档损坏、设备损坏、数据丢失、服务器故障、收益损失、名誉损害或其他直接或间接损失承担责任。
+5.8 在适用法律允许的最大范围内，许可方对您的总责任不超过您为获得本作品许可实际支付的费用（通常为零）。
+5.9 许可方不对任何间接、附带、特殊、惩罚性或后果性损害承担责任，无论该等损害是否可预见。
+5.10 若因您违反本协议或适用法律而导致许可方遭受任何索赔、诉讼、损失、费用或支出（包括合理的律师费），您应赔偿许可方并使许可方免受损害。
+5.11 本协议不排除或限制适用法律下不可排除或不可限制的责任。
+5.12 若本协议任何责任限制条款被认定无效，其余条款仍继续有效。
+5.13 您应自行评估本作品的合法性、安全性、适用性和平台兼容性。
+5.14 您应自行备份游戏存档、设备数据和服务器配置。
+5.15 您应自行遵守所在法域的法律法规和平台规则。
+5.16 许可方不对第三方材料的安全性、合法性或兼容性承担责任。
+5.17 许可方不对您因使用本作品而获得的任何收益、流量或商业机会承担责任。
+5.18 许可方不对您因违反本协议而遭受的平台处罚、账号封禁或法律后果承担责任。
+5.19 本免责声明不构成对故意侵权或重大过失责任的排除，若适用法律另有强制规定，从其规定。
+5.20 本条款在本协议终止后继续有效。
 
-## 第六条 违约处理与权利终止 / Article 6: Breach and Termination
 
-6.1 若您违反本协议的任何一条款，您使用本作品的许可将立即自动终止，无需许可方提前通知。您必须立即停止使用并销毁所有副本。
-6.1 If you breach any term of this Agreement, your license to use the Work will automatically terminate immediately without prior notice from the Licensor. You must immediately cease use and destroy all copies.
+第六条 期限与终止
 
-6.2 许可方保留向侵权内容所在的平台发送侵权投诉、数字千年版权法（DMCA）下架通知以及采取其他一切合法维权手段的权利。
-6.2 The Licensor reserves the right to send infringement complaints, Digital Millennium Copyright Act (DMCA) takedown notices, and take any other lawful rights-protection measures to the platforms hosting the infringing content.
+6.1 若您违反本协议任何条款，您使用本作品的许可将立即自动终止，无需许可方提前通知。
+6.2 您必须立即停止使用并销毁所有副本。
+6.3 本协议终止后，您不得继续行使本协议授予的任何权利。
+6.4 本协议终止后，您不得继续分享、分发、托管或使用本作品。
+6.5 您应销毁所有副本，包括备份副本，但为遵守法律或解决争议所必需的保留除外。
+6.6 本协议终止后，关于知识产权、免责声明、责任限制、赔偿、争议解决及语言解释的条款继续有效。
+6.7 许可方保留向侵权内容所在平台发送侵权投诉、DMCA 下架通知、平台举报以及采取其他合法维权手段的权利。
+6.8 因维权产生的合理费用（包括但不限于公证费、律师费、差旅费、鉴定费），由违约方承担。
+6.9 许可方未行使或延迟行使本协议项下的任何权利，不构成对该权利的放弃。
+6.10 许可方单次或部分行使权利不排除其进一步行使其他权利。
+6.11 本协议终止不影响许可方对终止前已发生违约行为追究责任的权利。
+6.12 本协议终止不影响用户依据适用法律享有的不可排除的消费者权利。
+6.13 本协议终止后，您不得以任何方式声称您仍获得许可方授权。
+6.14 本协议终止后，您不得继续使用官方标识或冒充官方发布者。
+6.15 本协议终止后，您不得继续分发本作品的副本，除非该等分发属于适用法律下不可排除的例外。
+6.16 本协议终止后，许可方有权要求您提供销毁副本的书面确认。
+6.17 本协议终止后，许可方有权通过官方发布源公告终止信息。
+6.18 本协议终止不构成对许可方其他救济权利的放弃。
+6.19 本协议终止后，您应配合许可方进行侵权内容下架。
+6.20 本协议终止条款应在最大允许范围内解释执行。
 
-6.3 因维权产生的合理费用（包括但不限于公证费、律师费、差旅费），由违约方承担。
-6.3 Reasonable costs incurred in defending rights shall be borne by the breaching party.
 
-## 第七条 授权例外与单独协商 / Article 7: Licensing Exceptions and Separate Negotiation
+第七条 其他条款
 
-7.1 若您希望基于本作品进行二次开发并发布衍生项目，或希望将本作品用于任何商业用途，必须事先联系许可方（DawnAurora0221）获取独立的书面授权。
-7.1 If you wish to develop a derivative project based on the Work and publish it, or wish to use the Work for any commercial purpose, you must contact the Licensor in advance to obtain separate written authorization.
-
-7.2 任何未经书面授权的修改、商用行为，均视为严重违约与侵权。
-7.2 Any modification or commercial use without written authorization shall be deemed a severe breach of Agreement and infringement.
+7.1 知识产权与所有权：本作品的所有著作权、专利权、商标权及其他知识产权均完全归属于许可方 DawnAurora0221。
+7.2 本协议仅授予有限使用权，绝不构成任何所有权转移。
+7.3 本作品的名称、标识、作者署名、官方发布源域名及相关品牌元素归许可方所有。
+7.4 未经书面授权，不得将官方标识用于商业宣传、冒充官方或造成混淆。
+7.5 您在使用本作品时，不得在任何公开场合对许可方进行侮辱、谩骂、恶意抹黑或人身攻击。
+7.6 本作品中如包含第三方材料，该等材料仍受其各自许可约束。
+7.7 若第三方许可与本协议冲突，就第三方材料部分以第三方许可为准；就本作品其余部分以本协议为准。
+7.8 您应自行遵守第三方材料的许可条件。
+7.9 除非另有书面约定，您向许可方提交的任何贡献，视为授予许可方永久、全球、免费、不可撤销、可再许可的权利。
+7.10 许可方有权使用、复制、修改、分发、公开展示及以其他方式利用该贡献。
+7.11 您声明您提交的贡献不侵犯任何第三方权利，且您有权作出上述授权。
+7.12 若您希望基于本作品进行二次开发并发布衍生项目，必须事先联系许可方获取独立的书面授权。
+7.13 若您希望将本作品用于任何商业用途，必须事先联系许可方获取独立的书面授权。
+7.14 授权联系：license@dawnaurora.dpdns.org。
+7.15 许可方可通过官方发布源更新联系方式，以最新公布为准。
+7.16 任何未经书面授权的修改、商用、再许可、AI 训练或大规模分发行为，均视为严重违约与侵权。
+7.17 书面授权应明确授权范围、期限、地域、费用及条件。
+7.18 未明确授予的权利仍由许可方保留。
+7.19 许可方可通过官方发布源发布更新版本。
+7.20 继续使用本作品即视为接受更新后的协议；若不同意，应停止使用并销毁副本。
+7.21 通知可通过官方发布源、仓库公告、电子邮件或平台公告作出。
+7.22 本协议构成双方就本作品授权达成的完整协议，取代先前口头或书面的相关说明。
+7.23 除非许可方书面同意，任何附加条款均不生效。
+7.24 若本协议任何条款被认定无效或不可执行，其余条款仍继续有效。
+7.25 该无效或不可执行条款应在最大允许范围内解释执行。
+7.26 本协议以中文为准；如提供其他语言译本，仅为方便阅读，冲突时以中文为准。
+7.27 本协议适用中华人民共和国法律（不含冲突法规则）。
+7.28 因本协议引起的争议，双方应友好协商。
+7.29 协商不成的，提交许可方所在地有管辖权的人民法院解决。
+7.30 在争议解决期间，您仍应遵守本协议并停止任何被指控的违约行为。
+7.31 本协议各条标题仅为方便阅读，不影响条款解释。
+7.32 本协议条款应按照其字面含义、上下文、协议目的及诚实信用原则进行解释。
+7.33 本协议不构成法律意见，不替代您所在法域下的强制性法律规定。
+7.34 本协议不替代任何平台规则。
+7.35 本协议不构成许可方对任何第三方行为的认可、背书或担保。
+7.36 本协议不构成任何形式的合伙、代理、雇佣、特许经营或合资关系。
+7.37 本协议不限制许可方对侵权行为采取法律行动的权利。
+7.38 本协议不限制许可方通过官方发布源发布补充条款、授权例外或单独授权协议的权利。
+7.39 若本协议与许可方另行发布的书面授权冲突，就获授权事项以书面授权为准。
+7.40 请通过官方发布源 license.dawnaurora.dpdns.org 或授权联系邮箱 license@dawnaurora.dpdns.org 联系 DawnAurora0221。
