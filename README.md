@@ -117,10 +117,10 @@
 
 ### 📜 License · 许可证 📜
 
-[![License](https://img.shields.io/badge/License-DawnAurora%20Universal%20Proprietary%201.0.0-lightgrey?style=flat-square)](https://www.license.dawnaurora.dpdns.org)
+[![License](https://img.shields.io/badge/License-DawnAurora%20Universal%20Proprietary%201.0.0-lightgrey?style=flat-square)](https://license.dawnaurora.dpdns.org)
 <br>
 
-[![License Page](https://img.shields.io/badge/License%20Page-www.license.dawnaurora.dpdns.org-lightgrey?logo=read-the-docs&logoColor=white&style=flat-square)](https://www.license.dawnaurora.dpdns.org)
+[![License Page](https://img.shields.io/badge/License%20Page-www.license.dawnaurora.dpdns.org-lightgrey?logo=read-the-docs&logoColor=white&style=flat-square)](https://license.dawnaurora.dpdns.org)
 <br>
 
 ---
@@ -1524,7 +1524,7 @@ DawnAurora-Player-Animations/
 [![Issues](https://img.shields.io/github/issues/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack?style=flat-square&logo=github&label=Issues&color=181717)](https://github.com/DawnAurora0221/DawnAurora-Player-Animations-Resource-Pack/issues)
 <br>
 
-[![License](https://img.shields.io/badge/License-DawnAurora%20Universal%20Proprietary%201.0.0-lightgrey?style=flat-square)](https://www.license.dawnaurora.dpdns.org)
+[![License](https://img.shields.io/badge/License-DawnAurora%20Universal%20Proprietary%201.0.0-lightgrey?style=flat-square)](https://license.dawnaurora.dpdns.org)
 <br>
 
 [![Website](https://img.shields.io/badge/Website-com.dawnaurora.dpdns.org-1bd96a?logo=googlechrome&logoColor=white&style=flat-square)](https://com.dawnaurora.dpdns.org)
