@@ -876,11 +876,11 @@ DawnAurora-Player-Animations/
 
 <div align="center">
 
-![coffee](https://cdn.modrinth.com/data/cached_images/02f8cfc4a5adf8389aaca553f96f01d45219747b.gif)
+[![Coffee](https://cdn.modrinth.com/data/cached_images/02f8cfc4a5adf8389aaca553f96f01d45219747b.gif)](https://modrinth.com/resourcepack/dawnaurora-player-animations)
 
-![EMF](https://cdn.modrinth.com/data/cached_images/0aa32bdb40851a6882ecba3cb37e95a6ecc4d85c_0.webp)
+[![EMF](https://cdn.modrinth.com/data/cached_images/0aa32bdb40851a6882ecba3cb37e95a6ecc4d85c_0.webp)](https://modrinth.com/mod/entity-model-features)
 
-![ETF](https://cdn.modrinth.com/data/cached_images/4a9fe8d33f8dcc4a61abf23919d9c04871f41937.png)
+[![ETF](https://cdn.modrinth.com/data/cached_images/4a9fe8d33f8dcc4a61abf23919d9c04871f41937.png)](https://modrinth.com/mod/entitytexturefeatures)
 
 </div>
 
