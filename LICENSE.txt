@@ -1,382 +1,1062 @@
-DawnAurora Universal Proprietary License 1.0.0
-极光通用专有许可协议 1.0.0
+DawnAurora Universal Proprietary License 1.1.0
+极光通用专有许可协议 1.1.0
+═══════════════════════════════════════════════════════════════════════
 
 Copyright (c) 2026 DawnAurora0221. All Rights Reserved.
 版权所有 (c) 2026 DawnAurora0221。保留所有权利。
 
-官方发布源：license.dawnaurora.dpdns.org
-授权联系：license@dawnaurora.dpdns.org
-适用作品：许可方名下所有已发布及未来将发布的数字资产
-协议版本：1.0.0
-生效日期：2026年
+官方发布源 Official Source：license.dawnaurora.dpdns.org
+授权联系 Licensing Contact：license@dawnaurora.dpdns.org
+适用作品 Applies To：许可方名下所有已发布及未来将发布的数字资产
+协议版本 License Version：1.1.0（本版为 1.0.0 的全面扩充版）
+生效日期 Effective Date：2026 年（以官方发布源所示日期为准）
+语言效力 Language Precedence：中文版本为准，英文版本为参考译文（见 14.9）
 
+═══════════════════════════════════════════════════════════════════════
 
-序言
+目 录 / TABLE OF CONTENTS
 
-本协议（以下简称“本协议”或“本许可”）由 DawnAurora0221（以下简称“许可方”“作者”或“版权持有人”）独立制定并发布。本协议是一份具有法律约束力的通用专有许可合同，适用于许可方名下所有已发布及未来将发布的数字资产，除非某一作品另有明确的书面许可说明。
+  序言 Preamble
+  第一条  定义 Definitions
+  第二条  适用范围与接受 Scope and Acceptance
+  第三条  授予的权利 Grant of Rights
+  第四条  条件与限制 Conditions and Restrictions
+  第五条  允许的例外 Permitted Exceptions
+  第六条  第三方材料 Third-Party Materials
+  第七条  数据库特别权利 Sui Generis Database Rights
+  第八条  免责声明 Warranty Disclaimer
+  第九条  责任限制 Limitation of Liability
+  第十条  赔偿 Indemnification
+  第十一条 期限与终止 Term and Termination
+  第十二条 违约与救济 Enforcement and Remedies
+  第十三条 适用法律与争议解决 Governing Law and Disputes
+  第十四条 一般条款 General Provisions
+  第十五条 协议版本与修订 Version and Amendments
+  附录 A  允许 / 禁止 速查表 Quick Reference Table
+  附录 B  常见问题 FAQ（非约束性 Non-binding）
+  附录 C  书面授权申请模板 Written Authorization Request Template
+  接受条款 Acceptance
 
-本作品采用“源码可见”（Source-Available）与“作者绝对保留所有权”的模式。源码可见不等于开源。任何个人、组织或实体在下载、安装、复制、分发、访问、托管或使用本作品的任何部分时，即视为已完整阅读、充分理解并同意接受本协议全部条款约束。若您不同意本协议任何内容，请立即停止使用并销毁所有相关文件。
+═══════════════════════════════════════════════════════════════════════
 
-本协议不授予您任何超出明确允许范围的权利。所有未明确授予的权利均由许可方保留。本协议不构成法律意见，不替代您所在法域下的强制性法律规定，也不替代任何平台规则。
+序言 / PREAMBLE
 
-本协议采用以下章节结构：定义、适用范围、许可条件、数据库特别权利、免责声明与责任限制、期限与终止、其他条款。该结构旨在清晰划定授权边界，明确允许与禁止事项，并保留许可方对作品的全部所有权。本协议条款应按照其字面含义、上下文、协议目的及诚实信用原则进行解释。各条标题仅为方便阅读，不影响条款解释。
+CN：本协议（以下简称“本协议”或“本许可”）由 DawnAurora0221（以下简称“许可方”“作者”或“版权持有人”）独立制定并发布。本协议是一份具有法律约束力的通用专有许可合同，适用于许可方名下所有已发布及未来将发布的数字资产，除非某一作品另有明确的书面许可说明。
 
+EN：This License (the "License") is independently drafted and published by DawnAurora0221 (the "Licensor", "Author" or "Copyright Holder"). It is a legally binding universal proprietary license agreement applicable to all digital assets published by the Licensor, now or in the future, unless a specific work carries an explicit written license statement to the contrary.
 
-第一条 定义
+CN：本作品采用“源码可见”（Source-Available）与“作者绝对保留所有权”的模式。**源码可见不等于开源**。任何个人、组织或实体在下载、安装、复制、分发、访问、托管或使用本作品的任何部分时，即视为已完整阅读、充分理解并同意接受本协议全部条款约束。若您不同意本协议任何内容，请立即停止使用并销毁所有相关文件。
 
-1.1 许可方（Licensor）：特指 DawnAurora0221。作为本作品的创作者、版权持有人及知识产权权利人，在适用法律允许范围内保留对本协议的最终解释权及衍生授权权利。
-1.2 许可方有权通过官方发布源更新本协议、联系方式、作品信息及授权条件。
-1.3 本作品（The Work）：指许可方发布或授权发布的全部内容，包括但不限于源代码、编译后的可执行文件、JAR 包、ZIP 资源包、数据包、3D 模型数据、JSON 动画矩阵、材质贴图、音效、字体、配置文件、文档、说明文件、API、脚本、插件、附属资源及任何相关资产。
-1.4 本作品包括其全部或任何部分，无论以何种格式存储、传输、展示或运行。
-1.5 官方发布源（Official Source）：指许可方指定的作品原始发布页面，即 license.dawnaurora.dpdns.org。以官方发布源所载版本、协议和说明为准。
-1.6 您（You / Licensee）：指任何下载、安装、复制、访问、分发、托管或使用本作品的个人、组织、公司、服务器运营者、平台或其他实体。
-1.7 若您代表某一实体使用本作品，您声明并保证您已获得该实体充分授权接受本协议。
-1.8 分享（Share）：指通过任何物理或数字媒介，向公众提供本作品或其中任何部分的行为，包括复制、发行、公开传播、上传、镜像、分发、提供下载链接或以其他方式使第三方能够获取本作品。
-1.9 分享不包括仅为个人使用目的而制作备份，也不包括在未向公众提供的情况下在个人设备上安装和使用。
-1.10 非商业性使用（NonCommercial Use）：指并非主要以商业优势或金钱报酬为目的的使用行为。
-1.11 判断是否具有商业目的，应综合考虑行为的具体情境、动机和实际效果，包括是否存在直接或间接的经济利益、商业推广、流量变现、品牌赞助、付费墙、会员收入、广告解锁、捐赠回报、数据收益或其他经济回报。
-1.12 以下情形一律视为商业性使用（列举非穷尽）：售卖、付费下载、付费墙、付费服务器、付费白名单、付费整合包、付费教程、付费咨询、商业托管、租赁、SaaS、API 包装收费、品牌赞助、带货、众筹、NFT、代币化或其他金融化行为。
-1.13 演绎作品 / 修改（Adapted Material / Modification）：指基于本作品全部或实质性部分，对其源代码、模型结构、贴图材质、动画数据、配置文件、文档或任何底层文件进行翻译、篡改、删减、替换、重混、合并、移植、反编译、破解、提取或二次创作而形成的材料。
-1.14 为本协议之目的，只要本作品被实质性改变、重新编排或与其他材料合并形成新作品，即产生演绎作品。
-1.15 分发（Distribution）：指通过任何物理或数字媒介，将本作品的原始文件或副本提供给第三方下载、复制、安装、访问或使用的行为，包括上传网盘、代码托管、论坛、整合包、服务器、镜像站等。
-1.16 分发属于“分享”的一种具体形式。
-1.17 公开传播（Public Communication）：指通过视频、直播、网站、社交媒体、服务器、应用、平台等方式向公众展示、播放、演示或提供本作品。
-1.18 付费墙（Paywall）：指要求付款、订阅、会员、赞助、捐赠解锁、广告解锁、付费白名单或其他对价才能访问、下载、安装、使用或获得完整功能的一切安排。
-1.19 整合包（Modpack）：指将本作品与其他模组、资源、配置或文件组合后分发的集合。
-1.20 服务器（Server）：指运行本作品或其中任何部分的单人、多人、公共、私人、商业或非商业服务器。
-1.21 第三方材料（Third-Party Materials）：指本作品中可能包含或依赖的第三方开源库、字体、音效、模型、素材、API、平台组件或其他材料。
-1.22 贡献（Contribution）：指您向许可方提交的代码、文档、素材、问题反馈、建议、补丁或其他内容。
-1.23 AI/ML 训练（AI/ML Training）：指使用本作品全部或部分内容进行机器学习、人工智能训练、微调、数据集构建、模型评估、代码生成、资产生成、风格模仿、数据挖掘、文本与数据挖掘或类似活动。
-1.24 技术措施（Technical Measures）：指本作品中用于识别、保护、限制访问或管理权利的任何技术手段，包括版权标识、数字水印、访问控制、加密措施、完整性校验机制等。
-1.25 书面授权（Written Authorization）：指许可方以书面、电子签名、电子邮件、官方工单、授权证书或其他可留存记录方式作出的明确授权。
-1.26 个人使用（Personal Use）：指自然人为自身非商业娱乐、学习、测试目的，在个人设备上使用本作品，且不向公众分享或用于任何直接或间接的经济利益。
-1.27 免费（Free）：指不要求任何付款、订阅、会员、强制赞助、捐赠解锁、广告解锁、付费白名单或其他对价。
-1.28 著作权与类似权利（Copyright and Similar Rights）：指著作权及与著作权密切相关的类似权利，包括但不限于表演者权、录音录像制作者权、广播组织权以及数据库特别权利。
-1.29 数据库特别权利（Sui Generis Database Rights）：指适用法律赋予的、对数据库内容进行提取或再利用的特别权利，独立于著作权而存在。
-1.30 作品文件（Work Files）：指构成本作品的任何文件、数据、代码、资产、文档或其组合，无论以何种格式存储或传输。
-1.31 官方标识（Official Marks）：指许可方使用的名称、图标、域名、作者署名、版本标识及其他品牌元素，包括“DawnAurora”“DawnAurora0221”及官方发布源域名。
-1.32 实质性部分（Substantial Part）：指本作品中具有独立价值、核心功能、主要创意表达或重要数据集合的部分，判断时应考虑质量与数量双重标准。
-1.33 非实质性部分（Insubstantial Part）：指本作品中零散、次要、不构成核心表达且不足以替代原作品的部分。
-1.34 提取（Extraction）：指通过任何方式将数据库或作品文件中的内容转移至另一媒介或系统。
-1.35 再利用（Re-utilization）：指通过分发、出租、在线传输或其他方式向公众提供数据库或作品文件的全部或实质性部分。
-1.36 商业优势（Commercial Advantage）：指在市场竞争、客户获取、成本节约、效率提升、品牌曝光、流量增长或其他经营活动中获得的有利地位。
-1.37 金钱报酬（Monetary Compensation）：指以货币、代金券、积分、虚拟货币、实物对价或其他可折算经济价值的形式获得的回报。
-1.38 平台规则（Platform Rules）：指 Minecraft 或其他平台的最终用户许可协议、社区规则、开发者政策及运营规范。
-1.39 技术规避（Circumvention）：指破解、绕过、移除、禁用或规避本作品的任何技术措施、访问控制、版权标识或权利管理信息。
-1.40 权利管理信息（Rights Management Information）：指本作品中用于识别作者、版权持有人、许可条件、官方发布源或其他权利信息的标识、文字、元数据或编码。
+EN：The Work is distributed under a "Source-Available" model with absolute reservation of ownership by the Author. **Source-Available does NOT mean Open Source.** Any individual, organization or entity that downloads, installs, copies, distributes, accesses, hosts or uses any part of the Work is deemed to have read, fully understood and accepted all terms of this License. If you do not agree with any part of this License, you must immediately stop using the Work and destroy all related files.
 
+CN：本协议不授予您任何超出明确允许范围的权利。所有未明确授予的权利均由许可方保留。本协议不构成法律意见，不替代您所在法域下的强制性法律规定，也不替代任何平台规则。
 
-第二条 适用范围
+EN：This License grants you no rights beyond those expressly permitted. All rights not expressly granted are reserved by the Licensor. This License does not constitute legal advice, does not override mandatory law in your jurisdiction, and does not override any platform's rules.
 
-2.1 授权授予：在严格遵守本协议的前提下，许可方授予您全球范围内、免费的、非独占、不可再许可、不可转让、可撤销的有限许可。
-2.2 本许可仅允许您进行本协议第三条明确允许的行为。
-2.3 授权期限：本许可自您接受本协议之日起生效，直至依据本协议第六条终止。
-2.4 许可方保留在任何时候以任何理由撤销本许可的权利，但已依据本协议合法完成的非商业原样分享不受追溯影响。
-2.5 授权地域：本许可适用于全球范围，但您应遵守您所在法域及使用地的强制性法律规定。
-2.6 本协议不排除或限制适用法律下不可排除或不可限制的消费者权利。
-2.7 本协议不排除基于著作权例外或限制（如合理使用、法定许可）而无需授权即可进行的使用。
-2.8 媒体与格式：本许可适用于一切现有及未来出现的媒体和格式，但仅限本协议明确允许的非商业原样分享。
-2.9 您不得将本作品转换为其他格式后作为修改版或衍生作品发布。
-2.10 接受方式：您下载、安装、复制、访问、分发、托管或使用本作品任何部分，即视为接受本协议。
-2.11 通过行使本协议授予的权利，您同意受本协议条款约束。
-2.12 本协议的接受不要求任何形式的书面签署或点击确认；实际使用行为本身即构成充分的接受意思表示。
-2.13 代表实体：若您代表组织、公司、服务器或平台使用本作品，您声明并保证您已获得该实体充分授权接受本协议，且该实体将受本协议约束。
-2.14 民事行为能力：您声明您具备适用法律要求的完全民事行为能力。
-2.15 若您为未成年人，应在监护人同意和指导下使用。
-2.16 平台规则：若本作品用于 Minecraft 或其他平台，您还应遵守该平台最终用户许可协议及社区规则。
-2.17 本协议不替代平台规则；若平台规则与本协议冲突，就本作品而言以本协议为准，但您不得以平台规则为由违反本协议。
-2.18 权利保留：本协议未明确授予的权利均由许可方保留。
-2.19 源码可见不构成开源许可，不授予修改发布权、商业使用权、再许可权或所有权。
-2.20 本协议不授予任何商标权、品牌使用权或官方标识使用权，除非为原样分享所必需的署名和链接。
-2.21 本协议不授予任何专利权或专利申请权。
-2.22 本协议不授予任何对许可方名称、肖像、声音或形象进行商业利用的权利。
-2.23 本协议不授予任何对官方发布源页面、数据库或服务进行抓取、镜像或仿冒的权利。
-2.24 本协议不构成任何形式的合伙、代理、雇佣、特许经营或合资关系。
-2.25 本协议不构成许可方对任何第三方行为的认可、背书或担保。
-2.26 本协议不构成许可方对作品适用性、合法性或平台兼容性的保证。
-2.27 本协议不构成对任何侵权行为的豁免或纵容。
-2.28 本协议不限制许可方对侵权行为采取法律行动的权利。
-2.29 本协议不限制许可方通过官方发布源发布补充条款、授权例外或单独授权协议的权利。
-2.30 若本协议与许可方另行发布的书面授权冲突，就获授权事项以书面授权为准。
+CN：本协议采用通用许可协议的分章结构。各条标题仅为方便阅读，不影响条款解释。条款应按照其字面含义、上下文、协议目的及诚实信用原则解释。
 
+EN：This License follows the conventional chapter structure of general license agreements. Headings are for convenience only and do not affect interpretation. Clauses shall be interpreted according to their plain meaning, context, purpose and the principle of good faith.
 
-第三条 许可条件
+═══════════════════════════════════════════════════════════════════════
 
-3.1 复制与分享未经修改的副本
-3.1.1 您可以复制、分发、公开传播本作品的原始完整副本。
-3.1.2 分享行为严格限于非商业性目的。
-3.1.3 副本未经任何形式的修改、删减、增补、翻译、重混或重新编排。
-3.1.4 完整保留原作者署名、版权声明和本协议文件。
-3.1.5 提供指向官方发布源 license.dawnaurora.dpdns.org 的明确链接。
-3.1.6 不得声称您是作者或官方发布者。
-3.1.7 不得移除、掩盖或规避任何版权标识或技术措施。
-3.1.8 不得将本作品置于任何付费墙、会员专属、赞助者专属或广告解锁机制之后。
-3.1.9 不得从分享行为中直接或间接获取任何经济利益。
-3.1.10 不得以分享为名引导他人获取未经授权的修改版或破解版。
-3.1.11 不得通过分享行为损害许可方声誉或官方发布源流量。
-3.1.12 不得将本作品上传至以收费、广告分成或会员制为主要盈利模式的平台，除非该平台仅提供免费存储且不从中获取与本作品相关的直接收益。
-3.1.13 不得在分享页面插入与本作品无关的商业广告、推广链接或赞助内容。
-3.1.14 不得将本作品作为其他付费产品或服务的赠品、诱饵或引流工具。
-3.1.15 不得以批量、自动化或镜像方式大规模分发本作品，除非事先取得书面授权。
-3.1.16 分享时应注明作品版本号，避免用户误用旧版。
-3.1.17 若官方发布源提供更新版本，您应及时停止分享旧版并引导用户获取新版。
-3.1.18 不得删除、篡改或伪造作品文件中的元数据、版权信息或协议文件。
-3.1.19 不得将本作品与恶意软件、病毒、木马或欺诈内容捆绑分享。
-3.1.20 不得利用分享行为收集用户个人信息或进行钓鱼。
+第一条 定义 / ARTICLE 1 — DEFINITIONS
 
-3.2 个人游玩与本地使用
-3.2.1 您可以在个人设备上自由下载、安装并使用本作品进行游玩或学习，无需支付费用。
-3.2.2 您可以修改仅供自己使用的本地配置文件（如 config 文件）。
-3.2.3 该等修改后的文件不得以任何形式向公众分享、分发、上传至公开仓库、整合包、服务器或第三方平台。
-3.2.4 本地修改不得用于绕过付费墙、技术措施或授权限制。
-3.2.5 本地修改不得用于开发替代性、竞争性或衍生作品。
-3.2.6 本地修改不得用于商业目的。
-3.2.7 本地修改不得导致本作品实质性部分的公开传播。
-3.2.8 您应自行承担本地修改导致的游戏崩溃、存档损坏或数据丢失风险。
+1.1 许可方（Licensor）
+CN：特指 DawnAurora0221，本作品的创作者、版权持有人及知识产权权利人。
+EN：Means DawnAurora0221, the creator, copyright holder and intellectual property rights holder of the Work.
 
-3.3 查看与学习源码
-3.3.1 您有权下载、阅读、研究本作品的源代码与文件结构，以学习技术原理、物理算法与动画逻辑。
-3.3.2 您不得复制、改编、提炼实质性代码或资产用于任何其他项目。
-3.3.3 您不得据此开发替代性、竞争性或衍生作品。
-3.3.4 学习行为不得导致本作品实质性部分的公开传播或商业利用。
-3.3.5 学习行为不得涉及破解、反编译或规避技术措施。
-3.3.6 学习行为不得用于 AI/ML 训练或数据集构建。
-3.3.7 学习行为不得用于撰写付费教程、付费咨询或商业培训。
-3.3.8 学习行为不得用于申请专利、软件著作权或其他知识产权。
-3.3.9 学习行为不得用于开发与本作品功能相似的竞争性产品。
-3.3.10 学习行为不得用于传播本作品的实质性代码片段。
+1.2 本作品（The Work）
+CN：指许可方发布或授权发布的全部内容，包括但不限于源代码、编译产物、JAR 包、ZIP 资源包、数据包、3D 模型数据、JSON 动画矩阵（`.jem`）、骨骼定义、表达式脚本、材质贴图、音效、字体、配置文件、文档、说明文件、API、脚本、插件、附属资源及任何相关资产。
+EN：Means all content published or authorized by the Licensor, including but not limited to source code, compiled artifacts, JAR files, ZIP resource packs, data packs, 3D model data, JSON animation matrices (`.jem`), skeleton definitions, expression scripts, textures, sound effects, fonts, configuration files, documentation, readme files, APIs, scripts, plugins, ancillary resources and any related assets.
 
-3.4 免费整合包集成
-3.4.1 您可以将本作品未经修改的原始文件作为 Minecraft 整合包的一部分进行分享。
-3.4.2 整合包完全免费，无付费墙、无强制赞助、无捐赠解锁、无广告解锁、无付费服务器白名单。
-3.4.3 在鸣谢名单中明确标注 DawnAurora0221 的贡献。
-3.4.4 提供官方发布源链接。
-3.4.5 不得将本作品作为付费卖点、会员专属或赞助者专属内容。
-3.4.6 不得将本作品文件修改、拆包或混入其他资源包后作为整合包的一部分分发。
-3.4.7 整合包不得以本作品为核心卖点进行商业推广或流量变现。
-3.4.8 整合包不得要求用户关注、订阅、捐赠或完成其他任务才能获取本作品。
-3.4.9 整合包不得将本作品置于付费下载、会员专区或赞助者专区。
-3.4.10 整合包不得删除、篡改或伪造本作品的版权信息与协议文件。
-3.4.11 整合包应明确标注本作品版本号，避免用户误用旧版。
-3.4.12 整合包不得将本作品与恶意软件、病毒或欺诈内容捆绑。
-3.4.13 整合包不得通过本作品收集用户个人信息。
-3.4.14 整合包不得以本作品名义进行非法集资或众筹。
-3.4.15 整合包不得将本作品用于赌博、色情、暴力、仇恨或欺诈场景。
+1.3 作品部分（Part of the Work）
+CN：指本作品的任何单个文件、单个资源包、单个 `.jem` 文件、单个动画段落、单个贴图、单个文档，或任何可独立识别与使用的片段。
+EN：Means any single file, pack, `.jem` file, animation segment, texture, document, or any independently identifiable and usable fragment of the Work.
 
-3.5 免费服务器运行
-3.5.1 您可以在私人或公共免费服务器中安装并运行本作品的未经修改的原始文件。
-3.5.2 服务器不得要求付费才能进入。
-3.5.3 不得设置付费白名单、捐赠解锁、会员专属、赞助者专属。
-3.5.4 不得以本作品为卖点收取任何费用。
-3.5.5 不得将本作品用于商业托管、租赁或收费服务。
-3.5.6 服务器运营者必须遵守本协议并保留署名与协议文件。
-3.5.7 服务器不得通过广告、赞助或其他方式从本作品直接获取商业利益，除非该等利益与本作品无实质性关联且不构成商业使用。
-3.5.8 服务器不得将本作品作为付费套餐、会员权益或赞助回报。
-3.5.9 服务器不得删除、篡改或伪造本作品的版权信息与协议文件。
-3.5.10 服务器不得修改本作品文件后运行，除非修改仅为本地配置且不向公众提供。
-3.5.11 服务器不得将本作品用于商业推广、品牌赞助或带货。
-3.5.12 服务器不得将本作品与恶意软件、病毒或欺诈内容捆绑。
-3.5.13 服务器不得通过本作品收集用户个人信息。
-3.5.14 服务器不得以本作品名义进行非法集资或众筹。
-3.5.15 服务器不得将本作品用于赌博、色情、暴力、仇恨或欺诈场景。
-3.5.16 服务器不得规避本作品的技术措施或访问控制。
-3.5.17 服务器不得将本作品拆包后混入其他资源包。
-3.5.18 服务器不得以本作品为基础开发竞争性产品或服务。
+1.4 官方发布源（Official Source）
+CN：指许可方指定的原始发布页面，即 license.dawnaurora.dpdns.org，以及许可方在官方渠道公布的其他页面。以官方发布源所载版本、协议与说明为准。
+EN：Means the original publication page designated by the Licensor, namely license.dawnaurora.dpdns.org, and other pages announced through official channels. The version, license and statements published there prevail.
 
-3.6 视频、直播与非商业展示
-3.6.1 您可以在视频或直播平台展示本作品的游玩过程或进行非商业性评测。
-3.6.2 在视频简介、直播信息或置顶评论中注明原作者 DawnAurora0221 及官方发布源链接。
-3.6.3 不得宣称您为作者或官方授权方。
-3.6.4 不得提供本作品的修改版、破解版、拆包资产或付费下载。
-3.6.5 平台官方广告分成计划以外的商业变现（品牌赞助、带货、商业推广、会员专属内容、付费教程等）不属于本条允许范围，需另行取得书面授权。
-3.6.6 展示内容不得实质性替代本作品的官方获取渠道。
-3.6.7 不得通过展示行为引导观众获取未经授权的修改版或破解版。
-3.6.8 不得在展示中删除、掩盖或篡改本作品的版权信息。
-3.6.9 不得在展示中宣称本作品为免费开源软件。
-3.6.10 不得在展示中提供本作品的付费下载链接或网盘收费资源。
-3.6.11 不得在展示中将本作品与恶意软件、病毒或欺诈内容关联。
-3.6.12 不得在展示中利用本作品进行非法集资或众筹。
-3.6.13 不得在展示中将本作品用于赌博、色情、暴力、仇恨或欺诈场景。
-3.6.14 不得在展示中规避本作品的技术措施或访问控制。
-3.6.15 不得在展示中以本作品为基础教授如何修改、破解或商用。
-3.6.16 不得在展示中贬损、侮辱或恶意抹黑许可方。
-3.6.17 不得在展示中冒充官方账号或官方发布源。
-3.6.18 不得在展示中诱导观众进行付费赞助以获取本作品。
-3.6.19 不得在展示中将本作品作为会员专属或赞助者专属内容。
-3.6.20 不得在展示中将本作品与付费课程、付费社群或付费咨询捆绑。
+1.5 您（You / Licensee）
+CN：指任何下载、安装、复制、访问、分发、托管或使用本作品的个人、组织、公司、服务器运营者、平台或其他实体。
+EN：Means any individual, organization, company, server operator, platform or other entity that downloads, installs, copies, accesses, distributes, hosts or uses the Work.
 
-3.7 备份与存档
-3.7.1 您可以为个人使用目的制作合理数量的备份副本。
-3.7.2 备份副本不得分发、公开或用于商业目的。
-3.7.3 备份副本应完整保留版权声明和本协议文件。
-3.7.4 备份副本不得用于规避本协议的限制。
-3.7.5 备份副本不得上传至公开仓库、网盘或第三方平台。
-3.7.6 备份副本不得用于 AI/ML 训练或数据集构建。
-3.7.7 备份副本不得用于开发竞争性产品或服务。
-3.7.8 备份副本不得用于商业托管或租赁。
-3.7.9 备份副本不得与恶意软件、病毒或欺诈内容捆绑。
-3.7.10 备份副本不得用于非法集资或众筹。
+1.6 代表实体（On Behalf of an Entity）
+CN：若您代表某一实体使用本作品，您声明并保证您已获得该实体充分授权接受本协议，且该实体亦受本协议约束。
+EN：If you use the Work on behalf of an entity, you represent and warrant that you are duly authorized by that entity to accept this License, and that the entity is likewise bound.
 
-3.8 引用与评测
-3.8.1 您可以在合理范围内引用本作品的名称、截图或短片段进行非商业评测、新闻报道或学术讨论。
-3.8.2 引用必须署名。
-3.8.3 引用不得实质性替代原作品。
-3.8.4 引用行为不得导致本作品实质性部分的公开传播或商业利用。
-3.8.5 引用不得用于商业广告、品牌赞助或带货。
-3.8.6 引用不得用于付费教程、付费咨询或商业培训。
-3.8.7 引用不得用于 AI/ML 训练或数据集构建。
-3.8.8 引用不得用于开发竞争性产品或服务。
-3.8.9 引用不得删除、篡改或伪造版权信息。
-3.8.10 引用不得冒充官方发布或官方授权。
+1.7 分享（Share）
+CN：指通过任何物理或数字媒介，向公众提供本作品或其任何部分的行为，包括复制、发行、公开传播、上传、镜像、分发、提供下载链接，或以其他方式使第三方能够获取本作品。
+EN：Means providing the Work or any part of it to the public through any physical or digital medium, including copying, distribution, public communication, uploading, mirroring, offering download links, or otherwise enabling third parties to obtain the Work.
 
-3.9 严格禁止事项
-3.9.1 禁止修改与演绎发布：严禁基于本作品的源代码、模型资产、材质贴图、动画数据、配置文件或任何文件进行修改、反编译、破解、重混、翻译、移植、合并或二次创作，并将修改版、衍生版作为独立产品、资源包、模组、插件、整合包或服务发布。
-3.9.2 禁止拆包混入：严禁将本作品的模型、材质、动画、音效、代码或其他资产拆包、提取后混入您自己的资源包、整合包、模组、插件、服务器、应用或其他项目。
-3.9.3 禁止商业倒卖与收费：严禁将本作品（含原版或任何修改版）用于任何商业目的。
-3.9.4 严禁在淘宝、闲鱼、Fiverr 等平台售卖本作品。
-3.9.5 严禁将本作品置于付费墙后。
-3.9.6 严禁将本作品用于需要付费才能进入的服务器。
-3.9.7 严禁将本作品用于付费整合包、付费白名单、付费教程、付费咨询、商业托管、租赁、SaaS、API 包装收费或其他收费服务。
-3.9.8 禁止滥用与冒充：严禁移除、掩盖本作品文件内的任何版权声明与作者署名。
-3.9.9 严禁使用与“DawnAurora”或“DawnAurora0221”高度相似的名称、图标、域名、账号来混淆视听或冒充原作者。
-3.9.10 禁止非法集资与违禁内容：严禁利用本作品进行非法众筹、集资、NFT、代币化或其他金融化行为。
-3.9.11 严禁将本作品用于赌博、色情、暴力、仇恨、欺诈或违反适用法律规定的场景。
-3.9.12 禁止 AI/ML 训练与数据抓取：未经书面授权，严禁使用本作品全部或部分内容进行 AI/ML 训练、微调、数据集构建、模型评估、代码生成、资产生成、风格模仿、数据挖掘、文本与数据挖掘。
-3.9.13 严禁通过爬虫、脚本、自动化工具批量抓取本作品文件、代码、模型、贴图或数据。
-3.9.14 禁止规避技术措施：严禁破解、绕过、移除或规避本作品的任何技术措施、访问控制、版权标识或权利管理信息。
-3.9.15 禁止再许可与权利转让：严禁将本协议授予您的权利再许可、转让、出租、出借、抵押或以其他方式提供给第三方。
-3.9.16 禁止违反平台规则：若本作品用于 Minecraft 或其他平台，您还应遵守该平台最终用户许可协议及社区规则；本协议不替代平台规则，但您不得以平台规则为由违反本协议。
-3.9.17 禁止以本作品为基础开发竞争性产品或服务：未经书面授权，严禁利用本作品的全部或实质性部分开发、发布或运营与本作品功能相似、替代性或竞争性的产品、服务、模组、插件、资源包或平台。
-3.9.18 禁止将本作品用于训练或改进与本作品存在竞争关系的人工智能模型。
-3.9.19 禁止将本作品的数据、模型或贴图用于生成式人工智能的素材库。
-3.9.20 禁止将本作品的文件上传至公开数据集或模型训练平台。
+1.8 分享的排除（Exclusions from Sharing）
+CN：仅为个人使用目的制作备份、在未向公众提供的情况下于个人设备上安装与使用，不构成分享。
+EN：Making backups solely for personal use, and installing and using the Work on personal devices without making it available to the public, do not constitute Sharing.
 
-3.10 平台官方广告分成例外
-3.10.1 仅在视频或直播平台官方广告分成计划范围内，且同时满足本协议第 3.6 条全部条件时，您可保留该等广告分成收益。
-3.10.2 该例外不适用于品牌赞助、带货、商业推广、会员专属内容、付费教程或其他形式的商业变现。
-3.10.3 该例外不适用于将本作品作为广告主要卖点或付费推广内容。
-3.10.4 该例外不适用于通过广告分成计划大规模、自动化或镜像式传播本作品。
-3.10.5 该例外不适用于将广告收益与本作品的修改版、破解版或拆包资产关联。
-3.10.6 该例外不适用于违反平台规则或适用法律的展示行为。
-3.10.7 许可方保留对该例外进行解释和限制的权利。
+1.9 分发（Distribution）
+CN：指通过任何物理或数字媒介，将本作品的原始文件或副本提供给第三方下载、复制、安装、访问或使用，包括上传网盘、代码托管平台、论坛、整合包、服务器、镜像站等。分发属于“分享”的具体形式。
+EN：Means supplying the original files or copies of the Work to third parties for download, copying, installation, access or use through any medium, including cloud drives, code hosting platforms, forums, modpacks, servers and mirror sites. Distribution is a form of Sharing.
 
-3.11 授权条件违反的后果
-3.11.1 若您违反本条任何条件，本协议授予您的全部许可立即自动终止。
-3.11.2 您必须立即停止使用并销毁所有副本。
-3.11.3 许可方保留依据本协议第六条及适用法律追究责任的权利。
-3.11.4 违反授权条件的行为可能构成著作权侵权、不正当竞争或其他违法行为。
-3.11.5 许可方有权向平台发送侵权投诉、DMCA 下架通知或采取其他维权措施。
-3.11.6 因维权产生的合理费用由违约方承担。
-3.11.7 许可方未立即采取行动不构成对违约行为的豁免。
-3.11.8 本协议终止不影响许可方对已发生违约行为追究责任的权利。
+1.10 公开传播（Public Communication）
+CN：指通过视频、直播、网站、社交媒体、服务器、应用或平台等方式向公众展示、播放、演示或提供本作品。
+EN：Means displaying, playing, performing or making available the Work to the public via videos, livestreams, websites, social media, servers, applications or platforms.
 
+1.11 非商业性使用（NonCommercial Use）
+CN：指并非主要以商业优势或金钱报酬为目的的使用行为。
+EN：Means use that is not primarily intended for commercial advantage or monetary compensation.
 
-第四条 数据库特别权利
+1.12 商业目的的判断（Commercial Purpose Test）
+CN：判断是否具有商业目的，应综合考虑行为的情境、动机与实际效果，包括是否存在直接或间接的经济利益、商业推广、流量变现、品牌赞助、付费墙、会员收入、广告解锁、捐赠回报、数据收益或其他经济回报。
+EN：Whether a use is commercial shall be determined by the context, motive and actual effect, including any direct or indirect economic benefit, commercial promotion, traffic monetization, brand sponsorship, paywall, membership revenue, ad-gated access, donation rewards, data-derived revenue or other economic return.
 
-4.1 若本作品包含数据库，许可方保留对该数据库内容的提取和再利用的特别权利。
-4.2 该等特别权利包括但不限于对数据库全部或实质性部分的提取、再利用、重复利用或向公众提供。
-4.3 仅在为行使本协议第三条明确允许的非商业原样分享所必需的范围内，您可以提取或再利用本作品数据库的非实质性部分。
-4.4 您不得提取或再利用数据库的实质性部分，除非该等提取或再利用属于适用法律下不可排除的例外或限制。
-4.5 您不得将本作品数据库的实质性部分用于商业目的。
-4.6 您不得将本作品数据库的实质性部分混入其他数据库或作品。
-4.7 您不得通过自动化工具批量抓取本作品数据库。
-4.8 您不得将本作品数据库用于 AI/ML 训练。
-4.9 您不得规避许可方为保护数据库而采取的技术措施。
-4.10 您不得将本作品数据库的实质性部分用于开发竞争性产品或服务。
-4.11 若本协议关于数据库特别权利的条款与适用法律冲突，就数据库特别权利部分以适用法律为准；就本作品其余部分以本协议为准。
-4.12 许可方保留对数据库特别权利进行单独书面授权的权利。
-4.13 未经书面授权，任何对数据库实质性部分的商业性提取或再利用均视为侵权。
-4.14 本条款不限制适用法律下不可排除的数据库例外或限制。
-4.15 本条款不构成对数据库内容著作权的放弃或限制。
+1.13 视为商业性使用的情形（Presumed Commercial Use）
+CN：以下情形一律视为商业性使用（列举非穷尽）：售卖、付费下载、付费墙、付费服务器、付费白名单、付费整合包、付费教程、付费咨询、商业托管、租赁、SaaS、API 包装收费、品牌赞助、带货、众筹、NFT、代币化或其他金融化行为。
+EN：The following are deemed commercial use (non-exhaustive): selling, paid downloads, paywalls, paid servers, paid whitelists, paid modpacks, paid tutorials, paid consulting, commercial hosting, rental, SaaS, paid API packaging, brand sponsorship, product endorsements, crowdfunding, NFTs, tokenization or any other financialization.
 
+1.14 演绎作品 / 修改（Adapted Material / Modification）
+CN：指基于本作品全部或实质性部分，对其源代码、模型结构、贴图材质、动画数据、配置文件、文档或任何底层文件进行翻译、篡改、删减、替换、重混、合并、移植、反编译、破解、提取或二次创作而形成的材料。只要本作品被实质性改变、重新编排或与其他材料合并形成新作品，即产生演绎作品。
+EN：Means material derived from the Work in whole or in substantial part, created by translating, altering, deleting, replacing, remixing, merging, porting, decompiling, cracking, extracting or otherwise re-creating its source code, model structure, textures, animation data, configuration, documentation or any underlying file. A derivative is created whenever the Work is materially changed, rearranged or merged with other material into a new work.
 
-第五条 免责声明与责任限制
+1.15 付费墙（Paywall）
+CN：指要求付款、订阅、会员、赞助、捐赠解锁、广告解锁、付费白名单或其他对价才能访问、下载、安装、使用或获得完整功能的一切安排。
+EN：Means any arrangement requiring payment, subscription, membership, sponsorship, donation-gated access, ad-gated access, paid whitelist or other consideration in order to access, download, install, use or unlock full functionality.
 
-5.1 本作品按“原样”（AS IS）提供，不附带任何明示或暗示的担保。
-5.2 担保排除包括但不限于适销性、特定用途适用性、不侵权、无缺陷、无漏洞、无病毒、与任何平台或版本兼容的担保。
-5.3 许可方不保证本作品持续可用、无错误或绝对满足您的特定需求。
-5.4 许可方不保证本作品符合任何特定平台、服务器、模组或整合包的兼容性要求。
-5.5 许可方不保证本作品不会导致游戏崩溃、存档损坏、设备损坏或数据丢失。
-5.6 您需自行承担因下载、安装、使用、分享或分发本作品产生的所有风险。
-5.7 许可方不对游戏崩溃、存档损坏、设备损坏、数据丢失、服务器故障、收益损失、名誉损害或其他直接或间接损失承担责任。
-5.8 在适用法律允许的最大范围内，许可方对您的总责任不超过您为获得本作品许可实际支付的费用（通常为零）。
-5.9 许可方不对任何间接、附带、特殊、惩罚性或后果性损害承担责任，无论该等损害是否可预见。
-5.10 若因您违反本协议或适用法律而导致许可方遭受任何索赔、诉讼、损失、费用或支出（包括合理的律师费），您应赔偿许可方并使许可方免受损害。
-5.11 本协议不排除或限制适用法律下不可排除或不可限制的责任。
-5.12 若本协议任何责任限制条款被认定无效，其余条款仍继续有效。
-5.13 您应自行评估本作品的合法性、安全性、适用性和平台兼容性。
-5.14 您应自行备份游戏存档、设备数据和服务器配置。
-5.15 您应自行遵守所在法域的法律法规和平台规则。
-5.16 许可方不对第三方材料的安全性、合法性或兼容性承担责任。
-5.17 许可方不对您因使用本作品而获得的任何收益、流量或商业机会承担责任。
-5.18 许可方不对您因违反本协议而遭受的平台处罚、账号封禁或法律后果承担责任。
-5.19 本免责声明不构成对故意侵权或重大过失责任的排除，若适用法律另有强制规定，从其规定。
-5.20 本条款在本协议终止后继续有效。
+1.16 整合包（Modpack）
+CN：指将本作品与其他模组、资源、配置或文件组合后分发的集合。
+EN：Means a collection distributing the Work combined with other mods, resources, configurations or files.
 
+1.17 服务器（Server）
+CN：指运行本作品或其中任何部分的单人、多人、公共、私人、商业或非商业服务器。
+EN：Means any single-player, multiplayer, public, private, commercial or non-commercial server running the Work or any part of it.
 
-第六条 期限与终止
+1.18 第三方材料（Third-Party Materials）
+CN：指本作品中可能包含或依赖的第三方开源库、字体、音效、模型、素材、API、平台组件或其他材料。
+EN：Means third-party open-source libraries, fonts, sound effects, models, assets, APIs, platform components or other materials contained in or depended upon by the Work.
 
-6.1 若您违反本协议任何条款，您使用本作品的许可将立即自动终止，无需许可方提前通知。
-6.2 您必须立即停止使用并销毁所有副本。
-6.3 本协议终止后，您不得继续行使本协议授予的任何权利。
-6.4 本协议终止后，您不得继续分享、分发、托管或使用本作品。
-6.5 您应销毁所有副本，包括备份副本，但为遵守法律或解决争议所必需的保留除外。
-6.6 本协议终止后，关于知识产权、免责声明、责任限制、赔偿、争议解决及语言解释的条款继续有效。
-6.7 许可方保留向侵权内容所在平台发送侵权投诉、DMCA 下架通知、平台举报以及采取其他合法维权手段的权利。
-6.8 因维权产生的合理费用（包括但不限于公证费、律师费、差旅费、鉴定费），由违约方承担。
-6.9 许可方未行使或延迟行使本协议项下的任何权利，不构成对该权利的放弃。
-6.10 许可方单次或部分行使权利不排除其进一步行使其他权利。
-6.11 本协议终止不影响许可方对终止前已发生违约行为追究责任的权利。
-6.12 本协议终止不影响用户依据适用法律享有的不可排除的消费者权利。
-6.13 本协议终止后，您不得以任何方式声称您仍获得许可方授权。
-6.14 本协议终止后，您不得继续使用官方标识或冒充官方发布者。
-6.15 本协议终止后，您不得继续分发本作品的副本，除非该等分发属于适用法律下不可排除的例外。
-6.16 本协议终止后，许可方有权要求您提供销毁副本的书面确认。
-6.17 本协议终止后，许可方有权通过官方发布源公告终止信息。
-6.18 本协议终止不构成对许可方其他救济权利的放弃。
-6.19 本协议终止后，您应配合许可方进行侵权内容下架。
-6.20 本协议终止条款应在最大允许范围内解释执行。
+1.19 贡献（Contribution）
+CN：指您向许可方提交的代码、文档、素材、问题反馈、建议、补丁或其他内容。
+EN：Means code, documentation, assets, issue reports, suggestions, patches or other content you submit to the Licensor.
 
+1.20 AI / ML 训练（AI / ML Training）
+CN：指使用本作品全部或部分内容进行机器学习、人工智能训练、微调、数据集构建、模型评估、代码生成、资产生成、风格模仿、数据挖掘、文本与数据挖掘或类似活动。
+EN：Means using the Work in whole or in part for machine learning, AI training, fine-tuning, dataset construction, model evaluation, code generation, asset generation, style imitation, data mining, text and data mining or similar activities.
 
-第七条 其他条款
+1.21 技术措施（Technical Measures）
+CN：指本作品中用于识别、保护、限制访问或管理权利的任何技术手段，包括版权标识、数字水印、访问控制、加密措施、完整性校验机制等。
+EN：Means any technical means in the Work used to identify, protect, restrict access or manage rights, including copyright notices, digital watermarks, access control, encryption and integrity verification.
 
-7.1 知识产权与所有权：本作品的所有著作权、专利权、商标权及其他知识产权均完全归属于许可方 DawnAurora0221。
-7.2 本协议仅授予有限使用权，绝不构成任何所有权转移。
-7.3 本作品的名称、标识、作者署名、官方发布源域名及相关品牌元素归许可方所有。
-7.4 未经书面授权，不得将官方标识用于商业宣传、冒充官方或造成混淆。
-7.5 您在使用本作品时，不得在任何公开场合对许可方进行侮辱、谩骂、恶意抹黑或人身攻击。
-7.6 本作品中如包含第三方材料，该等材料仍受其各自许可约束。
-7.7 若第三方许可与本协议冲突，就第三方材料部分以第三方许可为准；就本作品其余部分以本协议为准。
-7.8 您应自行遵守第三方材料的许可条件。
-7.9 除非另有书面约定，您向许可方提交的任何贡献，视为授予许可方永久、全球、免费、不可撤销、可再许可的权利。
-7.10 许可方有权使用、复制、修改、分发、公开展示及以其他方式利用该贡献。
-7.11 您声明您提交的贡献不侵犯任何第三方权利，且您有权作出上述授权。
-7.12 若您希望基于本作品进行二次开发并发布衍生项目，必须事先联系许可方获取独立的书面授权。
-7.13 若您希望将本作品用于任何商业用途，必须事先联系许可方获取独立的书面授权。
-7.14 授权联系：license@dawnaurora.dpdns.org。
-7.15 许可方可通过官方发布源更新联系方式，以最新公布为准。
-7.16 任何未经书面授权的修改、商用、再许可、AI 训练或大规模分发行为，均视为严重违约与侵权。
-7.17 书面授权应明确授权范围、期限、地域、费用及条件。
-7.18 未明确授予的权利仍由许可方保留。
-7.19 许可方可通过官方发布源发布更新版本。
-7.20 继续使用本作品即视为接受更新后的协议；若不同意，应停止使用并销毁副本。
-7.21 通知可通过官方发布源、仓库公告、电子邮件或平台公告作出。
-7.22 本协议构成双方就本作品授权达成的完整协议，取代先前口头或书面的相关说明。
-7.23 除非许可方书面同意，任何附加条款均不生效。
-7.24 若本协议任何条款被认定无效或不可执行，其余条款仍继续有效。
-7.25 该无效或不可执行条款应在最大允许范围内解释执行。
-7.26 本协议以中文为准；如提供其他语言译本，仅为方便阅读，冲突时以中文为准。
-7.27 本协议适用中华人民共和国法律（不含冲突法规则）。
-7.28 因本协议引起的争议，双方应友好协商。
-7.29 协商不成的，提交许可方所在地有管辖权的人民法院解决。
-7.30 在争议解决期间，您仍应遵守本协议并停止任何被指控的违约行为。
-7.31 本协议各条标题仅为方便阅读，不影响条款解释。
-7.32 本协议条款应按照其字面含义、上下文、协议目的及诚实信用原则进行解释。
-7.33 本协议不构成法律意见，不替代您所在法域下的强制性法律规定。
-7.34 本协议不替代任何平台规则。
-7.35 本协议不构成许可方对任何第三方行为的认可、背书或担保。
-7.36 本协议不构成任何形式的合伙、代理、雇佣、特许经营或合资关系。
-7.37 本协议不限制许可方对侵权行为采取法律行动的权利。
-7.38 本协议不限制许可方通过官方发布源发布补充条款、授权例外或单独授权协议的权利。
-7.39 若本协议与许可方另行发布的书面授权冲突，就获授权事项以书面授权为准。
-7.40 请通过官方发布源 license.dawnaurora.dpdns.org 或授权联系邮箱 license@dawnaurora.dpdns.org 联系 DawnAurora0221。
+1.22 书面授权（Written Authorization）
+CN：指许可方以书面、电子签名、电子邮件、官方工单、授权证书或其他可留存记录方式作出的明确授权。
+EN：Means express authorization given by the Licensor in writing, by electronic signature, email, official ticket, authorization certificate or other recordable form.
+
+1.23 个人使用（Personal Use）
+CN：指自然人为自身非商业娱乐、学习、测试目的，在个人设备上使用本作品，且不向公众分享、不用于任何直接或间接的经济利益。
+EN：Means a natural person's use of the Work on personal devices for their own non-commercial entertainment, study or testing, without sharing it publicly and without any direct or indirect economic benefit.
+
+1.24 免费（Free）
+CN：指不要求任何付款、订阅、会员、强制赞助、捐赠解锁、广告解锁、付费白名单或其他对价。
+EN：Means requiring no payment, subscription, membership, mandatory sponsorship, donation-gated access, ad-gated access, paid whitelist or other consideration.
+
+1.25 著作权与类似权利（Copyright and Similar Rights）
+CN：指著作权及与著作权密切相关的类似权利，包括但不限于表演者权、录音录像制作者权、广播组织权以及数据库特别权利。
+EN：Means copyright and neighbouring rights, including performers' rights, phonogram and film producers' rights, broadcasting organizations' rights and sui generis database rights.
+
+1.26 数据库特别权利（Sui Generis Database Rights）
+CN：指适用法律赋予的、对数据库内容进行提取或再利用的特别权利，独立于著作权而存在。
+EN：Means the special right granted by applicable law to extract or re-utilize the contents of a database, existing independently of copyright.
+
+1.27 作品文件（Work Files）
+CN：指构成本作品的任何文件、数据、代码、资产、文档或其组合，无论以何种格式存储或传输。
+EN：Means any file, data, code, asset, document or combination thereof constituting the Work, in any storage or transmission format.
+
+1.28 官方标识（Official Marks）
+CN：指许可方使用的名称、图标、域名、作者署名、版本标识及其他品牌元素，包括“DawnAurora”“DawnAurora0221”“Smooth”“X-Expressions”及官方发布源域名。
+EN：Means the names, icons, domains, author credits, version identifiers and other brand elements used by the Licensor, including "DawnAurora", "DawnAurora0221", "Smooth", "X-Expressions" and the official source domain.
+
+1.29 实质性部分（Substantial Part）
+CN：指本作品中具有独立价值、核心功能、主要创意表达或重要数据集合的部分；判断时应兼顾质量与数量双重标准。
+EN：Means a portion of the Work carrying independent value, core functionality, principal creative expression or an important data set; both qualitative and quantitative standards apply.
+
+1.30 非实质性部分（Insubstantial Part）
+CN：指本作品中零散、次要、不构成核心表达且不足以替代原作品的部分。
+EN：Means a fragment that is scattered, ancillary, not core expression, and insufficient to substitute for the original Work.
+
+1.31 提取（Extraction）
+CN：指通过任何方式将数据库或作品文件中的内容转移至另一媒介或系统。
+EN：Means transferring content from a database or Work Files to another medium or system by any means.
+
+1.32 再利用（Re-utilization）
+CN：指以向公众提供的方式，对数据库内容或作品文件的全部或实质性部分进行再次使用。
+EN：Means making all or a substantial part of the database contents or Work Files available to the public again.
+
+1.33 逆向工程 / 反编译（Reverse Engineering / Decompilation）
+CN：指通过反汇编、反编译、解包、解密、抽取、差分对比或其他手段，还原本作品的源代码、内部结构、算法、参数或未公开的表达形式。
+EN：Means reconstructing the source code, internal structure, algorithms, parameters or undisclosed expression of the Work by disassembling, decompiling, unpacking, decrypting, extracting, differential comparison or similar means.
+
+1.34 规避（Circumvention）
+CN：指移除、绕过、破坏、干扰或使任何技术措施失效的行为。
+EN：Means removing, bypassing, defeating, interfering with or rendering ineffective any Technical Measure.
+
+1.35 冒充（Misattribution）
+CN：指以任何方式暗示本作品由您创作、由您拥有、由您维护，或由您与许可方共同开发，而未取得书面授权。
+EN：Means implying in any way that the Work is created, owned or maintained by you, or jointly developed with the Licensor, without Written Authorization.
+
+1.36 再许可（Sublicense）
+CN：指将本协议授予您的权利再许可、转让、出租、出借、抵押或以其他方式提供给第三方。
+EN：Means sublicensing, assigning, renting, lending, pledging or otherwise making your rights under this License available to a third party.
+
+1.37 明示许可的例外（Expressly Licensed Exception）
+CN：指某一具体作品附带的、由许可方以书面形式明确标注的不同条款；仅在明确标注的范围内优先适用。
+EN：Means different terms expressly attached in writing by the Licensor to a specific work; they prevail only within the scope expressly stated.
+
+1.38 通知（Notice）
+CN：指许可方通过官方发布源、包内文档、协议正文或电子邮件发布的正式说明。
+EN：Means an official statement issued by the Licensor via the Official Source, in-pack documentation, the License text or email.
+
+1.39 生效日（Effective Date）
+CN：指本协议版本首次公布之日，或您首次接受本协议之日，以后发生者为准。
+EN：Means the date a version of this License is first published, or the date you first accept it, whichever occurs later.
+
+1.40 整改期（Cure Period）
+CN：指许可方发出违约通知后，您用于停止违约行为并消除影响的宽限期，默认 30 个自然日（见 11.6）。
+EN：Means the grace period after the Licensor's breach notice during which you must cease the breach and eliminate its effects; 30 calendar days by default (see 11.6).
+
+1.41 完全销毁（Complete Destruction）
+CN：指删除您控制的全部副本、缓存、备份、镜像、构建产物与衍生文件，并确保无残留可恢复形态。
+EN：Means deleting all copies, caches, backups, mirrors, build outputs and derivative files under your control, ensuring no recoverable residue remains.
+
+1.42 关联方（Affiliate）
+CN：指直接或间接控制您、受您控制或与您共同受控的实体，以及您的管理人员、雇员与代理人。
+EN：Means any entity controlling, controlled by or under common control with you, and your officers, employees and agents.
+
+1.43 适用法域（Applicable Jurisdiction）
+CN：指许可方主要居所地法律，以及依国际私法规则应适用的强制性消费者保护规定（见第十三条）。
+EN：Means the law of the Licensor's principal place of residence, together with mandatory consumer-protection rules applicable under private international law (see Article 13).
+
+1.44 不可抗力（Force Majeure）
+CN：指超出合理控制范围、不可避免且不可克服的事件，包括自然灾害、战争、政府行为、网络中断、平台关停等。
+EN：Means events beyond reasonable control, unavoidable and insurmountable, including natural disasters, war, governmental acts, network outages and platform shutdowns.
+
+1.45 协议文本效力（Language Precedence）
+CN：中文版本为正式文本；英文版本为便于理解的参考译文。两者冲突时，以中文版本为准（见 14.9）。
+EN：The Chinese version is the official text; the English version is a reference translation for convenience. In case of conflict, the Chinese version prevails (see 14.9).
+
+═══════════════════════════════════════════════════════════════════════
+
+第二条 适用范围与接受 / ARTICLE 2 — SCOPE AND ACCEPTANCE
+
+2.1 适用范围
+CN：本协议适用于许可方名下所有数字资产，包括但不限于 Minecraft 资源包、数据包、`.jem` 模型与动画文件、贴图、脚本、插件、文档及其后续版本。
+EN：This License applies to all digital assets of the Licensor, including Minecraft resource packs, data packs, `.jem` model and animation files, textures, scripts, plugins, documentation and their subsequent versions.
+
+2.2 明示例外优先
+CN：若某一作品附带明示许可的例外，仅在该例外明确覆盖的范围内优先于本协议，其余部分仍适用本协议。
+EN：If a work carries an Expressly Licensed Exception, it prevails over this License only within its expressly stated scope; all other aspects remain governed by this License.
+
+2.3 接受的时点
+CN：您下载、安装、复制、访问、托管或使用本作品的任一行为，均构成对本协议的接受；无需另行签署。
+EN：Any act of downloading, installing, copying, accessing, hosting or using the Work constitutes acceptance of this License; no separate signature is required.
+
+2.4 不接受的后果
+CN：若您不接受本协议任一条款，您不获得任何使用许可；请立即停止使用并完全销毁所有副本。
+EN：If you do not accept any term, you receive no license to use the Work; you must immediately stop using it and completely destroy all copies.
+
+2.5 行为能力
+CN：您声明您已达到您所在法域的法定成年年龄，或已在监护人同意下使用本作品。
+EN：You represent that you have reached the age of majority in your jurisdiction, or that you use the Work with guardian consent.
+
+2.6 代表实体
+CN：若您代表实体接受本协议，该实体与您个人共同承担本协议项下义务。
+EN：If you accept on behalf of an entity, both the entity and you personally bear the obligations under this License.
+
+2.7 授权期限
+CN：本许可自您接受本协议之日起生效，直至依据第十一条终止。
+EN：This License takes effect upon your acceptance and continues until terminated under Article 11.
+
+2.8 地域范围
+CN：本协议在全球范围内适用，但以不违反您所在法域的强制性法律规定为限；该等强制性规定不得被解释为扩张本协议授予的权利。
+EN：This License applies worldwide, subject to mandatory law in your jurisdiction; such mandatory rules shall not be construed to expand the rights granted here.
+
+2.9 与平台规则的关系
+CN：您还应遵守所使用的平台、服务器、发行渠道的规则。平台规则与本协议冲突时，就平台自身的运营事项以平台规则为准；就本作品的授权范围以本协议为准。
+EN：You must also comply with the rules of platforms, servers and distribution channels you use. Where they conflict, platform rules govern platform operations, while this License governs the scope of rights in the Work.
+
+2.10 不构成背书
+CN：本协议不构成许可方对任何第三方行为、产品、服务、服务器或整合包的认可、背书或担保。
+EN：This License does not constitute the Licensor's approval, endorsement or guarantee of any third party's conduct, product, service, server or modpack.
+
+2.11 权利保留
+CN：本协议未明确授予的一切权利，均由许可方保留，包括但不限于复制权、发行权、改编权、信息网络传播权、署名权与保护作品完整权。
+EN：All rights not expressly granted are reserved by the Licensor, including rights of reproduction, distribution, adaptation, communication to the public, attribution and integrity of the Work.
+
+2.12 接受即确认
+CN：您确认您已完整阅读本协议全部条款（含附录），并理解“源码可见不等于开源”的含义。
+EN：You confirm that you have read all terms including appendices, and understand that "Source-Available does not mean Open Source".
+
+═══════════════════════════════════════════════════════════════════════
+
+第三条 授予的权利 / ARTICLE 3 — GRANT OF RIGHTS
+
+3.1 有限许可
+CN：在您持续完全遵守本协议的前提下，许可方授予您一项有限的、非独占的、不可再许可、不可转让、可撤销的许可，仅用于本协议第三条明确列举的用途。
+EN：Subject to your continued full compliance, the Licensor grants you a limited, non-exclusive, non-sublicensable, non-transferable, revocable license solely for the purposes expressly listed in this Article.
+
+3.2 个人使用
+CN：您可以在您拥有或控制的设备上，为个人非商业目的安装并使用本作品。
+EN：You may install and use the Work on devices you own or control for personal, non-commercial purposes.
+
+3.3 数量限制
+CN：个人使用的安装数量不受限制，但仅限您本人及与您共同居住的家庭成员使用。
+EN：The number of personal installations is unlimited, but use is confined to you and household members residing with you.
+
+3.4 服务器使用
+CN：您可以在您运营或参与的非商业服务器上使用本作品，前提是该服务器不设付费墙、不收取入场费或特权费、不以本作品作为收费卖点。
+EN：You may use the Work on non-commercial servers you operate or join, provided the server has no paywall, charges no entry or privilege fee, and does not sell access on the basis of the Work.
+
+3.5 商业服务器例外
+CN：商业服务器（含接受捐赠、赞助或有偿服务的服务器）使用本作品，须先取得书面授权；未取得授权前不得使用。
+EN：Commercial servers (including those accepting donations, sponsorship or paid services) require Written Authorization before using the Work.
+
+3.6 整合包引用
+CN：您可以在非商业整合包中引用本作品，前提是：(a) 以原样未修改的文件形式引用；(b) 显著标注作者 DawnAurora0221 与官方发布源；(c) 不单独提供本作品的独立下载入口；(d) 整合包本身免费。
+EN：You may reference the Work in non-commercial modpacks provided that: (a) files are referenced unmodified; (b) the author DawnAurora0221 and the Official Source are prominently credited; (c) no standalone download of the Work is offered; (d) the modpack itself is free.
+
+3.7 整合包撤回
+CN：许可方可随时要求整合包作者移除本作品；收到通知后应在 30 日内移除。
+EN：The Licensor may at any time require a modpack author to remove the Work; removal must occur within 30 days of notice.
+
+3.8 视频与直播
+CN：您可以在视频、直播、截图、缩略图中展示本作品的效果，并注明作者与官方发布源。
+EN：You may showcase the Work in videos, livestreams, screenshots and thumbnails, crediting the author and the Official Source.
+
+3.9 平台广告分成例外
+CN：仅在视频或直播平台官方广告分成计划范围内（如平台按播放量自动分配的广告收益），且同时满足第 3.6 条全部条件时，您可保留该等收益。除此之外的一切变现方式均需书面授权。
+EN：You may retain revenue solely from official platform ad-revenue sharing programs (e.g., automatic per-view ad revenue), and only when all conditions in 3.6 are met. All other monetization requires Written Authorization.
+
+3.10 教程与评测
+CN：您可以在非付费的教程、评测、新闻、学术讨论中引用本作品的少量画面或片段，并注明出处。
+EN：You may quote limited footage or fragments of the Work in free tutorials, reviews, news and academic discussion, with source attribution.
+
+3.11 备份
+CN：您可以为防丢失目的制作合理数量的备份副本，备份须与原件保持一致，且不得向公众提供。
+EN：You may make a reasonable number of backup copies for loss prevention; backups must be identical to the original and must not be made available to the public.
+
+3.12 学习与研究
+CN：您可以为个人学习、研究目的阅读本作品的源代码与文档，但不得据此制作或发布演绎作品。
+EN：You may read the source code and documentation for personal study and research, but may not create or publish derivatives on that basis.
+
+3.13 修改的严格限制
+CN：除第 3.11、3.12 条外，您不得修改、翻译、重混、合并、移植、反编译或破解本作品。
+EN：Except for 3.11 and 3.12, you may not modify, translate, remix, merge, port, decompile or crack the Work.
+
+3.14 私有修改
+CN：若您为个人使用对作品进行技术性调整（例如调整个别参数以适配自己的设备），该等文件不得以任何形式向公众分享、分发、上传至公开仓库、整合包、服务器或第三方平台，且不得用于任何商业目的。
+EN：If you technically adjust the Work for personal use (e.g., tuning parameters for your own device), such files may not be shared, distributed, uploaded to public repositories, modpacks, servers or third-party platforms in any form, and may not be used commercially.
+
+3.15 无所有权转移
+CN：本协议不向您转让本作品的任何所有权、著作权或其他知识产权。
+EN：This License transfers no ownership, copyright or other intellectual property rights in the Work to you.
+
+3.16 无商标许可
+CN：本协议不授予您使用官方标识的任何权利；除为履行第 3.6、3.8、3.10 条所必需的署名外，不得使用官方标识。
+EN：This License grants no rights to use Official Marks; apart from attribution required by 3.6, 3.8 and 3.10, they may not be used.
+
+3.17 授权不可分割
+CN：本协议授予的权利为整体，不得拆分、部分转让或用于本协议未列举的用途。
+EN：The rights granted are indivisible; they may not be split, partially transferred or used for unlisted purposes.
+
+3.18 第三方平台上的使用
+CN：在第三方平台（如模组站、资源站、社交平台）上传或分发本作品，仍需遵守本协议；平台的上传功能不构成许可方的授权。
+EN：Uploading or distributing the Work on third-party platforms still requires compliance with this License; a platform's upload feature does not constitute authorization by the Licensor.
+
+═══════════════════════════════════════════════════════════════════════
+
+第四条 条件与限制 / ARTICLE 4 — CONDITIONS AND RESTRICTIONS
+
+4.1 署名义务
+CN：在任何被允许的使用场景中，您必须以清晰可见的方式标注：作者 `DawnAurora0221`、作品名称、官方发布源 `license.dawnaurora.dpdns.org`。
+EN：In any permitted use, you must clearly credit: author `DawnAurora0221`, the work title, and the Official Source `license.dawnaurora.dpdns.org`.
+
+4.2 署名不得移除
+CN：您不得移除、遮挡、篡改、淡化本作品文件内的 `credit` 字段、版权声明、水印、文档署名。
+EN：You may not remove, obscure, alter or dilute the `credit` field, copyright notices, watermarks or documentation credits inside the Work.
+
+4.3 禁止再分发
+CN：除第 3.6 条整合包引用外，您不得以任何形式再分发本作品的原始文件或副本，包括重新打包、改名、换壳、拆分单文件分发。
+EN：Except for modpack referencing under 3.6, you may not redistribute the original files or copies in any form, including repacking, renaming, re-skinning or distributing individual files separately.
+
+4.4 禁止演绎分发
+CN：您不得发布、上传、分享任何基于本作品的演绎作品，包括修改版、精简版、增强版、合并版、移植版。
+EN：You may not publish, upload or share any derivative of the Work, including modified, lite, enhanced, merged or ported versions.
+
+4.5 禁止商业利用
+CN：您不得将本作品或其任何部分用于任何商业目的，包括售卖、付费下载、付费墙、付费服务器、付费白名单、商业托管、租赁、SaaS、API 收费包装。
+EN：You may not use the Work or any part of it for any commercial purpose, including selling, paid downloads, paywalls, paid servers, paid whitelists, commercial hosting, rental, SaaS or paid API packaging.
+
+4.6 禁止金融化
+CN：您不得将本作品或其任何部分用于 NFT、代币、众筹、证券化或其他金融化安排。
+EN：You may not use the Work or any part of it in NFTs, tokens, crowdfunding, securitization or any other financialization.
+
+4.7 禁止 AI 训练
+CN：未经书面授权，您不得将本作品全部或部分用于 AI/ML 训练、微调、数据集构建、风格模仿或生成式模型蒸馏。
+EN：Without Written Authorization, you may not use the Work in whole or in part for AI/ML training, fine-tuning, dataset construction, style imitation or generative model distillation.
+
+4.8 禁止逆向工程
+CN：您不得对本作品进行逆向工程、反编译、反汇编、解密、破解或试图还原其未公开的算法与参数结构；法律强制允许的互操作性情形除外（见 5.6）。
+EN：You may not reverse engineer, decompile, disassemble, decrypt, crack or attempt to reconstruct undisclosed algorithms and parameters, except for legally mandated interoperability (see 5.6).
+
+4.9 禁止规避技术措施
+CN：您不得移除、绕过或干扰本作品中的任何技术措施，包括完整性校验、访问控制与版权标识。
+EN：You may not remove, bypass or interfere with any Technical Measures, including integrity checks, access control and copyright notices.
+
+4.10 禁止冒充
+CN：您不得暗示本作品由您创作、拥有或维护，不得使用官方标识造成混淆，不得声称获得官方认可。
+EN：You may not imply that the Work is created, owned or maintained by you, use Official Marks confusingly, or claim official endorsement.
+
+4.11 禁止再许可
+CN：您不得再许可、转让、出租、出借、抵押或以其他方式将本协议授予的权利提供给第三方。
+EN：You may not sublicense, assign, rent, lend, pledge or otherwise make the granted rights available to third parties.
+
+4.12 禁止拆分资产
+CN：您不得将本作品的贴图、模型、动画数据、表达式脚本等资产单独抽出，用于其它资源包、模组、游戏或商业产品。
+EN：You may not extract textures, models, animation data, expression scripts or other assets for use in other packs, mods, games or commercial products.
+
+4.13 禁止与本作品竞争
+CN：您不得使用本作品的任何部分制作与本作品功能实质相同或相互替代的产品。
+EN：You may not use any part of the Work to create a product substantially similar to, or substitutable for, the Work.
+
+4.14 禁止用于违规内容
+CN：您不得将本作品用于违反法律法规、平台规则、公序良俗的内容或服务。
+EN：You may not use the Work in content or services violating law, platform rules or public order and morals.
+
+4.15 禁止用于恶意软件
+CN：您不得将本作品与本协议禁止的作弊、外挂、恶意代码、盗号程序等组合分发。
+EN：You may not bundle the Work with cheats, hacks, malware or account-stealing software.
+
+4.16 禁止用于仇恨与歧视
+CN：您不得将本作品用于宣扬仇恨、暴力、歧视或侵害他人权益的内容。
+EN：You may not use the Work to promote hate, violence, discrimination or infringement of others' rights.
+
+4.17 禁止虚假陈述
+CN：您不得虚假声称已获得授权；向第三方转述本协议时不得歪曲其内容。
+EN：You may not falsely claim authorization, nor misrepresent this License when relaying it to third parties.
+
+4.18 禁止规避署名
+CN：您不得通过裁剪、遮挡、替换皮肤包名、修改文档等方式规避署名义务。
+EN：You may not evade attribution by cropping, obscuring, renaming pack files or altering documentation.
+
+4.19 禁止批量镜像
+CN：您不得建立本作品的镜像站、镜像仓库、镜像网盘目录或批量缓存服务。
+EN：You may not create mirror sites, mirror repositories, mirrored cloud directories or bulk caching services for the Work.
+
+4.20 禁止绕过平台下架
+CN：许可方要求下架后，您不得通过更换链接、改名、分片上传等方式重新上架。
+EN：After a takedown request, you may not re-upload by changing links, renaming or splitting files.
+
+4.21 禁止虚假来源
+CN：您不得将本作品伪装为开源项目、公共领域作品或他人作品。
+EN：You may not present the Work as open source, public domain or someone else's work.
+
+4.22 禁止移除包内文档
+CN：您不得删除或替换包内的 `docx/` 文档与 `LICENSE.md`。
+EN：You may not delete or replace the in-pack `docx/` documentation or `LICENSE.md`.
+
+4.23 禁止规避版本一致性
+CN：您不得通过提供旧版本、残缺版本或篡改版本误导他人对作品能力的认知。
+EN：You may not mislead others about the Work's capabilities by supplying outdated, incomplete or tampered versions.
+
+4.24 服务器端责任
+CN：服务器运营者对其服务器上安装的本作品的使用方式负责；服务器内收费不因“玩家自愿”而豁免商业性认定。
+EN：Server operators are responsible for how the Work is used on their servers; in-server charging is not exempted from commercial classification merely because it is "voluntary".
+
+4.25 整合包内的署名位置
+CN：整合包内的署名应出现在整合包描述页与包内文档中，不得仅隐藏在文件目录。
+EN：Modpack credits must appear on the modpack description page and in-pack documentation, not merely hidden in directory names.
+
+4.26 视频署名位置
+CN：视频署名应出现在简介、置顶评论或片尾字幕中。
+EN：Video credits must appear in the description, pinned comment or end credits.
+
+4.27 修改后的自我使用界限
+CN：第 3.14 条的私有修改仅限您本人设备；转交给他人（含朋友、粉丝、客户）即构成分发。
+EN：Private modifications under 3.14 are limited to your own devices; passing them to others (friends, followers, clients) constitutes Distribution.
+
+4.28 违约的自动后果
+CN：任何违反第四条的行为，自动导致本许可终止，无需另行通知（见 11.2）。
+EN：Any violation of this Article automatically terminates this License without further notice (see 11.2).
+
+4.29 部分无效不影响其余
+CN：某一条款在特定法域无效，不影响其余条款的效力与该条款在其他法域的效力。
+EN：Invalidity of one clause in a jurisdiction does not affect the remaining clauses or the clause's effect elsewhere.
+
+4.30 权利保留的持续性
+CN：即使本许可终止，许可方对本作品的著作权与其它权利仍然完整存续。
+EN：Even after termination, the Licensor's copyright and other rights in the Work remain fully intact.
+
+═══════════════════════════════════════════════════════════════════════
+
+第五条 允许的例外 / ARTICLE 5 — PERMITTED EXCEPTIONS
+
+5.1 法定例外保留
+CN：本协议不限制依适用法律不可放弃的权利，包括合理使用、私人复制、引用、评论、新闻报道、教学科研等法定例外。
+EN：This License does not restrict rights that cannot be waived under applicable law, including fair use, private copying, quotation, criticism, news reporting, teaching and research exceptions.
+
+5.2 权利用尽
+CN：对于以有形载体合法发行的副本，适用法律规定的权利用尽规则不受本协议影响。
+EN：Exhaustion of rights under applicable law for lawfully distributed tangible copies is unaffected.
+
+5.3 反向工程例外
+CN：仅在适用法律强制允许且为达成互操作性所必需、且不涉及提取本作品创意表达的范围内，可进行必要的反向工程。
+EN：Reverse engineering is permitted only where mandatorily allowed by law, strictly necessary for interoperability, and not involving extraction of the Work's creative expression.
+
+5.4 无障碍使用
+CN：为无障碍目的（如视觉辅助）进行的必要格式转换，在个人非商业范围内允许。
+EN：Necessary format conversion for accessibility purposes (e.g., visual assistance) is permitted on a personal, non-commercial basis.
+
+5.5 安全研究
+CN：出于安全研究目的、在未公开披露且未造成损害前提下的必要分析，不构成违约；发现漏洞应优先通知许可方。
+EN：Necessary analysis for security research, without public disclosure and without harm, is not a breach; vulnerabilities should first be reported to the Licensor.
+
+5.6 互操作性
+CN：为实现与其它模组/资源包的兼容性而阅读接口与文档是允许的；但不得据此复制或再分发本作品的实质性部分。
+EN：Reading interfaces and documentation to achieve compatibility with other mods/packs is permitted; substantial parts of the Work may not be copied or redistributed on that basis.
+
+5.7 存档与学术引用
+CN：学术论文、存档项目可在合理范围内引用本作品的片段，需完整署名并注明许可。
+EN：Academic papers and archival projects may quote fragments within reason, with full attribution and license notice.
+
+5.8 例外不得扩张
+CN：上述例外不得被解释为对第三条之外权利的普遍授予。
+EN：These exceptions shall not be construed as a general grant of rights beyond Article 3.
+
+═══════════════════════════════════════════════════════════════════════
+
+第六条 第三方材料 / ARTICLE 6 — THIRD-PARTY MATERIALS
+
+6.1 第三方权利保留
+CN：本作品中如包含第三方材料，该等材料仍受其各自许可约束，本协议不改变其许可条件。
+EN：Third-Party Materials remain governed by their own licenses; this License does not alter them.
+
+6.2 冲突处理
+CN：若第三方许可与本协议冲突，就第三方材料部分以第三方许可为准；就本作品其余部分以本协议为准。
+EN：In case of conflict, the third-party license governs that material, while this License governs the rest of the Work.
+
+6.3 遵守义务
+CN：您应自行遵守第三方材料的许可条件，包括署名、相同方式共享、专利授权等要求。
+EN：You must independently comply with third-party conditions, including attribution, share-alike and patent grants.
+
+6.4 不担保第三方
+CN：许可方不对第三方材料的安全性、合法性、兼容性或可用性作出任何担保。
+EN：The Licensor makes no warranty regarding the safety, legality, compatibility or availability of Third-Party Materials.
+
+6.5 依赖模组
+CN：本作品依赖 EMF、ETF 等第三方模组运行；该等模组由其作者独立授权，与本协议无关。
+EN：The Work depends on third-party mods such as EMF and ETF, licensed independently by their authors and unrelated to this License.
+
+6.6 平台条款
+CN：您通过平台获取或使用本作品，还需遵守该平台的服务条款；平台条款不构成对本作品的再许可。
+EN：Accessing or using the Work via a platform requires compliance with that platform's terms; such terms do not sublicense the Work.
+
+6.7 第三方主张
+CN：若第三方就本作品提出权利主张，许可方保留独立应对的权利，您应配合提供必要信息。
+EN：If a third party asserts claims regarding the Work, the Licensor reserves the right to respond independently, and you shall cooperate by providing necessary information.
+
+6.8 第三方材料不得单独分发
+CN：即使第三方材料本身允许分发，您也不得借此将本作品中与该材料结合的独创表达一并分发。
+EN：Even where Third-Party Materials are redistributable, you may not use that as a basis to distribute the original expression of the Work combined with them.
+
+═══════════════════════════════════════════════════════════════════════
+
+第七条 数据库特别权利 / ARTICLE 7 — SUI GENERIS DATABASE RIGHTS
+
+7.1 数据库权利保留
+CN：本作品的动画矩阵、参数集合、骨骼定义与文档集合构成受保护的数据库；许可方保留其数据库特别权利。
+EN：The animation matrices, parameter sets, skeleton definitions and documentation collections constitute protected databases; the Licensor reserves the sui generis rights therein.
+
+7.2 禁止实质性提取
+CN：您不得对本作品数据库的全部或实质性部分进行提取或再利用，包括批量导出动画通道、批量复制参数表。
+EN：You may not extract or re-utilize all or a substantial part of the databases, including bulk export of animation channels or bulk copying of parameter tables.
+
+7.3 允许的非实质性使用
+CN：仅在为行使第三条明确允许的使用所必需的范围内，可访问数据库的非实质性部分。
+EN：Access to insubstantial parts is permitted only as necessary to exercise uses expressly allowed under Article 3.
+
+7.4 禁止反复提取
+CN：禁止以反复提取非实质性部分的方式，实质性地重建本作品数据库。
+EN：Repeated extraction of insubstantial parts in a manner that substantially reconstitutes the database is prohibited.
+
+7.5 统计与检测
+CN：许可方有权对疑似批量提取行为进行技术检测与取证。
+EN：The Licensor may technically detect and document suspected bulk extraction.
+
+7.6 与著作权并行
+CN：数据库特别权利与著作权并行存在；行使其中一项不影响另一项的保护。
+EN：Sui generis rights coexist with copyright; exercising one does not affect protection under the other.
+
+═══════════════════════════════════════════════════════════════════════
+
+第八条 免责声明 / ARTICLE 8 — WARRANTY DISCLAIMER
+
+8.1 按现状提供
+CN：本作品按“现状”（AS IS）与“现有可得”（AS AVAILABLE）提供，不附带任何明示或默示的担保。
+EN：The Work is provided "AS IS" and "AS AVAILABLE", without any express or implied warranty.
+
+8.2 默示担保的排除
+CN：在适用法律允许的最大范围内，排除对适销性、特定用途适用性、不侵权、准确性、完整性、无病毒、无中断的一切默示担保。
+EN：To the maximum extent permitted by law, all implied warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, completeness, freedom from viruses and uninterrupted operation are excluded.
+
+8.3 兼容性风险
+CN：许可方不保证本作品与您的游戏版本、模组组合、光影、皮肤、服务器插件完全兼容。
+EN：The Licensor does not warrant full compatibility with your game version, mod set, shaders, skins or server plugins.
+
+8.4 性能风险
+CN：物理参数可能导致不同设备上的帧率差异；许可方不对性能损失负责。
+EN：Physics parameters may cause frame-rate differences across devices; the Licensor is not liable for performance loss.
+
+8.5 画面风险
+CN：不保证动画在任意视角、任意 FOV、任意光影下均无视觉瑕疵。
+EN：No guarantee is given that animations appear flawless at every view angle, FOV or shader configuration.
+
+8.6 数据风险
+CN：使用本作品导致的存档异常、崩溃、回档、设备损坏等风险由您自行承担。
+EN：Risks of save corruption, crashes, rollbacks or device damage arising from use are borne by you.
+
+8.7 第三人行为
+CN：许可方不对任何第三方（含服务器运营者、整合包作者、平台）的行为负责。
+EN：The Licensor is not responsible for the conduct of any third party, including server operators, modpack authors and platforms.
+
+8.8 使用判断自负
+CN：您应自行判断本作品在您所在法域与平台下的合法性，许可方不提供法律意见。
+EN：You must independently assess legality in your jurisdiction and platform; the Licensor provides no legal advice.
+
+8.9 无技术支持义务
+CN：许可方无义务提供技术支持、适配、答疑或更新；但可自愿提供。
+EN：The Licensor has no obligation to provide support, adaptation, answers or updates, though may do so voluntarily.
+
+8.10 预览与实验性内容
+CN：Alpha / Preview / 实验性标注的版本可能包含已知瑕疵，不构成质量担保。
+EN：Alpha, Preview or experimental builds may contain known defects and carry no quality warranty.
+
+8.11 免责的存续
+CN：本条在本许可终止后继续有效。
+EN：This Article survives termination.
+
+8.12 法域限制
+CN：若某法域不允许排除默示担保，则本条在该法域内仅在法律允许的最小范围内适用。
+EN：Where a jurisdiction does not allow exclusion of implied warranties, this Article applies only to the minimum extent permitted.
+
+═══════════════════════════════════════════════════════════════════════
+
+第九条 责任限制 / ARTICLE 9 — LIMITATION OF LIABILITY
+
+9.1 间接损失排除
+CN：在适用法律允许的最大范围内，许可方不对任何间接、附带、特殊、惩罚性、示范性损害承担责任。
+EN：To the maximum extent permitted by law, the Licensor is not liable for indirect, incidental, special, punitive or exemplary damages.
+
+9.2 具体损失类型
+CN：包括但不限于利润损失、数据丢失、存档损坏、商誉损失、服务器停运、替换成本、第三方索赔。
+EN：Including but not limited to lost profits, data loss, save corruption, loss of goodwill, server downtime, replacement costs and third-party claims.
+
+9.3 责任上限
+CN：即使许可方被认定负有责任，其累计责任总额不超过您为获取本作品实际支付的金额；若本作品为免费提供，则上限为零。
+EN：Even if held liable, the Licensor's aggregate liability shall not exceed the amount you actually paid for the Work; where the Work was obtained free of charge, the cap is zero.
+
+9.4 因果关系的排除
+CN：许可方不对因您违反本协议、误用作品或与第三方材料组合使用而产生的后果负责。
+EN：The Licensor is not liable for consequences arising from your breach, misuse or combination with Third-Party Materials.
+
+9.5 风险自担
+CN：使用本作品的全部风险由您自行承担。
+EN：You bear all risk arising from use of the Work.
+
+9.6 强制法的限制
+CN：本条不排除依适用法律不可排除的责任（如故意或重大过失、人身伤害）。
+EN：This Article does not exclude liability that cannot be excluded by law (e.g., intent, gross negligence, personal injury).
+
+9.7 索赔时效
+CN：除非法律另有强制规定，任何索赔应在本许可终止或相关行为发生后 12 个月内提出，逾期视为放弃。
+EN：Unless mandatorily provided otherwise, claims must be brought within 12 months of termination or the relevant act, else waived.
+
+9.8 通知义务
+CN：您在发现可能的损害时，应在合理期限内书面通知许可方，否则就扩大部分自行承担。
+EN：You must notify the Licensor in writing within a reasonable time upon discovering potential damage, failing which you bear the aggravated portion.
+
+9.9 减轻损失
+CN：您有义务采取合理措施减轻损失。
+EN：You are obliged to take reasonable steps to mitigate losses.
+
+9.10 条款独立性
+CN：本条与第八条各自独立有效；某一条款无效不影响另一条款。
+EN：This Article and Article 8 are independently effective; invalidity of one does not affect the other.
+
+═══════════════════════════════════════════════════════════════════════
+
+第十条 赔偿 / ARTICLE 10 — INDEMNIFICATION
+
+10.1 您的赔偿义务
+CN：因您违反本协议、侵犯第三方权利或违法使用本作品，导致许可方遭受第三方索赔、诉讼、行政处罚或损失，您应予以赔偿并使其免受损害。
+EN：You shall indemnify and hold the Licensor harmless against third-party claims, litigation, administrative penalties or losses arising from your breach, infringement of third-party rights or unlawful use.
+
+10.2 赔偿范围
+CN：包括合理的律师费、诉讼费、和解金、差旅费、公证与取证费用。
+EN：Including reasonable attorneys' fees, litigation costs, settlement amounts, travel expenses, notarization and evidence-collection costs.
+
+10.3 抗辩参与
+CN：许可方有权自行选择抗辩策略，您不得未经同意作出对许可方不利的承认或和解。
+EN：The Licensor may choose its defense strategy; you may not make adverse admissions or settlements without consent.
+
+10.4 存续
+CN：本条在本许可终止后继续有效。
+EN：This Article survives termination.
+
+═══════════════════════════════════════════════════════════════════════
+
+第十一条 期限与终止 / ARTICLE 11 — TERM AND TERMINATION
+
+11.1 生效与期限
+CN：本许可自您接受之日起生效，直至依据本条终止。
+EN：This License is effective upon acceptance and continues until terminated under this Article.
+
+11.2 自动终止
+CN：您违反第三、四、七条任一条款，本许可自动终止，无需许可方通知。
+EN：Breach of any clause in Articles 3, 4 or 7 automatically terminates this License without notice.
+
+11.3 通知终止
+CN：许可方可在任何时候以通知方式终止本许可，包括因协议修订、作品下架或维权需要。
+EN：The Licensor may terminate at any time by notice, including for license amendments, withdrawal of the Work or enforcement needs.
+
+11.4 终止后的义务
+CN：终止后您必须立即停止使用，并在 30 日内完全销毁您控制的所有副本、备份、构建产物与衍生文件。
+EN：Upon termination you must immediately cease use and, within 30 days, completely destroy all copies, backups, build outputs and derivatives under your control.
+
+11.5 书面确认
+CN：许可方可要求您书面确认销毁完成；您应在收到请求后 15 日内回复。
+EN：The Licensor may require written confirmation of destruction; you must reply within 15 days of the request.
+
+11.6 整改期
+CN：对于可补救的违约，许可方可给予不超过 30 个自然日的整改期；整改期内完全纠正并消除影响的，可恢复使用资格（是否恢复由许可方决定）。
+EN：For curable breaches, the Licensor may grant a Cure Period of up to 30 calendar days; full cure within that period may restore your usage status at the Licensor's discretion.
+
+11.7 终止不影响已产生的责任
+CN：终止不影响终止前已发生的付款义务、赔偿义务与侵权责任。
+EN：Termination does not affect payment, indemnity or infringement liability accrued before termination.
+
+11.8 终止不影响第三方
+CN：终止仅针对您本人；已依 3.6 条合法引用的整合包不因您违约而当然失效。
+EN：Termination applies to you only; modpacks lawfully referencing the Work under 3.6 are not automatically invalidated by your breach.
+
+11.9 恢复使用
+CN：仅在许可方书面同意后，您方可重新获取使用许可；重新获取不豁免此前违约责任。
+EN：You may resume use only with the Licensor's written consent; resumption does not waive prior liability.
+
+11.10 存续条款
+CN：第三条第 3.15–3.17 条、第四条第 4.30 条、第六至十条、第十二至十四条在本许可终止后继续有效。
+EN：Clauses 3.15–3.17, 4.30, Articles 6–10 and 12–14 survive termination.
+
+11.11 版本下架
+CN：许可方下架某版本后，该版本的使用许可即行终止；已合法获得的整合包引用应按 3.7 条处理。
+EN：Withdrawal of a version terminates the license for that version; existing modpack references are handled under 3.7.
+
+11.12 不可抗力
+CN：因不可抗力导致无法履行通知义务的，期限相应顺延。
+EN：Deadlines are extended accordingly where Force Majeure prevents notification.
+
+═══════════════════════════════════════════════════════════════════════
+
+第十二条 违约与救济 / ARTICLE 12 — ENFORCEMENT AND REMEDIES
+
+12.1 违约认定
+CN：未经授权使用、分发、修改、商业化、规避技术措施等行为，均构成对本协议的实质性违约。
+EN：Unauthorized use, distribution, modification, commercialization or circumvention constitutes a material breach.
+
+12.2 停止侵害
+CN：许可方有权要求您立即停止侵害、删除相关内容并公开更正。
+EN：The Licensor may demand immediate cessation, deletion and public correction.
+
+12.3 下架请求
+CN：许可方有权向平台提交下架请求（DMCA / 平台投诉），您应配合不得规避。
+EN：The Licensor may file takedown requests with platforms; you must cooperate and not evade them.
+
+12.4 损害赔偿
+CN：许可方有权主张实际损失、违法所得、合理许可费或法定赔偿（以适用法律允许者为准）。
+EN：The Licensor may claim actual damages, disgorgement of profits, reasonable royalties or statutory damages, as permitted by law.
+
+12.5 禁令救济
+CN：在存在持续或即将发生的侵害时，许可方有权申请临时或永久禁令。
+EN：Where infringement is ongoing or imminent, the Licensor may seek interim or permanent injunctive relief.
+
+12.6 费用承担
+CN：因维权产生的调查费、公证费、律师费、诉讼费由违约方承担（法律允许范围内）。
+EN：Investigation, notarization, attorneys' and litigation costs shall be borne by the breaching party where permitted.
+
+12.7 刑事与行政举报
+CN：对情节严重的侵权行为，许可方有权向主管机关举报。
+EN：For serious infringement, the Licensor may report to competent authorities.
+
+12.8 救济不排斥
+CN：行使一种救济不影响行使其他救济；本协议不限制依法律享有的任何权利。
+EN：Exercising one remedy does not preclude others; this License does not limit any rights available under law.
+
+═══════════════════════════════════════════════════════════════════════
+
+第十三条 适用法律与争议解决 / ARTICLE 13 — GOVERNING LAW AND DISPUTES
+
+13.1 适用法律
+CN：本协议适用许可方主要居所地法律，不影响您所在法域的强制性消费者保护规定。
+EN：This License is governed by the law of the Licensor's principal place of residence, without prejudice to mandatory consumer protection in your jurisdiction.
+
+13.2 协商优先
+CN：争议发生后，双方应先以书面形式善意协商不少于 30 日。
+EN：Parties shall first negotiate in good faith in writing for at least 30 days.
+
+13.3 调解
+CN：协商不成的，可共同委托第三方调解。
+EN：Failing negotiation, the parties may jointly engage a third-party mediator.
+
+13.4 仲裁或诉讼
+CN：调解不成的，任一方可向有管辖权的法院起诉，或依约定提交仲裁。
+EN：Failing mediation, either party may litigate before a competent court or arbitrate as agreed.
+
+13.5 语言
+CN：程序语言为中文或英文，由受理机构决定。
+EN：Proceedings shall be conducted in Chinese or English as determined by the forum.
+
+13.6 消费者保护
+CN：本条不限制您依法享有的消费者投诉与救济渠道。
+EN：This Article does not limit statutory consumer complaint and remedy channels.
+
+13.7 平台争议
+CN：平台内的下架、申诉事项优先适用平台规则与程序。
+EN：Platform takedowns and appeals are primarily governed by platform rules and procedures.
+
+13.8 判决执行
+CN：胜诉方有权在对方资产所在地申请承认与执行。
+EN：The prevailing party may seek recognition and enforcement where assets are located.
+
+═══════════════════════════════════════════════════════════════════════
+
+第十四条 一般条款 / ARTICLE 14 — GENERAL PROVISIONS
+
+14.1 完整协议
+CN：本协议（含附录）构成双方就本作品许可的全部约定，取代此前的口头或书面说明。
+EN：This License including appendices is the entire agreement regarding licensing of the Work and supersedes prior oral or written statements.
+
+14.2 可分割性
+CN：任何条款被认定无效或不可执行时，应在最小必要范围内予以调整，其余条款继续有效。
+EN：If any clause is held invalid or unenforceable, it shall be adjusted to the minimum extent necessary; the remainder stays in effect.
+
+14.3 不弃权
+CN：许可方未行使或延迟行使任何权利，不构成对该权利的放弃。
+EN：Failure or delay in exercising any right is not a waiver of that right.
+
+14.4 转让限制
+CN：您不得转让本协议项下的权利义务；许可方可自由转让其权利。
+EN：You may not assign rights or obligations; the Licensor may freely assign its rights.
+
+14.5 关联方
+CN：您的关联方使用本作品，视为您本人的使用，由您承担全部责任。
+EN：Use by your Affiliates is deemed your use, and you bear full responsibility.
+
+14.6 通知方式
+CN：许可方的通知可通过官方发布源、包内文档或电子邮件发出，自发出之日起视为送达。
+EN：Notices may be given via the Official Source, in-pack documentation or email, and are deemed delivered upon dispatch.
+
+14.7 通知地址
+CN：您的通知地址为您在获取本作品时使用的公开联系方式；缺失时以平台账号为准。
+EN：Your notice address is the public contact used when obtaining the Work, or your platform account if none.
+
+14.8 不可抗力
+CN：因不可抗力导致的部分或全部不能履行，双方在受影响范围内免责。
+EN：Performance prevented by Force Majeure is excused to the affected extent.
+
+14.9 语言效力
+CN：本协议以中文版本为正式文本；英文版本为参考译文。两者冲突时以中文版本为准。任何翻译版本不得减损中文版本授予的保护。
+EN：The Chinese version is the official text; the English version is a reference translation. In case of conflict, the Chinese version prevails. No translation may reduce the protection granted by the Chinese version.
+
+14.10 标题
+CN：条款标题仅为阅读便利，不影响解释。
+EN：Headings are for convenience only.
+
+14.11 解释原则
+CN：条款应按其目的与诚实信用原则解释，不得作有利于违约方的扩张解释。
+EN：Clauses shall be interpreted according to purpose and good faith, not expanded in favor of a breaching party.
+
+14.12 电子接受
+CN：点击、勾选、安装、使用等电子行为均构成有效接受，具有书面签署的同等效力。
+EN：Electronic acts such as clicking, checking, installing or using constitute valid acceptance with the same effect as a written signature.
+
+14.13 记录保存
+CN：许可方与您均应保存与本协议相关的必要记录不少于 3 年。
+EN：Both parties shall retain necessary records for at least 3 years.
+
+14.14 隐私
+CN：许可方不会主动收集您的个人信息；您主动提交的信息仅用于授权与维权。
+EN：The Licensor does not actively collect personal data; information you submit voluntarily is used only for licensing and enforcement.
+
+14.15 出口与制裁
+CN：您声明您不在适用制裁名单内，且不将本作品用于受出口管制的用途。
+EN：You represent that you are not on applicable sanctions lists and will not use the Work for export-controlled purposes.
+
+14.16 无反垄断承诺
+CN：本协议不构成任何形式的搭售、排他或限制竞争安排。
+EN：This License contains no tying, exclusivity or anti-competitive arrangement.
+
+14.17 存续
+CN：依其性质应当存续的条款，在本协议终止后继续有效。
+EN：Clauses that by their nature should survive remain effective after termination.
+
+14.18 联系
+CN：任何与本协议相关的询问，请发送至 license@dawnaurora.dpdns.org。
+EN：All inquiries regarding this License shall be sent to license@dawnaurora.dpdns.org.
+
+═══════════════════════════════════════════════════════════════════════
+
+第十五条 协议版本与修订 / ARTICLE 15 — VERSION AND AMENDMENTS
+
+15.1 版本编号
+CN：本协议版本号为 1.1.0，为 1.0.0 的全面扩充版；条款数量、定义范围与救济手段均有扩展。
+EN：This License is version 1.1.0, an expanded edition of 1.0.0, with broader definitions, more clauses and additional remedies.
+
+15.2 修订权
+CN：许可方有权通过官方发布源发布修订版本。
+EN：The Licensor may publish amended versions via the Official Source.
+
+15.3 生效
+CN：修订版本自公布之日起对新的获取行为生效；此前已合法获得的授权，除非另有说明，继续按获取时的版本执行。
+EN：Amendments apply to new acquisitions from publication; existing lawful grants continue under the version in force at acquisition unless stated otherwise.
+
+15.4 重大变更通知
+CN：涉及权利扩张或限制加重的重大变更，许可方将尽量在官方发布源公告。
+EN：Material changes expanding rights or tightening restrictions will be announced on the Official Source where practicable.
+
+15.5 版本存档
+CN：历史版本应在官方发布源保留可访问记录。
+EN：Historical versions should remain accessible on the Official Source.
+
+15.6 版本冲突
+CN：若不同版本并存且无明确适用说明，以最新版本为准，但不得据此追溯加重已获授权者的义务。
+EN：Where versions coexist without clear applicability, the latest governs, but shall not retroactively aggravate obligations of existing licensees.
+
+═══════════════════════════════════════════════════════════════════════
+
+附录 A 允许 / 禁止 速查表 / APPENDIX A — QUICK REFERENCE
+
+| 行为 / Action | 允许 Allowed | 条件 / Conditions |
+|---|---|---|
+| 个人游玩 Personal play | ✅ | 无限制，个人设备 |
+| 家庭共用 Household use | ✅ | 同住成员 |
+| 非营利服务器 Non-profit server | ✅ | 无付费墙、无特权收费 |
+| 商业服务器 Commercial server | ❌ | 需书面授权 |
+| 非商业整合包引用 Non-commercial modpack | ✅ | 原样文件 + 显著署名 + 免费 + 不单独提供下载 |
+| 单独重新上传本包 Re-upload pack | ❌ | 任何形式均禁止 |
+| 改名换壳 Rename / re-skin | ❌ | 视为再分发 |
+| 修改后发布 Publish modified | ❌ | 演绎作品禁止分发 |
+| 私有参数调整 Private tweak | ⚠️ | 仅限本人设备，不得转交他人 |
+| 视频/直播展示 Video / stream | ✅ | 注明作者与官方源；收益仅限平台广告分成 |
+| 付费教程 Paid tutorial | ❌ | 需书面授权 |
+| 整合包付费售卖 Paid modpack | ❌ | 需书面授权 |
+| 截图 / 缩略图 Screenshots | ✅ | 署名 |
+| 备份 Backup | ✅ | 不得公开提供 |
+| 学习阅读源码 Study source | ✅ | 不得据此做演绎 |
+| AI 训练 AI training | ❌ | 任何形式均禁止 |
+| 反编译 / 解密 Decompile | ❌ | 法定互操作例外除外 |
+| 抽取贴图用于他包 Extract assets | ❌ | 任何形式均禁止 |
+| NFT / 代币 NFT / token | ❌ | 任何形式均禁止 |
+| 再许可 Sublicense | ❌ | 任何形式均禁止 |
+| 移除署名 Remove credit | ❌ | 任何形式均禁止 |
+| 镜像站 Mirror site | ❌ | 任何形式均禁止 |
+
+═══════════════════════════════════════════════════════════════════════
+
+附录 B 常见问题 / APPENDIX B — FAQ（非约束性 Non-binding）
+
+Q1 这是开源协议吗？
+CN：不是。本作品为“源码可见 + 专有许可”，源码可见仅代表您可以阅读，不代表可以修改、分发或商用。
+EN：No. It is Source-Available with a proprietary license. Reading is permitted; modification, distribution and commercial use are not.
+
+Q2 我可以在自己的服务器上用吗？
+CN：非商业服务器可以，只要不设付费墙、不以本作品作为收费卖点。商业服务器需书面授权。
+EN：Yes for non-commercial servers without paywalls or selling access on the basis of the Work. Commercial servers need Written Authorization.
+
+Q3 我能把它放进整合包吗？
+CN：非商业整合包可以，条件是原样引用、显著署名作者与官方源、整合包本身免费、不额外提供独立下载。
+EN：Yes for non-commercial modpacks, provided files are unmodified, credit is prominent, the pack is free and no standalone download is offered.
+
+Q4 我能改一点点自己用吗？
+CN：可以自用，但改过的文件不得以任何形式分享、上传或转交他人。
+EN：You may tweak for personal use, but modified files may not be shared, uploaded or handed to others in any form.
+
+Q5 我能录视频、开直播吗？
+CN：可以，注明作者与官方源即可。收益仅限平台官方广告分成，付费会员专享内容、付费解锁等均需授权。
+EN：Yes with attribution. Revenue is limited to official platform ad-sharing; paid membership or gated content requires authorization.
+
+Q6 我可以把它翻译成别的语言发布吗？
+CN：不可以。翻译属于演绎作品，不得分发。
+EN：No. Translation is a derivative and may not be distributed.
+
+Q7 我能拿它训练 AI 吗？
+CN：不可以，任何形式的数据集构建、微调、风格模仿均需书面授权。
+EN：No. Dataset construction, fine-tuning and style imitation all require Written Authorization.
+
+Q8 我买了别人的“授权版”算数吗？
+CN：不算。只有通过 license@dawnaurora.dpdns.org 出具的可验证授权才有效。
+EN：No. Only verifiable authorization issued via license@dawnaurora.dpdns.org is valid.
+
+Q9 协议改了，我之前获得的授权还算吗？
+CN：算。已合法获得的授权在获取时的版本下继续有效，除非修订版明确说明适用范围。
+EN：Yes. Existing lawful grants continue under the version in force at acquisition unless the amendment states otherwise.
+
+Q10 我不小心违约了怎么办？
+CN：立即停止、删除内容，并主动联系 license@dawnaurora.dpdns.org 说明情况；可补救的情形有机会进入整改期。
+EN：Stop immediately, delete the content and contact license@dawnaurora.dpdns.org. Curable cases may enter the Cure Period.
+
+═══════════════════════════════════════════════════════════════════════
+
+附录 C 书面授权申请模板 / APPENDIX C — AUTHORIZATION REQUEST TEMPLATE
+
+CN：请将下列信息发送至 license@dawnaurora.dpdns.org，主题格式：`[授权申请] 用途 - 名称`
+
+EN：Send the following to license@dawnaurora.dpdns.org, subject: `[License Request] Purpose - Name`
+
+```
+1. 申请人 / Applicant：
+2. 联系方式 / Contact：
+3. 使用场景 / Intended Use（服务器 / 整合包 / 视频 / 商业项目 / 其他）：
+4. 是否涉及收费 / Monetization（是 / 否；如是请说明方式）：
+5. 预计规模 / Scale（人数 / 下载量 / 时长）：
+6. 署名方式 / Attribution Plan：
+7. 拟使用的版本 / Version：
+8. 其他说明 / Notes：
+```
+
+CN：许可方将在合理期限内答复；答复不构成对其他未列明用途的授权。
+EN：The Licensor will respond within a reasonable time; a response does not authorize unlisted uses.
+
+═══════════════════════════════════════════════════════════════════════
+
+接受条款 / ACCEPTANCE
+
+CN：您下载、安装、复制、访问、托管或使用本作品，即表示您已阅读、理解并同意本协议全部条款。
+EN：By downloading, installing, copying, accessing, hosting or using the Work, you confirm that you have read, understood and accepted all terms of this License.
+
+CN：若不同意，请立即停止使用并完全销毁所有副本。
+EN：If you disagree, stop using immediately and completely destroy all copies.
+
+───────────────────────────────────────────────────────────────────────
+
+DawnAurora Universal Proprietary License 1.1.0
+极光通用专有许可协议 1.1.0
+
+Copyright (c) 2026 DawnAurora0221. All Rights Reserved.
+版权所有 (c) 2026 DawnAurora0221。保留所有权利。
+
+官方发布源 Official Source：license.dawnaurora.dpdns.org
+授权联系 Licensing Contact：license@dawnaurora.dpdns.org
+
+───────────────────────────────────────────────────────────────────────
+说明 Note：本协议由作者自行拟定，力求条款完整、边界清晰；正式投入商业分发前，
+建议由您所在法域的专业法律人士复核本地强制法适配性。本文件本身不构成法律意见。
+This document is self-drafted by the author for clarity and completeness; before
+commercial distribution, review by qualified local counsel is recommended. This
+document does not itself constitute legal advice.
+───────────────────────────────────────────────────────────────────────
