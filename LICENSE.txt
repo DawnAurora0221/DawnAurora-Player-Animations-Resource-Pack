@@ -1,5 +1,5 @@
-DawnAurora Universal Proprietary License 1.1.0
-极光通用专有许可协议 1.1.0
+DawnAurora Universal Proprietary License 1.0.0
+极光通用专有许可协议 1.0.0
 ═══════════════════════════════════════════════════════════════════════
 
 Copyright (c) 2026 DawnAurora0221. All Rights Reserved.
@@ -1044,8 +1044,8 @@ EN：If you disagree, stop using immediately and completely destroy all copies.
 
 ───────────────────────────────────────────────────────────────────────
 
-DawnAurora Universal Proprietary License 1.1.0
-极光通用专有许可协议 1.1.0
+DawnAurora Universal Proprietary License 1.0.0
+极光通用专有许可协议 1.0.0
 
 Copyright (c) 2026 DawnAurora0221. All Rights Reserved.
 版权所有 (c) 2026 DawnAurora0221。保留所有权利。
